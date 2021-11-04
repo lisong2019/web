@@ -37,11 +37,12 @@ Membership
 Referee Service (reviewer)
 ======
 1. Transportation Research Board (TRB) Annual Meeting 
-1. COTA International Conference for Transportation Professionals
-2. International Journal of Transportation Science and Technology
+2. Journal of Transportation Engineering, Part A: Systems
 3. Journal of Traffic and Transportation Engineering (English Edition)
-4. Cogent Engineering
-5. Connection Science <br>
+6. International Journal of Transportation Science and Technology
+7. COTA International Conference for Transportation Professionals
+8. Cogent Engineering
+9. Connection Science <br>
 
 Vistors
 ------
