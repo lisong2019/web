@@ -30,13 +30,13 @@ author_profile: true
         <td><a href="https://online.fliphtml5.com/jkjxu/hgpn/?1615675920316#p=14">Spotlight</a></td>
     </tr>
       <tr>
-        <td>row 2, cell 1</td>
-        <td>row 2, cell 2</td>
-        <td>row 2, cell 2</td>
-        <td>row 2, cell 2</td>
-        <td>row 2, cell 2</td>
-         <td>row 2, cell 2</td>
-        <td>row 2, cell 2</td>
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+        <td>--</td>
+         <td>--</td>
+        <td>--</td>
     </tr>
         
 </tbody>
