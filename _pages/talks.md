@@ -11,11 +11,11 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 2. **Song, L.**, (2020, Nov.). Multimodal Session. NCSITE Annual Meeting.
 
 **Oral Presentation:** <br>
-1.  **Song, L.**, (2021, Nov.). Traffic signal control in connected and automated environment: a transfer-based deep reinforcement learning approach while accounting for mixed traffic flow on varying information levels. In 2021 4th CAMMSE Research Symposium. Online. 
+1.  **Song, L.**, (2021, Nov.). Impacts of mixed traffic on transfer-based DQN controlled signal intersection. In 2021 4th CAMMSE Research Symposium. Online. (**Honor: Third Oral Presentation Prize**)
 1.  **Song, L.**, (2021, April.).Impacts of CAVs on transfer-based DQN controlled signal intersection: insights from mixed traffic and information levels. CEE Grad Student Symposium Submission 2021. 
 2.  **Song, L.**, (2021, Mar.).Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs: insights from the economic cycle after the Great Recession. 2021 COTA Research Lightning Talk.
 3.  **Song, L.**, (2020, Nov.). Exploring pedestrian injury severities at pedestrian-vehicle crash hotspots with an annual upward trend: a spatiotemporal analysis with latent class random parameter approach. In 2020 3rd CAMMSE Research Symposium. Online. (**Student lightning talks**)
-4. **Song, L.** (2018, Sep.). A novel method of island port‘s transport: automatic guided vehicle approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE). Singapore. (**Honor: Excellent Oral Presentation**)
+4. **Song, L.** (2018, Sep.). A novel method of island port‘s transport: automatic guided vehicle approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE). Singapore. (**Honor: 1st Excellent Oral Presentation**)
 
 **Poster:**<br>
 1. **Song, L.**, Fan, W., Li, Y. (2021). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. North Carolina Department of Transportation Research & Innovation Summit – 2021. NC. United States.
