@@ -22,19 +22,20 @@ author_profile: true
 <tbody>
     <tr>
         <td>05/2020-07/2022</td>
-        <td>NC Transportation Center of Excellence in Connected and Autonomous Vehicle Technology (NC-CAV)</td>
+        <td>Participate in Research Projects: Impact of Connected and Autonomous Vehicles (CAVs) on North Carolina’s Transportation System and Associated Revenue. 
+           </td>
         <td>Wei Fan </td>
         <td>Research Assistant</td>
-        <td>NCDOT </td>
+        <td>NCDOT, NC Transportation Center of Excellence in Connected and Autonomous Vehicle Technology(NC-CAV) </td>
         <td>(124,547 $) </td>
         <td><a href="https://online.fliphtml5.com/jkjxu/hgpn/?1615675920316#p=14">Spotlight</a></td>
     </tr>
       <tr>
-        <td>--</td>
-        <td>--</td>
-        <td>--</td>
-        <td>--</td>
-        <td>--</td>
+        <td>2020-05/2022</td>
+        <td>Spatiotemporal Patterns and Crash Injury Factors Identification.</td>
+        <td>Wei Fan </td>
+        <td>Research Assistant</td>
+        <td>USDOT CAMMSE Transportation Research Center</td>
          <td>--</td>
         <td>--</td>
     </tr>
