@@ -4,7 +4,7 @@ layout: archive
 permalink: /Research Interest/
 ---
 
-<table style="width:100%; font-size:24px;">
+<table style="width:100%; font-size:22px;">
     <thead>
 	<tr>
 		<th width="50%">[Research Aim](http://www.humanbusiness.eu/purpose-venn-diagram/) </th>
