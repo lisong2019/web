@@ -7,7 +7,7 @@ author_profile: true
 
 # Main Projects:
 
-<table style="width:100%; font-size:16px;">
+<table style="width:100%; font-size:22px;">
    <thead>
     <tr>
         <th width="10%">Period</th>
@@ -44,7 +44,6 @@ author_profile: true
 </table>     
 
 # Selected Awards:
-
 ## International Level
 2021 “Don Blackburn Memorial Scholarship”, North Carolina Section of the Institute of Transportation Engineers, NC, USA (1%, 21) <br>
 2021 “Paul D. Cribbins Cup” NCSITE, USA (1%, 4) <br>
