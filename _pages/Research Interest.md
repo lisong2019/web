@@ -49,8 +49,10 @@ permalink: /Research Interest/
 	</tbody>
 </table>      
 
+# SELECTED RESEARCH
+-----
 
-# METHODOLOGY
+# METHODOLOGIES
 -----
 <table style="width:100%; font-size:16px;">
     <thead>
