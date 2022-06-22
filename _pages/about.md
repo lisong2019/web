@@ -20,7 +20,7 @@ Contact Information:
 Education 
 ======
 **University of North Carlonia at Charlotte**<br>
-1). 2019/8-2022/8, PhD candidate, INES program (Intelligent Transportation System) <br>
+1). 2019/8-2022/8, Ph.D., INES program (Intelligent Transportation System) <br>
 2). 2020/9-2022/8 Research Assistant of USDOT CAMMSE and NC-CAV Transportation Center<br>
 3). 2019/8-2020/8 Teaching Assistant<br>
 **Harbin Institute of Technology**<br>
