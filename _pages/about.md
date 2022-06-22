@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Li Song (宋力) will be an Associate Professor in School of Transportation and Logistics Engineering at the Wuhan University of Technology in the Fall, 2022. Dr. Li got the Ph.D. degree in Transportation at the University of North Carolina at Charlotte in Augest, 2022. Before that, he received the M. S. degree in Transportation Engineering from Harbin Institute of Technology in 2019 and the B. S. degree in Transportation from Shanghai Maritime University in 2017. 
+Li Song (宋力) will be an Associate Professor in School of Transportation and Logistics Engineering at the Wuhan University of Technology in the Fall, 2022. Dr. Li got the Ph.D. degree in Transportation at the University of North Carolina at Charlotte in Augest, 2022. Before that, he received the M. S. degree in Transportation Engineering from Harbin Institute of Technology in 2019 and the B. S. degree in Transportation from Shanghai Maritime University in 2017. <br>
 Dr Li's research mainly focuses on analyzing the influence of Connected and Automated Vehicles (CAVs) on intelligent transportation systems and investigating the transportation big data with statistics and emerging technologies. In respect of methodologies, Li's research mainly includes control strategy for intelligent vehicles/systems, simulation, and deep reinforcement learing methods. Meanwhile, my research on data analysis mainly includes statistics and machine learning approaches. Moreover, I also interest in emerging technologies that would change the future transportation systems.<br>
 
 <i> <b> Fllow your heart, and the rest will follow. </b> </i>
