@@ -23,12 +23,10 @@ permalink: /Research Interest/
 	<tbody>
 		<tr id="interest1" class="entry">
 		      <td>
-			<div class="polaroid">
 			  <img src="../images/transportation_300_500.png" width="600" class="research_img">
-			  
-			</div>
 		      </td>
-		      <td>Connected and Autonomous Vehicle</td>
+		      <td>Connected and Autonomous Vehicle
+			</td>
 		      <td>Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis<br>
 			       <!-- <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
 				 [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
