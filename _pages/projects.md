@@ -5,7 +5,7 @@ permalink: /Projects/
 author_profile: true
 ---
 
-# Projects:
+# Main Projects:
 
 <table style="width:100%; font-size:16px;">
    <thead>
@@ -32,7 +32,7 @@ author_profile: true
     </tr>
       <tr>
         <td>2020-05/2022</td>
-        <td>Spatiotemporal Patterns and Crash Injury Factors Identification.</td>
+        <td>Participate in Research: Spatiotemporal Patterns and Crash Injury Factors Identification.</td>
         <td>Wei Fan </td>
         <td>Research Assistant</td>
         <td>USDOT CAMMSE Transportation Research Center</td>
@@ -43,10 +43,11 @@ author_profile: true
 </tbody>
 </table>     
 
-# Awards:
+# Selected Awards:
 
 ## International Level
-2021 "NCSITE Tier III Don Blackburn Memorial Scholarship", NCSITE, USA (1%, 21)  
+2021 “Don Blackburn Memorial Scholarship”, North Carolina Section of the Institute of Transportation Engineers, NC, USA (1%, 21) <br>
+2021 “Paul D. Cribbins Cup” NCSITE, USA (1%, 4) <br>
 2021 "Third Prize Oral Presentation," 4th CAMMSE Research Symposium 2021, USA (5%, 18) <br>
 2018 “Excellent Oral Presentation”, International Conference of Intelligent Transportation Engineering (ICITE 2018)，Singapore (5%, 116)  
 2016 “Honorable Mention”, The Mathematical Contest in Modeling (20%, 37338)  
@@ -59,17 +60,12 @@ author_profile: true
 2015 “First Prize”, Undergraduate Mathematical Contest In Modeling, Shanghai  
 
 ## School Level
-2018 “Excellent Students” (12%, 34)  
-2018 “First-Class Scholarship for Postgraduates” (40%, 34)  
+2018 “First-Class Scholarship for Postgraduates” & “Excellent Students” (12%, 34) (40%, 34)  
 2017 “Recommended for Postgraduate Student without Examination” (2%, 4147)  
 2017 “Excellent Dissertation of Shanghai Maritime University” (5%, 113)  
-2017 “Representative in Academic Atmosphere Construction” (1%,113)  
 2016 “School Principal Scholarship” & “Excellent Student” (2%, 113)  
-2016 “Excellent Individual in Academic Atmosphere Construction” (1%,113)  
 2015 “School Principal Scholarship” & “Excellent students” (2%,113)  
-2015 “Third Prize”, SMU Challenge Cup  
-2014 “School Second-class Scholarship” & “Triple-A student” (5%, 198)  
-2014 “Spiritual Civilization Advanced Student in Community” (1%, 113)  
+
 
 
 <!--
