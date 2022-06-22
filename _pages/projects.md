@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects and Awards"
-permalink: /Projects/
+permalink: /Projects and Awards/
 author_profile: true
 ---
 
