@@ -7,7 +7,8 @@ permalink: /Research Interest/
 <table style="width:100%; font-size:22px;">
     <thead>
 	<tr>
-		<th width="50%">[Research Aim](http://www.humanbusiness.eu/purpose-venn-diagram/) </th>
+		<th width="50%">
+			<a href="http://www.humanbusiness.eu/purpose-venn-diagram/">Research Aim</a> </th>
 		<th width="50%">Explore the Unknown</th>
 	</tr>
     </thead>
@@ -15,7 +16,7 @@ permalink: /Research Interest/
 		<tr id="row2col1" class="entry">
 			<td> <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="600" class="research_img">
 			</td>
-			<td>But why, some say, the moon? <br /> Why choose this as our goal? <br /> And they may well ask why climb the highest mountain? <br /> Why, 35 years ago, fly the Atlantic? <br /> Why does Rice play Texas? <br /> We choose to go to the moon.  <br /> We choose to go to the moon in this decade and do the other things, <br /> not because they are easy, but because they are hard. <br />  ---<cite> John F. Kennedy - [Moon Speech](https://er.jsc.nasa.gov/seh/ricetalk.htm) - September 12, 1962</cite> 
+			<td>But why, some say, the moon? <br /> Why choose this as our goal? <br /> And they may well ask why climb the highest mountain? <br /> Why, 35 years ago, fly the Atlantic? <br /> Why does Rice play Texas? <br /> We choose to go to the moon.  <br /> We choose to go to the moon in this decade and do the other things, <br /> not because they are easy, but because they are hard. <br />  ---<cite> John F. Kennedy - <a href="https://er.jsc.nasa.gov/seh/ricetalk.htm">Moon Speech</a> - September 12, 1962</cite> 
 			</td>
 		</tr>
 	</tbody>
