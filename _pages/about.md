@@ -7,20 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Li Song (宋力) is a Ph.D. candidate major in Transportation at the University of North Carolina at Charlotte. Currently, I focus on analyzing the influence of intelligent vehicles on transportation systems and exploring the transportation big data with statistics and emerging technologies. In respect of methodologies, my research on intelligent vehicle technologies mainly includes control strategy, simulation, and optimization methods. Meanwhile, my research on data analysis mainly includes statistics and machine learning approaches. Moreover, I also interest in emerging technologies that would change the future transportation systems.<br>
+Li Song (宋力) will be an Associate Professor in School of Transportation and Logistics Engineering at the Wuhan University of Technology in the Fall, 2022. Dr. Li got the Ph.D. degree in Transportation at the University of North Carolina at Charlotte in Augest, 2022. Before that, he received the M. S. degree in Transportation Engineering from Harbin Institute of Technology in 2019 and the B. S. degree in Transportation from Shanghai Maritime University in 2017. 
+Dr Li's research mainly focuses on analyzing the influence of Connected and Automated Vehicles (CAVs) on intelligent transportation systems and investigating the transportation big data with statistics and emerging technologies. In respect of methodologies, Li's research mainly includes control strategy for intelligent vehicles/systems, simulation, and deep reinforcement learing methods. Meanwhile, my research on data analysis mainly includes statistics and machine learning approaches. Moreover, I also interest in emerging technologies that would change the future transportation systems.<br>
 
 <i> <b> Fllow your heart, and the rest will follow. </b> </i>
 
 Contact Information:
 ======
-1. Email Address: a） `345536290@qq.com `; b) `lisong2019uncc@gmail.com `; c) `lsong1@uncc.edu `; <br>
+1. Email Address: a） `345536290@qq.com `; b) `lisong2019uncc@gmail.com `; c) `lsong1@uncc.edu`; <br>
 1. WeChat:  `sl345536290 `<br>
 
 Education 
 ======
 **University of North Carlonia at Charlotte**<br>
-1). 2019/8-Now, PhD candidate, INES program (Intelligent Transportation System) <br>
-2). 2020/9-Now Research Assistant of CAMMSE<br>
+1). 2019/8-2022/8, PhD candidate, INES program (Intelligent Transportation System) <br>
+2). 2020/9-2022/8 Research Assistant of USDOT CAMMSE and NC-CAV Transportation Center<br>
 3). 2019/8-2020/8 Teaching Assistant<br>
 **Harbin Institute of Technology**<br>
 1). 2017/9 to 2019/6, MS, Transportation Planning and Management
@@ -31,7 +32,7 @@ GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 
 Membership
 ======
-1. 2020/9-NOW, President, ITE student chapter of UNCC.
+1. 2020/9-2021/10, President, ITE student chapter of UNCC.
 1. 2019/6-NOW, Member, Chinese Overseas Transportation Association (COTA). 
 
 Referee Service (reviewer)
@@ -42,7 +43,8 @@ Referee Service (reviewer)
 6. International Journal of Transportation Science and Technology
 7. COTA International Conference for Transportation Professionals
 8. Cogent Engineering
-9. Connection Science <br>
+9. Connection Science 
+10. Plos One<br>
 
 Vistors
 ------
