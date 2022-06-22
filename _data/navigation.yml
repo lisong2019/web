@@ -11,7 +11,7 @@ main:
     url: /talks/       
     
   - title: "Projects"
-    url: /Projects/
+    url: /Projects and Awards/
     
   - title: "Teaching"
     url: /teaching/
@@ -23,5 +23,5 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /Contact/
     
