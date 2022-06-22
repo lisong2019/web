@@ -41,7 +41,7 @@ permalink: /Research Interest/
 			  <img src="../images/cavs_p1.jpg" width="600" class="research_img">
 		      </td>
 		      <td><mark>Connected and Autonomous Vehicle</mark></td>
-		      <td>- [x]Intelligent vehicle technologies;  - [x] Simulation and impacts analysis - [] Optimal and control method;<br>
+		      <td>Intelligent vehicle technologies; <br />Simulation and impacts analysis <br /> Optimal and control method;<br>
 			       <!-- <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
 				 [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
 				  [<a href="http://tps.uwstarlab.org/">Website</a>]
