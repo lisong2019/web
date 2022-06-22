@@ -27,7 +27,7 @@ permalink: /Research Interest/
 # RESEARCH INTEREST
 -----
 
-<table style="width:100%; font-size:16px;">
+<table style="width:100%; font-size:22px;">
     <thead>
 	<tr>
 		<th width="25%">Highlight</th>
@@ -69,7 +69,7 @@ permalink: /Research Interest/
 
 # METHODOLOGIES
 -----
-<table style="width:100%; font-size:16px;">
+<table style="width:100%; font-size:22px;">
     <thead>
 		<tr>
 			<th width="25%">Statement</th>
