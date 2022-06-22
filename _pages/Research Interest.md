@@ -25,7 +25,7 @@ permalink: /Research Interest/
 		      <td>
 			<div class="polaroid">
 			  <img src="../images/transportation_300_500.png" width="600" class="research_img">
-			  <div class="container">Connected and Autonomous Vehicle</div>
+			  
 			</div>
 		      </td>
 		      <td>Connected and Autonomous Vehicle</td>
