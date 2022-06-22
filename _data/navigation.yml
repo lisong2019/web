@@ -8,14 +8,17 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /talks/       
     
   - title: "Projects"
     url: /Projects/
-        
+    
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Teams"
+    url: /Teams/
+    
   - title: "Blog Posts"
     url: /year-archive/
     
