@@ -3,10 +3,9 @@ title: "Research Interest"
 layout: archive
 permalink: /Research Interest/
 ---
-| Research Aim | Description |
+| Research Aim |  |
 | --- | ----------- |
-| <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%"> | But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas? We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.
-> John F. Kennedy Moon Speech - September 12, 1962 |
+| <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%"> | But why, some say, the moon? <br /> Why choose this as our goal? <br /> And they may well ask why climb the highest mountain? <br /> Why, 35 years ago, fly the Atlantic? <br /> Why does Rice play Texas? <br /> We choose to go to the moon.  <br /> We choose to go to the moon in this decade and do the other things, <br /> not because they are easy, but because they are hard. <br /> > John F. Kennedy Moon Speech - September 12, 1962 |
 
 
 
@@ -28,7 +27,7 @@ permalink: /Research Interest/
 		      <td>
 			  <img src="../images/cavs_p1.jpg" width="600" class="research_img">
 		      </td>
-		      <td>Connected and Autonomous Vehicle </td>
+		      <td>==Connected and Autonomous Vehicle== </td>
 		      <td>Intelligent vehicle technologies; Optimal and control method; Simulation and impacts analysis<br>
 			       <!-- <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
 				 [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
