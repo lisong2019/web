@@ -8,11 +8,10 @@ permalink: /Research Interest/
     <thead>
 	<tr>
 		<th width="50%">Research Aim </th>
-		<th width="50%"></th>
+		<th width="50%"> </th>
 	</tr>
     </thead>
 	<tbody>
-
 		<tr id="row2col1" class="entry">
 			<td> <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="600" class="research_img">
 			</td>
