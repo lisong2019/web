@@ -5,14 +5,7 @@ permalink: /Research Interest/
 ---
 | Research Aim | Description |
 | --- | ----------- |
-| <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%"> | But why, some say, the moon? 
-Why choose this as our goal? 
-And they may well ask why climb the highest mountain? 
-Why, 35 years ago, fly the Atlantic? 
-Why does Rice play Texas?
-We choose to go to the moon. 
-We choose to go to the moon in this decade and do the other things, 
-not because they are easy, but because they are hard.
+| <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="50%" height="50%"> | But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas? We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.
 > John F. Kennedy Moon Speech - September 12, 1962 |
 
 
