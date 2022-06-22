@@ -5,10 +5,7 @@ main:
     url: /Research Interest/
     
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/       
+    url: /publications/  
     
   - title: "Projects"
     url: /Projects and Awards/
@@ -16,12 +13,15 @@ main:
   - title: "Teaching"
     url: /teaching/
     
+  - title: "Talks"
+    url: /talks/    
+    
   - title: "Teams"
     url: /Teams/
     
-  - title: "Blog Posts"
+  - title: "News"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Contact"
     url: /Contact/
     
