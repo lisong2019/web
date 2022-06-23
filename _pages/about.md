@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Li Song (宋力) will be an Associate Professor in School of Transportation and Logistics Engineering at the Wuhan University of Technology in the Fall, 2022. Dr. Li got the Ph.D. degree in Transportation at the University of North Carolina at Charlotte in Augest, 2022. Before that, he received the M. S. degree in Transportation Engineering from Harbin Institute of Technology in 2019 and the B. S. degree in Transportation from Shanghai Maritime University in 2017. <br>
+Li Song (宋力) will be an Associate Professor in School of Transportation and Logistics Engineering at the Wuhan University of Technology in the Fall, 2022. Dr. Li got the Ph.D. degree of Transportation in the University of North Carolina at Charlotte in Augest, 2022. Before that, he received the M. S. degree in Transportation Engineering from Harbin Institute of Technology in 2019 and the B. S. degree in Transportation from Shanghai Maritime University in 2017. <br>
+
 Dr Li's research mainly focuses on analyzing the influence of Connected and Automated Vehicles (CAVs) on intelligent transportation systems and investigating the transportation big data with statistics and emerging technologies. In respect of methodologies, Li's research mainly includes control strategy for intelligent vehicles/systems, simulation, and deep reinforcement learing methods. Meanwhile, my research on data analysis mainly includes statistics and machine learning approaches. Moreover, I also interest in emerging technologies that would change the future transportation systems.<br>
 
-<i> <b> Fllow your heart, and the rest will follow. </b> </i>
+<i> <b> > Fllow your heart, and the rest will follow. </b> </i>
 
 Contact Information:
 ======
@@ -20,7 +21,7 @@ Contact Information:
 Education 
 ======
 **University of North Carlonia at Charlotte**<br>
-1). 2019/8-2022/8, Ph.D., INES program (Intelligent Transportation System) <br>
+1). 2019/8-2022/8, Ph.D., INES program (Transportation System) <br>
 2). 2020/9-2022/8 Research Assistant of USDOT CAMMSE and NC-CAV Transportation Center<br>
 3). 2019/8-2020/8 Teaching Assistant<br>
 **Harbin Institute of Technology**<br>
