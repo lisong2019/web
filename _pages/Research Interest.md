@@ -14,7 +14,7 @@ permalink: /Research Interest/
     </thead>
 	<tbody>
 		<tr id="row2col1" class="entry">
-			<td> <img src="https://raw.githubusercontent.com/lisong2019/lisong.github.io/master/images/researchAIM.png" width="600" class="research_img">
+			<td> <img src="../images/researchAIM.png" width="600" class="research_img">
 			</td>
 			<td>But why, some say, the moon? <br /> Why choose this as our goal? <br /> And they may well ask why climb the highest mountain? <br /> Why, 35 years ago, fly the Atlantic? <br /> Why does Rice play Texas? <br /> We choose to go to the moon.  <br /> We choose to go to the moon in this decade and do the other things, <br /> not because they are easy, but because they are hard. <br />  ---<cite> John F. Kennedy - <a href="https://er.jsc.nasa.gov/seh/ricetalk.htm">Moon Speech</a> - September 12, 1962</cite> 
 			</td>
