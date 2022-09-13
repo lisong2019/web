@@ -11,7 +11,7 @@ author_profile: true
 
 # Selected Awards:
 ## International Level
-2022 
+2022 **“2021 Chinese Government Award for Outstanding Self-financed Students Abroad”**, China Scholarship Council (600, NA) <br>
 2021 **“Don Blackburn Memorial Scholarship”**, North Carolina Section of the Institute of Transportation Engineers, NC, USA (1%, 21) <br>
 2021 **“Paul D. Cribbins Cup”**, NCSITE, USA (1%, 4) <br>
 2021 **"Third Prize Oral Presentation"**, 4th CAMMSE Research Symposium 2021, USA (5%, 18) <br>
@@ -31,7 +31,6 @@ author_profile: true
 2017 **“Excellent Dissertation of Shanghai Maritime University”** (5%, 113)  
 2016 **“School Principal Scholarship” & “Excellent Student”** (2%, 113)  
 2015 **“School Principal Scholarship” & “Excellent students”** (2%,113)  
-
 
 
 <!--
