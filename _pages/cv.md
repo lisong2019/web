@@ -16,11 +16,8 @@ I would be very glad to discuss about any opportunity for cooperations and jobs.
 <table style="width:100%">
     <thead>
 		<tr>
-			<th width="25%">Highlight</th>
-			<th width="13%">Authors</th>
-			<th width="40%">Title</th>
-			<th width="2%">Year</th>
-			<th width="20%">Journal/Proceedings</th>
+			<th width="100%">CV</th>
+
 		</tr>
     </thead>
 	<tbody>
