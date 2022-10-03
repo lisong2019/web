@@ -15,7 +15,7 @@ Dr. Li's research mainly focuses on analyzing the influence of Connected and Aut
 
 Contact Information:
 ======
-1. Email Address: a） `345536290@qq.com `; b) `lisong2019uncc@gmail.com `; c) `lsong1@uncc.edu`; <br>
+1. Email Address: a） `345536290@qq.com `; b) `lisong2019uncc@gmail.com `; c) `lisong1@whut.edu.cn`; <br>
 1. WeChat:  `sl345536290 `<br>
 
 Education 
