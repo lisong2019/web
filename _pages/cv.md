@@ -12,11 +12,26 @@ I would be very glad to discuss about any opportunity for cooperations and jobs.
 4. Linkedin: <a href="https://www.linkedin.com/in/li-song-a388821a0/ ">Click Here</a>
 
 ## CV-English (UPDATED IN 2022/07)
+
+<table style="width:100%">
+    <thead>
+		<tr>
+			<th width="25%">Highlight</th>
+			<th width="13%">Authors</th>
+			<th width="40%">Title</th>
+			<th width="2%">Year</th>
+			<th width="20%">Journal/Proceedings</th>
+		</tr>
+    </thead>
+	<tbody>
+<tr id="cui2020traffic" class="entry">
 [<a href="javascript:toggleInfo('CV-English','cv')">CV English</a>]
+ </tr>
  <tr id="CV-English" class="cv noshow">
          <div align="justify"> <embed src="../files/Li-SONG-CV- uncc202205.pdf" type="application/pdf" height="330px"/></div>
         </tr>
-
+	</tbody>
+</table>
 
 
 ## CV-Chinese (UPDATED IN 2022/07)
