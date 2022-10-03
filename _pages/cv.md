@@ -13,6 +13,12 @@ I would be very glad to discuss about any opportunity for cooperations and jobs.
 
 ## CV-English (UPDATED IN 2022/07)
 
+<embed src="../files/Li-SONG-CV- uncc202205.pdf" type="application/pdf" height="330px"/>
+
+## CV-Chinese (UPDATED IN 2022/07)
+<embed src="../files/lisong-CN-2022-10.pdf" type="application/pdf" height="330px"/>
+
+<!--
 <table style="width:100%">
     <thead>
 		<tr>
@@ -25,11 +31,8 @@ I would be very glad to discuss about any opportunity for cooperations and jobs.
 [<a href="javascript:toggleInfo('CV-English','cv')">CV English</a>]
  </tr>
  <tr id="CV-English" class="cv noshow">
-         <div align="justify"> <embed src="../files/Li-SONG-CV- uncc202205.pdf" type="application/pdf" height="330px"/></div>
+         <div align="justify"> </div>
         </tr>
 	</tbody>
 </table>
-
-
-## CV-Chinese (UPDATED IN 2022/07)
-<embed src="../files/lisong-CN-2022-10.pdf" type="application/pdf" height="330px"/>
+-->
