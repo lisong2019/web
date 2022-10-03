@@ -13,5 +13,5 @@ I would be very glad to discuss about any opportunity for cooperations and jobs.
 
 
 ## CV (UPDATED IN 2022/07)
-<embed src=".../files/Li-SONG-CV- uncc202205.pdf" type="application/pdf" height="330px"/>
+<embed src="../files/Li-SONG-CV- uncc202205.pdf" type="application/pdf" height="330px"/>
 
