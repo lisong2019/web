@@ -20,7 +20,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 **Publication:**  
 ====== 
-_**Total: 20 ；SCI: 17； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+_**Total: 22 ；SCI: 19； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 1. Yang, T., Fan, W. and **<u>Song, L.,</u>** Modelling Pedestrian Injury Severity in Pedestrian-Vehicle Crashes Considering Different Land Use Patterns: Mixed Logit Approach, Accepted for Publication, <i>Traffic Injury Prevention</i>, 2022. (**SCI, IF:1.5**)
 2. Hua, C., Fan, W., **<u>Song, L.</u>** and Liu, S., Analyzing the Injury Severity in Overturn Crashes Involving Sport Utility Vehicles: A Latent Class Clustering and Random Parameter Logit Model, <i>ASCE Journal of Transportation Engineering, Part A: Systems</i>, 2022. (**SCI, IF:2.3**)
 1. Wu, P., **<u>Song, L.,</u>** Meng, X.# (2022). Temporal analysis of cellphone-use-involved crash injury severities: Calling for preventing cellphone-use-involved distracted driving. <i>Accident Analysis and Prevention</i>, 169, 106625. (**SCI, Q1, IF:5.0**)
