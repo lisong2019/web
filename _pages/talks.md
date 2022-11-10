@@ -11,6 +11,7 @@ Including conference of hosting, oral presentation, poster, and attendance only.
 2. **Song, L.**, (2020, Nov.). Multimodal Session. NCSITE Annual Meeting.
 
 **Oral Presentation:** <br>
+1.  **Song, L.**, (2022, Nov.). Performance of State-Shared Multi-Agent Deep Reinforcement Learning Controlled Signal Corridor with Platooning-Based CAVs. In 2022 5th CAMMSE Research Symposium. Online. 
 1.  **Song, L.**, (2021, Nov.). Impacts of mixed traffic on transfer-based DQN controlled signal intersection. In 2021 4th CAMMSE Research Symposium. Online. (**Honor: Third Oral Presentation Prize**)
 1.  **Song, L.**, (2021, April.).Impacts of CAVs on transfer-based DQN controlled signal intersection: insights from mixed traffic and information levels. CEE Grad Student Symposium Submission 2021. 
 2.  **Song, L.**, (2021, Mar.).Time-of-day variations and the temporal instability of multi-vehicle crash injury severities under the influence of alcohol or drugs: insights from the economic cycle after the Great Recession. 2021 COTA Research Lightning Talk.
