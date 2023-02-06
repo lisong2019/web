@@ -38,15 +38,16 @@ Membership
 
 Referee Service (reviewer)
 ======
-1. Transportation Research Record 
-2. Journal of Transportation Engineering, Part A: Systems 
-3. Journal of Traffic and Transportation Engineering (English Edition) 
-4. International Journal of Transportation Science and Technology
-5. Case Studies on Transport Policy 
-6. COTA International Conference for Transportation Professionals 
-7. Cogent Engineering 
-8. Connection Science  
-9. Physica A: Statistical Mechanics and its Applications
+1. IEEE Transactions on Intelligent Transportation Systems
+2. Transportation Research Record 
+3. Journal of Transportation Engineering, Part A: Systems 
+4. Physica A: Statistical Mechanics and its Applications
+5. Journal of Traffic and Transportation Engineering (English Edition) 
+6. International Journal of Transportation Science and Technology
+7. Case Studies on Transport Policy 
+8. COTA International Conference for Transportation Professionals 
+9. Cogent Engineering 
+10. Connection Science  
 <br> 
 
 Vistors
