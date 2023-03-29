@@ -21,7 +21,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 **Publication:**  
 ====== 
 _**Total: 24 ；SCI: 21； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
-1. **<u>Song, L.</u>** and Fan, W.#, (2021). Intersection capacity adjustments considering different market penetration rates of connected and automated vehicles. <i>Transportation Planning and Technology</i>,
+1. **<u>Song, L.</u>** and Fan, W.#, (2023). Intersection capacity adjustments considering different market penetration rates of connected and automated vehicles. <i>Transportation Planning and Technology</i>（**SCI**）
 1. Li, Y., Fan, W., **<u>Song, L.</u>** and Liu, S. (2022). Combining Emerging Hotspots Analysis with XGBoost for Modeling Pedestrian Injuries in Pedestrian-Vehicle Crashes: A Case Study of North Carolina, <i>Journal of Transportation Safety & Security</i>. (**SCI, Q3, IF:3.0**) 
 2. Yang, T., Fan, W. and **<u>Song, L.</u>** (2022). Modelling Pedestrian Injury Severity in Pedestrian-Vehicle Crashes Considering Different Land Use Patterns: Mixed Logit Approach, Accepted for Publication, <i>Traffic Injury Prevention</i>. (**SCI, IF:1.5**)
 3. Hua, C., Fan, W., **<u>Song, L.</u>** and Liu, S. (2022). Analyzing the Injury Severity in Overturn Crashes Involving Sport Utility Vehicles: A Latent Class Clustering and Random Parameter Logit Model, <i>ASCE Journal of Transportation Engineering, Part A: Systems</i>. (**SCI, IF:2.3**)
