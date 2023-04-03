@@ -20,7 +20,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 **Publication:**  
 ====== 
-_**Total: 24 ；SCI: 21； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+_**Total: 25 ；SCI: 22； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 1. **<u>Song, L.</u>** and Fan, W.#, (2023). Performance of State-Shared Multi-Agent Deep Reinforcement Learning Controlled Signal Corridor with Platooning-Based CAVs,  <i>ASCE Journal of Transportation Engineering, Part A: System</i>,（**SCI, IF:2.252**）
 4. **<u>Song, L.</u>** and Fan, W.#, (2023). Intersection capacity adjustments considering different market penetration rates of connected and automated vehicles. <i>Transportation Planning and Technology</i>（**SCI**）
 5. Li, Y., Fan, W., **<u>Song, L.</u>** and Liu, S. (2022). Combining Emerging Hotspots Analysis with XGBoost for Modeling Pedestrian Injuries in Pedestrian-Vehicle Crashes: A Case Study of North Carolina, <i>Journal of Transportation Safety & Security</i>. (**SCI, Q3, IF:3.0**) 
