@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Li Song (宋力) is currently an Associate Professor in the School of Transportation and Logistics Engineering at the Wuhan University of Technology in the Fall of 2022. Dr. Li got his Ph.D. degree in Transportation from the University of North Carolina at Charlotte in August 2022. Before that, he received the M. S. degree in Transportation Engineering from Harbin Institute of Technology in 2019 and the B. S. degree in Transportation from Shanghai Maritime University in 2017. <br>
+Li Song (宋力) is currently an Associate Professor in the School of Transportation and Logistics Engineering at the Wuhan University of Technology starting in the Fall of 2022. Dr. Li got his Ph.D. in Transportation from the University of North Carolina at Charlotte in August 2022. Before that, he received an M. S. degree in Transportation Engineering from the Harbin Institute of Technology in 2019 and a B. S. degree in Transportation from Shanghai Maritime University in 2017. <br>
 
-Dr. Li's research mainly focuses on analyzing the influence of Connected and Automated Vehicles (CAVs) on intelligent transportation systems and investigating transportation big data with statistics and emerging technologies. In respect of methodologies, Li's research mainly includes control strategy for intelligent vehicles/systems, simulation, and deep reinforcement learning methods. Meanwhile, his research on data analysis mainly includes statistics and machine learning approaches. Moreover, he is interested in emerging technologies that would change future transportation systems.<br>
+Dr. Li's research mainly focuses on analyzing the influence of Connected and Automated Vehicles (CAVs) on intelligent transportation systems and investigating transportation big data with statistics and emerging technologies. In respect of methodologies, Li's research mainly includes control strategies for intelligent transportation systems, simulation, and deep reinforcement learning methods. Meanwhile, his research on data analysis mainly includes statistics and machine learning approaches. Moreover, he is interested in emerging technologies that would change future transportation systems.<br>
 For Chinese website: <https://stle.whut.edu.cn/xygk/szdw/jgml/202210/t20221006_887992.shtml>
 
-> <i> <b> Fllow your heart, and the rest will follow. </b> </i>
+> <i> <b> Follow your heart, and the rest will follow. </b> </i>
 
 Contact Information:
 ======
@@ -21,16 +21,16 @@ Contact Information:
 
 Education 
 ======
-**University of North Carlonia at Charlotte**<br>
+**University of North Carolina at Charlotte**<br>
 1). 2019/8-2022/8, Ph.D., INES program (Transportation System) <br>
 2). 2020/9-2022/8 Research Assistant of USDOT CAMMSE and NC-CAV Transportation Center<br>
 3). 2019/8-2020/8 Teaching Assistant<br>
 **Harbin Institute of Technology**<br>
 1). 2017/9 to 2019/6, MS, Transportation Planning and Management
-GPA : 3.35/4.0; Rank: 2/30<br>
+GPA: 3.35/4.0; Rank: 2/30<br>
 **Shanghai Maritime University**<br>
 1). 2013/9-2017/6, BS, Transport and Communication 
-GPA : 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
+GPA: 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 
 Membership
 ======
@@ -52,7 +52,7 @@ Referee Service (reviewer)
 11. Connection Science  
 <br> 
 
-Vistors
+Visitors
 ------
 <!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5xudi87gfgs&amp;m=0&amp;c=00fff6&amp;cr1=ff0000&amp;br=5&amp;lo=84&amp;oo=51&amp;sx=0" async="async">
  -->
