@@ -7,9 +7,9 @@ permalink: /Research Interest/
 <table style="width:100%; font-size:22px;">
     <thead>
 	<tr>
-		<th width="50%">
+		<th width="30%">
 			<a href="http://www.humanbusiness.eu/purpose-venn-diagram/">Research Aim</a> </th>
-		<th width="50%">Explore the Unknown</th>
+		<th width="70%">Explore the Unknown</th>
 	</tr>
     </thead>
 	<tbody>
