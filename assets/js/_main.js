@@ -96,3 +96,44 @@ $(document).ready(function(){
   });
 
 });
+
+var toggleInfo = function(articleid,info) {
+
+  var entry = document.getElementById(articleid);
+  var abs = document.getElementById('dis_'+articleid);
+  var bib = document.getElementById('awd_'+articleid);
+
+  if (abs && info == 'Dissertation') {
+    if(abs.className.indexOf('Dissertation') != -1) {
+    abs.className.indexOf('noshow') == -1?abs.className = 'Dissertation noshow':abs.className = 'Dissertation';
+    }
+  } else if (bib && info == 'Awards') {
+    if(bib.className.indexOf('Awards') != -1) {
+    bib.className.indexOf('noshow') == -1?bib.className = 'Awards noshow':bib.className = 'Awards';
+    }
+  } else {
+    return;
+  }
+
+  // check if one or the other is available
+  var absshow = false;
+  var bibshow = false;
+  (abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
+  (bib && bib.className == 'Awards')? bibshow = true: bibshow = false;
+
+  // highlight original entry
+  if(entry) {
+    if (absshow || bibshow) {
+    entry.className = 'entry highlight show';
+    } else {
+    entry.className = 'entry show';
+    }
+  }
+
+  // When there's a combination of abstract/review/bibtex showing, need to add class for correct styling
+  if(absshow) {
+    (bibshow)?abs.className = 'Dissertation nextshow':abs.className = 'Dissertation';
+  }
+}
+
+});
