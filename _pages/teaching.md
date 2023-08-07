@@ -11,7 +11,7 @@ author_profile: true
 2. Integrated experiment of vehicle networking and vehicle-road collaboration (4180679170), 2022;   <be>   
 
 
-# Graduate Student Course: **
+# Graduate Student Course: 
 <br>
 1. CAV safety theory and method (00212069), 2022; <br>
 2. Transportation system management and control (Intelligent transportation system part, 00223005), 2022;  <br>
