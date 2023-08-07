@@ -32,7 +32,7 @@ author_profile: true
       <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/research/cui2020traffic.png" width="600" class="research_img">
+          <img src="../images/stud/shijie_li.jpg" width="800" class="research_img">
           <div class="container">
           Shijie Li (李士杰)
           </div>
