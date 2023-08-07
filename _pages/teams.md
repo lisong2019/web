@@ -46,7 +46,6 @@ author_profile: true
 		<p class="infolinks"> 
 		  [<a href="javascript:toggleInfo('2ms2023','Dissertation')">Dissertation</a>]
                   [<a href="javascript:toggleInfo('2ms2023','Awards')">Awards</a>] 
-		  [23-25]
 		</p>
           </div>
         </div>
