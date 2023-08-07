@@ -45,8 +45,8 @@ author_profile: true
           <div class="container">
           Pengfei Xu (徐鹏飞)
 		<p class="infolinks"> 
-		  [<a href="javascript:toggleInfo('ms2023','Dissertation')">Dissertation</a>]
-                  [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>] 
+		  [<a href="javascript:toggleInfo('ms2023','Dissertation1')">Dissertation</a>]
+                  [<a href="javascript:toggleInfo('ms2023','Awards1')">Awards</a>] 
 		  [23-25]
 		</p>
           </div>
@@ -60,6 +60,12 @@ author_profile: true
         </tr>
         <tr id="awd_ms2023" class="Awards noshow">
           <td colspan="4"><b>Awards</b>:...TBD....</td>
+        </tr>
+	<tr id="dis1_ms2023" class="Dissertation1 noshow">
+          <td colspan="4"><b>Dissertation</b>: ...TBD1....</td>
+        </tr>
+        <tr id="awd1_ms2023" class="Awards1 noshow">
+          <td colspan="4"><b>Awards</b>:...TBD1....</td>
         </tr>
 	
 	
