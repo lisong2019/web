@@ -29,11 +29,10 @@ author_profile: true
         <div class="polaroid">
           <img src="../images/stud/shijie_li.jpg" hight="600" class="research_img">
           <div class="container">
-          Shijie Li (李士杰)<br>
+          Shijie Li (李士杰) 2023<br>
 		<p class="infolinks"> 
                   [<a href="javascript:toggleInfo('ms2023','Dissertation')">Dissertation</a>]
                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>] 
-		  [23-25]
 		</p>
           </div>
         </div>
@@ -43,7 +42,7 @@ author_profile: true
         <div class="polaroid">
           <img src="../images/stud/pengfei_xu.jpg" hight="600" class="research_img">
           <div class="container">
-          Pengfei Xu (徐鹏飞)
+          Pengfei Xu (徐鹏飞) 2023
 		<!--<p class="infolinks"> 
 		  [<a href="javascript:toggleInfo('ms2023','Dissertation1')">Dissertation</a>]
                   [<a href="javascript:toggleInfo('ms2023','Awards1')">Awards</a>] 
