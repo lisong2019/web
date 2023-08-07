@@ -41,7 +41,7 @@ author_profile: true
 	<td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/stud/pengfei_xu.jpg" height="300" class="research_img">
+          <img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
           <div class="container">
           Pengfei Xu (徐鹏飞) 2023
 		<p class="infolinks"> 
