@@ -30,11 +30,11 @@ author_profile: true
           <img src="../images/stud/shijie_li.jpg"  class="research_img">
           <div class="container">
           Shijie Li (李士杰)<br>
-		 <p class="infolinks"> 
+		<p class="infolinks"> 
                   [<a href="javascript:toggleInfo('ms2023','Dissertation')">Dissertation</a>]
                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>] 
-			[2023-2025]
-		 </p>
+		  [2023-2025]
+		</p>
           </div>
         </div>
       </td>
@@ -56,10 +56,10 @@ author_profile: true
       <td> </td>
       </tr>
         <tr id="dis_ms2023" class="Dissertation noshow">
-          <td colspan="4"><div align="justify"> <b>Dissertation</b>: ...TBD....</div></td>
+          <td colspan="4"><b>Dissertation</b>: ...TBD....</td>
         </tr>
         <tr id="awd_ms2023" class="Awards noshow">
-          <td colspan="4"><div align="justify"><b>Awards</b>:...TBD....</div></td>
+          <td colspan="4"><b>Awards</b>:...TBD....</td>
         </tr>
 	
 	
