@@ -27,7 +27,7 @@ author_profile: true
       <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/stud/shijie_li.jpg"  class="research_img">
+          <img src="../images/stud/shijie_li.jpg" hight="600" class="research_img">
           <div class="container">
           Shijie Li (李士杰)<br>
 		<p class="infolinks"> 
@@ -41,7 +41,7 @@ author_profile: true
 	<td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/stud/pengfei_xu.jpg"  class="research_img">
+          <img src="../images/stud/pengfei_xu.jpg" hight="600" class="research_img">
           <div class="container">
           Pengfei Xu (徐鹏飞)
 		<p class="infolinks"> 
