@@ -4,8 +4,8 @@ title: "Teams"
 permalink: /Teams/
 author_profile: true
 redirect_from:
-- "/teams/"
-- "/teams.html"
+- "/Teams/"
+- "/Teams.html"
 ---
 
 ## For Prospective Students
@@ -24,7 +24,7 @@ redirect_from:
 			<th width="20%">Journal/Proceedings</th>  -->
 		</tr>
     </thead>
-	<tbody>
+<tbody>
     <tr id="ms2023" class="entry">
       <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
@@ -64,16 +64,6 @@ redirect_from:
 </table>
 
 
-<script>
-function toggleInfo() {
-    var infoDiv = document.getElementById("info");
-    if (infoDiv.style.display === "none") {
-        infoDiv.style.display = "block";
-    } else {
-        infoDiv.style.display = "none";
-    }
-}
-</script>
 
 developing...
 
