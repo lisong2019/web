@@ -28,7 +28,7 @@ author_profile: true
       <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/stud/shijie_li.jpg" width="300" class="research_img">
+          <img src="../images/stud/shijie_li.jpg" width="200" class="research_img">
           <div class="container">
           Shijie Li (李士杰) 2023<br>
 		<p class="infolinks"> 
