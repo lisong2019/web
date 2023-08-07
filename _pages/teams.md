@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ## For Prospective Students
-* I'm looking for Master student applicants and undergrad interns. Please feel free to contact me if you are interested in topics including Intelligent Transportation Systems, Big Data Analysis, and etc.
+* I'm looking for Master student applicants and undergrad interns. Please feel free to contact me if you are interested in topics such as Intelligent Transportation Systems, Big Data Analysis, etc.
 
 
 ## Current Research Team:
