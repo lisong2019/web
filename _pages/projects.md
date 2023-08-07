@@ -7,7 +7,7 @@ author_profile: true
 
 # Major Projects:
 2020-2022. **Major Completer**. Impact of Connected and Autonomous Vehicles (CAVs) on North Carolina’s Transportation System and Associated Revenue. NCDOT Project, NC Transportation Center of Excellence in Connected and Autonomous Vehicle Technology(NC-CAV) Sponsored. (124,547 $ Shared) <br>
-2019-2022. **Major Completer**. Spatiotemporal patterns and and Crash Injury Severity Factors Identification. USDOT CAMMSE Transportation Research Center Sponsored. <br>
+2019-2022. **Major Completer**. Spatiotemporal Patterns and Crash Injury Severity Factors Identification. USDOT CAMMSE Transportation Research Center Sponsored. <br>
 
 # Selected Awards:
 ## International Level
@@ -15,7 +15,7 @@ author_profile: true
 2021 **“Don Blackburn Memorial Scholarship”**, North Carolina Section of the Institute of Transportation Engineers, NC, USA (1%, 21) <br>
 2021 **“Paul D. Cribbins Cup”**, NCSITE, USA (1%, 4) <br>
 2021 **"Third Prize Oral Presentation"**, 4th CAMMSE Research Symposium 2021, USA (5%, 18) <br>
-2018 **“Excellent Oral Presentation”**, International Conference of Intelligent Transportation Engineering (ICITE 2018)，Singapore (5%, 116)  
+2018 **“Excellent Oral Presentation”**, International Conference of Intelligent Transportation Engineering (ICITE 2018)， Singapore (5%, 116)  
 2016 **“Honorable Mention”**, The Mathematical Contest in Modeling (20%, 37338)  
 
 ## National Level
@@ -25,12 +25,15 @@ author_profile: true
 2015 **“Shanghai Scholarship”**, (1%, 113)  
 2015 **“First Prize”**, Undergraduate Mathematical Contest In Modeling, Shanghai  
 
+<!--
 ## School Level
 2018 **“First-Class Scholarship for Postgraduates” & “Excellent Students”** (12%, 34) (40%, 34)  
 2017 **“Recommended for Postgraduate Student without Examination”** (2%, 4147)  
 2017 **“Excellent Dissertation of Shanghai Maritime University”** (5%, 113)  
 2016 **“School Principal Scholarship” & “Excellent Student”** (2%, 113)  
 2015 **“School Principal Scholarship” & “Excellent students”** (2%,113)  
+
+-->
 
 
 <!--
