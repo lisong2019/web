@@ -5,8 +5,12 @@ permalink: /Projects and Awards/
 author_profile: true
 ---
 
-# Major Projects:
-2020-2022. **Major Completer**. Impact of Connected and Autonomous Vehicles (CAVs) on North Carolina’s Transportation System and Associated Revenue. NCDOT Project, NC Transportation Center of Excellence in Connected and Autonomous Vehicle Technology(NC-CAV) Sponsored. (124,547 $ Shared) <br>
+# Research Projects:
+2023-2025  **Host**  <br>
+2023-2024  **Host**  <br>
+2023-2024  **Host**  <br>
+2023-2024  **Host**  <br>
+2020-2022. **Major Completer**. Impact of Connected and Autonomous Vehicles (CAVs) on North Carolina’s Transportation System and Associated Revenue. NCDOT Project, NC Transportation Center of Excellence in Connected and Autonomous Vehicle Technology(NC-CAV) Sponsored.  <br>
 2019-2022. **Major Completer**. Spatiotemporal Patterns and Crash Injury Severity Factors Identification. USDOT CAMMSE Transportation Research Center Sponsored. <br>
 
 # Selected Awards:
