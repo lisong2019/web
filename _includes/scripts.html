@@ -43,5 +43,37 @@ function toggleInfo(articleid,info) {
 		if(absshow) {
 			(bibshow)?abs.className = 'Dissertation nextshow':abs.className = 'Dissertation';
 		}
+// -------------------------------------
+	 	var abs1 = document.getElementById('dis1_'+articleid);
+		var bib1 = document.getElementById('awd1_'+articleid);
+
+		if (abs1 && info == 'Dissertation1') {
+			if(abs1.className.indexOf('Dissertation1') != -1) {
+			abs1.className.indexOf('noshow') == -1?abs1.className = 'Dissertation1 noshow':abs1.className = 'Dissertation1';
+			}
+		} else if (bib1 && info == 'Awards1') {
+			if(bib1.className.indexOf('Awards1') != -1) {
+			bib1.className.indexOf('noshow') == -1?bib1.className = 'Awards1 noshow':bib1.className = 'Awards1';
+			}
+		} else {
+			return;
+		}
+
+		var absshow1 = false;
+		var bibshow1 = false;
+		(abs1 && abs1.className.indexOf('noshow') == -1)? absshow1 = true: absshow1 = false;
+		(bib1 && bib1.className == 'Awards1')? bibshow1 = true: bibshow1 = false;
+
+		if(entry) {
+			if (absshow1 || bibshow1) {
+			entry.className = 'entry highlight show';
+			} else {
+			entry.className = 'entry show';
+			}
+		}
+
+		if(absshow1) {
+			(bibshow1)?abs1.className = 'Dissertation1 nextshow':abs1.className = 'Dissertation1';
+		}
 	}
 </script>
