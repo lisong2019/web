@@ -22,13 +22,17 @@ author_profile: true
 		</tr>
     </thead>
 	<tbody>
-    <tr id="2023MS" class="entry">
+    <tr id="ms2023" class="entry">
       <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
           <img src="../images/stud/shijie_li.jpg"  class="research_img">
           <div class="container">
-          Shijie Li (李士杰)
+          Shijie Li (李士杰)<br>
+		  2023-2025 <p class="infolinks"> 
+                  [<a href="javascript:toggleInfo('ms2023','Dissertation')">Dissertation</a>]
+                  [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>] 
+			  </p>
           </div>
         </div>
       </td>
@@ -41,32 +45,14 @@ author_profile: true
           </div>
         </div>
       </td>
-      <td>
-        2023-2025<br>
-                <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('cui2020traffic','abstract')">Abstract</a>]
-                  [<a href="javascript:toggleInfo('cui2020traffic','bibtex')">BibTeX</a>] 
-                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
-                  [<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>]
-                  [<a href="http://tps.uwstarlab.org/">Website</a>]
-                  <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
-                  <!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
-                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
-              </p>
-        </td>
+      <td> </td>
+      <td> </td>
       </tr>
-        <tr id="abs_cui2020traffic" class="abstract noshow">
-          <td colspan="5"><div align="justify"> <b>Abstract</b>: Measuring traffic performance is critical for public agencies who manage traffic and individuals who plan trips, especially when special events happen. The COVID-19 pandemic has significantly influenced almost every aspect of daily life, including urban traffic patterns. Thus, it is important to measure the impact of COVID-19 on transportation to further guide agencies and residents to properly respond to changes in traffic patterns. However, most existing traffic performance metrics incorporate only a single traffic parameter and measure only the performance of individual corridors. To overcome these challenges, in this study, a Traffic Performance Score (TPS) is proposed that incorporates multiple parameters for measuring network-wide traffic performance. An interactive web-based TPS platform that provides real-time and historical spatial-temporal traffic performance analysis is developed by the STAR Lab at the University of Washington. Based on data from this platform, this study analyzes the impact of COVID-19 on different road segments and the traffic network as a whole. Considering this pandemic has greatly reshaped social and economic operations, this study also evaluates how COVID-19 is changing the urban mobility from both travel demand and driving behavior perspectives.</div></td>
+        <tr id="abs_ms2023" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <b>Dissertation</b>: ...TBD....</div></td>
         </tr>
-        <tr id="bib_cui2020traffic" class="bibtex noshow">
-          <td colspan="5"><b>BibTeX</b>:
-                <pre>@article{cui2020traffic,
-  title={Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility},
-  author={Cui, Zhiyong and Zhu, Meixin and Wang, Shuo and Wang, Pengfei and Zhou, Yang and Cao, Qianxia and Kopca, Cole and Wang, Yinhai},
-  journal={arXiv preprint arXiv:2007.00648},
-  year={2020}
-}</pre>
-          </td>
+        <tr id="bib_cuims2023" class="bibtex noshow">
+          <td colspan="5"><b>Awards</b>:...TBD....</div></td>
         </tr>
 	
 	
