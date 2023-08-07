@@ -31,7 +31,8 @@ author_profile: true
           Shijie Li (李士杰)<br>
 		 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('ms2023','Dissertation')">Dissertation</a>]
-                  [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>] 2023-2025 
+                  [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>] 
+			[2023-2025]
 		 </p>
           </div>
         </div>
