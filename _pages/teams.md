@@ -48,11 +48,11 @@ author_profile: true
       <td> </td>
       <td> </td>
       </tr>
-        <tr id="abs_ms2023" class="abstract noshow">
+        <tr id="dis_ms2023" class="Dissertation noshow">
           <td colspan="4"><div align="justify"> <b>Dissertation</b>: ...TBD....</div></td>
         </tr>
-        <tr id="bib_cuims2023" class="bibtex noshow">
-          <td colspan="4"><b>Awards</b>:...TBD....</div></td>
+        <tr id="awd_ms2023" class="Awards noshow">
+          <td colspan="4"><div align="justify"><b>Awards</b>:...TBD....</div></td>
         </tr>
 	
 	
