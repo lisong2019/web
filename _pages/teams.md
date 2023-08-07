@@ -3,9 +3,7 @@ layout: archive
 title: "Teams"
 permalink: /Teams/
 author_profile: true
-redirect_from:
-- "/Teams/"
-- "/Teams.html"
+
 ---
 
 ## For Prospective Students
