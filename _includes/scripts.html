@@ -12,16 +12,16 @@
 function toggleInfo(articleid,info) {
 
 		var entry = document.getElementById(articleid);
-		var abs = document.getElementById('abs_'+articleid);
-		var bib = document.getElementById('bib_'+articleid);
+		var abs = document.getElementById('dis_'+articleid);
+		var bib = document.getElementById('awd_'+articleid);
 
-		if (abs && info == 'abstract') {
-			if(abs.className.indexOf('abstract') != -1) {
-			abs.className.indexOf('noshow') == -1?abs.className = 'abstract noshow':abs.className = 'abstract';
+		if (abs && info == 'Dissertation') {
+			if(abs.className.indexOf('Dissertation') != -1) {
+			abs.className.indexOf('noshow') == -1?abs.className = 'Dissertation noshow':abs.className = 'Dissertation';
 			}
-		} else if (bib && info == 'bibtex') {
-			if(bib.className.indexOf('bibtex') != -1) {
-			bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+		} else if (bib && info == 'Awards') {
+			if(bib.className.indexOf('Awards') != -1) {
+			bib.className.indexOf('noshow') == -1?bib.className = 'Awards noshow':bib.className = 'Awards';
 			}
 		} else {
 			return;
@@ -30,7 +30,7 @@ function toggleInfo(articleid,info) {
 		var absshow = false;
 		var bibshow = false;
 		(abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
-		(bib && bib.className == 'bibtex')? bibshow = true: bibshow = false;
+		(bib && bib.className == 'Awards')? bibshow = true: bibshow = false;
 
 		if(entry) {
 			if (absshow || bibshow) {
@@ -41,7 +41,7 @@ function toggleInfo(articleid,info) {
 		}
 
 		if(absshow) {
-			(bibshow)?abs.className = 'abstract nextshow':abs.className = 'abstract';
+			(bibshow)?abs.className = 'Dissertation nextshow':abs.className = 'Dissertation';
 		}
 	}
 </script>
