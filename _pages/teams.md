@@ -8,7 +8,7 @@ author_profile: true
 
 ## For Prospective Students
 * I'm looking for Master student applicants and undergrad interns. Please feel free to contact me if you are interested in topics such as Intelligent Transportation Systems, Big Data Analysis, etc.
-* Please feel free to contact me with lisong1@whut.edu.cn or 345536290@qq.com
+* Please feel free to contact me with ~lisong1@whut.edu.cn~ or ~345536290@qq.com~
 
 
 ## Current Research Team:
