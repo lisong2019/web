@@ -46,9 +46,11 @@ redirect_from:
           <img src="../images/stud/pengfei_xu.jpg"  class="research_img">
           <div class="container">
           Pengfei Xu (徐鹏飞)
-		                    [<a href="javascript:toggleInfo('ms2023','Dissertation2')">Dissertation</a>]
+		<p class="infolinks"> 
+		  [<a href="javascript:toggleInfo('ms2023','Dissertation2')">Dissertation</a>]
                   [<a href="javascript:toggleInfo('ms2023','Awards2')">Awards</a>] 
-			[2023-2025]
+		  [2023-2025]
+		</p>
           </div>
         </div>
       </td>
