@@ -44,11 +44,11 @@ author_profile: true
           <img src="../images/stud/pengfei_xu.jpg"  class="research_img">
           <div class="container">
           Pengfei Xu (徐鹏飞)
-		<p class="infolinks"> 
+		<!--<p class="infolinks"> 
 		  [<a href="javascript:toggleInfo('ms2023','Dissertation2')">Dissertation</a>]
                   [<a href="javascript:toggleInfo('ms2023','Awards2')">Awards</a>] 
 		  [2023-2025]
-		</p>
+		</p>-->
           </div>
         </div>
       </td>
