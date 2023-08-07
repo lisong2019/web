@@ -6,13 +6,6 @@ author_profile: true
 ---
 
 ## For Prospective Students
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
 * I'm looking for Master student applicants and undergrad interns. Please feel free to contact me if you are interested in working on "Intelligent Transportation" topics.
 
 
