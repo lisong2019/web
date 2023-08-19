@@ -34,8 +34,9 @@ GPA: 3.7/4.0; Rank: 2/113; Comprehensive Assessment: 1/113.
 
 Membership
 ======
-1. 2020/9-2021/10, President, ITE student chapter of UNCC.
-1. 2019/6-NOW, Member, Chinese Overseas Transportation Association (COTA). 
+1. 2023.9 Area Editor: COTA 2024 International Conference for Transportation Professionals
+2. 2020/9-2021/10, President, ITE student chapter of UNCC.
+1. 2019/6-NOW, Member, Chinese Overseas Transportation Association (COTA); ITE; China ITS Association;
 
 Referee Service (reviewer)
 ======
