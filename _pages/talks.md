@@ -5,14 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
-Including conference of hosting, oral presentation, poster, and attendance only.<br>
+Including conference hosting, oral presentation, poster, and attendance only.<br>
 **Hosting:** <br>
-
-1. **Song, L.**, (2021, Nov.). Student Research Presentation. 2021 4th CAMMSE Research Symposium.
-2. **Song, L.**, (2020, Nov.). Multimodal Session. NCSITE Annual Meeting.
+1. **Song, L.**, (2023, June.). The 4th Central China Road Traffic Safety Seminar, Wuhan. 
+2. **Song, L.**, (2021, Nov.). Student Research Presentation. 2021 4th CAMMSE Research Symposium.
+3. **Song, L.**, (2020, Nov.). Multimodal Session. NCSITE Annual Meeting.
 
 **Oral Presentation:** <br>
-1.  **Song, L.**, (2022, Nov.). Intersection Capacity Adjustments Considering Different Market Penetration Rates of Connected and Autonomous Vehicles. In 2022 NCCAV Seminar. Online. 
+1.  **Song, L.**, (2023, Aug.). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. In 2023 2nd Academic Conference on Digital Transportation and Smart Travel, Guilin.
+2.  **Song, L.**, (2022, Nov.). Intersection Capacity Adjustments Considering Different Market Penetration Rates of Connected and Autonomous Vehicles. In 2022 NCCAV Seminar. Online. 
 1.  **Song, L.**, (2022, Nov.). Performance of State-Shared Multi-Agent Deep Reinforcement Learning Controlled Signal Corridor with Platooning-Based CAVs. In 2022 5th CAMMSE Research Symposium. Online. 
 1.  **Song, L.**, (2021, Nov.). Impacts of mixed traffic on transfer-based DQN controlled signal intersection. In 2021 4th CAMMSE Research Symposium. Online. (**Honor: Third Oral Presentation Prize**)
 1.  **Song, L.**, (2021, April.).Impacts of CAVs on transfer-based DQN controlled signal intersection: insights from mixed traffic and information levels. CEE Grad Student Symposium Submission 2021. 
