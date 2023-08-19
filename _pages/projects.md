@@ -29,6 +29,9 @@ author_profile: true
 2015 **“Shanghai Scholarship”**, (1%, 113)  
 2015 **“First Prize”**, Undergraduate Mathematical Contest In Modeling, Shanghai  
 
+## Others
+Song Li, et al. 2023. First Prize of Excellent paper, Guangxi Road Transport Association.
+
 <!--
 ## School Level
 2018 **“First-Class Scholarship for Postgraduates” & “Excellent Students”** (12%, 34) (40%, 34)  
