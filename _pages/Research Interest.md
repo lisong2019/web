@@ -26,6 +26,7 @@ permalink: /Research Interest/
 
 # RESEARCH INTEREST
 -----
+Fueled by my passion and vision for creating intelligent, efficient, and safe transportation systems, I have dedicated my research to advancing intelligent transportation systems through cutting-edge research. With a strong focus on traffic control, transport simulation, and transportation big data analytics, I have extensive experience utilizing Smart Transport Systems with Connected and Automated Vehicles (CAVs) to address a range of challenges in this field. My expertise encompasses areas such as CAV control, simulation, and analysis; Big Data Analytics & Statistics; safety analysis; and Future Transportation Systems. My ultimate goal is to leverage my knowledge and experience in transportation to drive positive change and promote the growth of smart cities by enhancing the efficiency, security, sustainability, and safety of our transportation systems.
 
 <table style="width:100%; font-size:22px;">
     <thead>
