@@ -5,7 +5,7 @@ permalink: /Teams/
 author_profile: true
 
 ---
-<div style="text-align:center">
+<div style="text-align: center">
     <img src="../images/STAR_LOGO.png"  alt="STAR Lab" width="30%" height="auto" ;"/>
 </div>
 ## For Prospective Students
