@@ -42,15 +42,17 @@ Referee Service (reviewer)
 ======
 1. Analytic Methods in Accident Research
 2. IEEE Transactions on Intelligent Transportation Systems
-3. Transportation Research Record 
-4. Journal of Transportation Engineering, Part A: Systems 
-5. Physica A: Statistical Mechanics and its Applications
-6. Journal of Traffic and Transportation Engineering (English Edition) 
-7. International Journal of Transportation Science and Technology
-8. Case Studies on Transport Policy 
-9. COTA International Conference for Transportation Professionals 
-10. Cogent Engineering 
-11. Connection Science  
+3. Journal of Intelligent and Connected Vehicles
+4. Transportation Research Record 
+5. Journal of Transportation Engineering, Part A: Systems 
+6. Physica A: Statistical Mechanics and its Applications
+7. Journal of Traffic and Transportation Engineering (English Edition) 
+8. International Journal of Transportation Science and Technology
+9. Journal of Advanced Transportation
+10. Case Studies on Transport Policy 
+11. COTA International Conference for Transportation Professionals 
+12. Cogent Engineering 
+13. Connection Science  
 <br> 
 
 Visitors
