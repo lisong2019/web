@@ -46,13 +46,14 @@ Referee Service (reviewer)
 4. Transportation Research Record 
 5. Journal of Transportation Engineering, Part A: Systems 
 6. Physica A: Statistical Mechanics and its Applications
-7. Journal of Traffic and Transportation Engineering (English Edition) 
-8. International Journal of Transportation Science and Technology
-9. Journal of Advanced Transportation
-10. Case Studies on Transport Policy 
-11. COTA International Conference for Transportation Professionals 
-12. Cogent Engineering 
-13. Connection Science  
+7. Transportation Planning and Technology
+8. Journal of Traffic and Transportation Engineering (English Edition) 
+9. International Journal of Transportation Science and Technology
+10. Journal of Advanced Transportation
+11. Case Studies on Transport Policy 
+12. COTA International Conference for Transportation Professionals 
+13. Cogent Engineering 
+14. Connection Science  
 <br> 
 
 Visitors
