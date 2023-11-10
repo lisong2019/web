@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 # Undergraduate Student Course: 
-1. Artificial Intelligence and Machine Learning for Transportation (4180128220), 2022;  <br>
-2. Integrated experiment of vehicle networking and vehicle-road collaboration (4180679170), 2022;   <be>   
-
+1. vehicle networking and vehicle-road collaboration (20231-02684), 2022-present; <be>
+2. Integrated experiment of vehicle networking and vehicle-road collaboration (4180679170), 2022-present;   <be>   
+1. Artificial Intelligence and Machine Learning for Transportation (4180128220), 2022-present;  <br>
 
 # Graduate Student Course: 
 1. CAV safety theory and method (00212069), 2022; <br>
