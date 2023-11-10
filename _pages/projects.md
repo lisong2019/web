@@ -32,7 +32,7 @@ author_profile: true
 2015 **“First Prize”**, Undergraduate Mathematical Contest In Modeling, Shanghai  
 
 ## Others
-Song Li, et al. 2023. First Prize of Excellent paper, Guangxi Road Transport Association.
+2023. Song Li, et al. First Prize of Excellent paper, Guangxi Road Transport Association.
 
 <!--
 ## School Level
