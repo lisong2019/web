@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 More info about Li Song can be found in [Research Gate](https://www.researchgate.net/profile/Li_Song60).or [Google Scholar](http://scholar.google.com/citations?user=CyNM5yIAAAAJ&hl=enmight).<br>
-
 <!-- The [googlewebsite](https://sites.google.com/view/lisong2019/home) also be helpful.
 <a href="https://lisong2019.github.io/lisong.github.io/files/PAPER/Intersections.pdf">[paper2]</a>-->
 
@@ -13,11 +12,11 @@ More info about Li Song can be found in [Research Gate](https://www.researchgate
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 
-
 1. Wu, P., Meng, X.#, **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
-
 -->
-_**Total: 29 ；SCI: 24； EI: 4 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+_**Total: 29 ；SCI: 24； EI: 4 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
+
+
 **Journal Article:**  
 ====== 
 1. Feng, L., Zhao, X.#, Chen, Z., **<u>Song, L.</u>** (2024). An adaptive coupled control method based on vehicles platooning for intersection controller and vehicle trajectories in mixed traffic. <i>IET Intelligent Transport Systems.</i>（**SCI**）
