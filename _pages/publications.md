@@ -17,10 +17,11 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 1. Wu, P., Meng, X.#, **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 
 -->
-
-**Publication:**  
+_**Total: 29 ；SCI: 24； EI: 4 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+**Journal Article:**  
 ====== 
-_**Total: 25 ；SCI: 22； EI: 3 ；Others: 0** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
+1. Feng, L., Zhao, X.#, Chen, Z., **<u>Song, L.</u>** (2024). An adaptive coupled control method based on vehicles platooning for intersection controller and vehicle trajectories in mixed traffic. <i>IET Intelligent Transport Systems.</i>（**SCI**）
+2. Zhang, X., Guo, X., Yu, H., Guo, Y., **<u>Song L.,</u>** Zhao, X. (2024) 3D visualisation method for urban road waterlogging based on mobile augmented reality. <i>International Journal of Digital Earth.</i> 17(1). 2378823.（**SCI**）
 1. **<u>Song, L.</u>** and Fan, W.#, (2023). Performance of State-Shared Multi-Agent Deep Reinforcement Learning Controlled Signal Corridor with Platooning-Based CAVs,  <i>ASCE Journal of Transportation Engineering, Part A: System</i>,（**SCI, IF:2.252**）
 4. **<u>Song, L.</u>** and Fan, W.#, (2023). Intersection capacity adjustments considering different market penetration rates of connected and automated vehicles. <i>Transportation Planning and Technology</i>（**SCI**）
 5. Li, Y., Fan, W., **<u>Song, L.</u>** and Liu, S. (2022). Combining Emerging Hotspots Analysis with XGBoost for Modeling Pedestrian Injuries in Pedestrian-Vehicle Crashes: A Case Study of North Carolina, <i>Journal of Transportation Safety & Security</i>. (**SCI, Q3, IF:3.0**) 
@@ -43,7 +44,10 @@ _**Total: 25 ；SCI: 22； EI: 3 ；Others: 0** (note: corresponding author is n
 35. Chen, J., Xue, K., **<u>Song, L.</u>**#, et. al. (2019). Periodicity of world crude oil maritime transportation: Case analysis of Aframax Tanker market. Energy Strategy Reviews, 25, 47-55.  (**SCI, Q2, IF:6.4**)\[[DOI](https://doi.org/10.1016/j.esr.2019.100363)\]\[<a href="../files/PAPER/EnergyStrategyReviews2019-4.pdf">PDF</a>\]
 38. Wu, P., Meng, X.#, **<u>Song, L.</u>**, Zuo, W. (2019). Crash Risk Evaluation and crash severity pattern analysis for different types of urban junctions: fault tree analysis and association rules approaches. Transportation research record, 2673(1), 403-416.  (**SCI, Q4, IF:1.6**) \[[DOI](https://doi.org/10.1177/0361198118822817)\]\[<a href="../files/PAPER/Wu_TRR-Crash-Risk-Evaluation.pdf">PDF</a>\]
 41. Wang, X., **<u>Song, L.</u>**#, Wu, Z., Wu, P. (2019). Development of a road shoulder's equivalent sound source traffic noise prediction model. Proceedings of the Institution of Civil Engineers-Transport, 1-10. (**SCI, Q4, IF:1.1**) \[[DOI](https://doi.org/10.1680/jtran.18.00105)\]\[<a href="../files/PAPER/ICE_t_2018_traffic_noise.pdf">PDF</a>\]
-44. Wang, X., **<u>Song, L.</u>**, Wu, P., Yu, S. (2019). Analysis of Unconventional Design for Signalized and Closely-Spaced T-Intersections. In CICTP 2019 (pp. 2636-2647). (**EI**) \[[DOI](https://doi.org/10.1061/9780784482292.229)\]\[<a href="../files/PAPER/cota2019.pdf">PDF</a>\]
-47. Wang, X., **<u>Song, L.</u>**, Wu, P. (2018, September). A Novel Method of Island Port's Transport: Automatic Guided Vehicle Approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE) (pp. 219-224). IEEE. (**EI**) \[[DOI](https://doi.org/10.1109/ICITE.2018.8492567)\]\[<a href="../files/PAPER/ICITE2018-8.pdf">PDF</a>\]
 50. **<u>Song, L.</u>**, Chen, J.#, Li, K. X., Liu, X., Fei, Y., Yu, H. (2018). Periodical characteristics of shipbuilding market activity: A wavelet analysis. Journal of Marine Science and Technology, 26(5), 692-702. (**SCI, Q4**)\[[DOI](https://jmst.ntou.edu.tw/marine/26-5/692-702.pdf)\]\[<a href="../files/PAPER/JMST2018-Periodic_Characteristics_of_Shipbuilding_Activity.pdf">PDF</a>\]
 
+**Conference Article:**  
+====== 
+1. Li, S., Lei, L., Deng, Z., Sheng, B., **<u>Song, L.#</u>** (2024) Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits. World Transportation Conference 2024, 1-18.
+44. Wang, X., **<u>Song, L.</u>**, Wu, P., Yu, S. (2019). Analysis of Unconventional Design for Signalized and Closely-Spaced T-Intersections. In CICTP 2019 (pp. 2636-2647). (**EI**) \[[DOI](https://doi.org/10.1061/9780784482292.229)\]\[<a href="../files/PAPER/cota2019.pdf">PDF</a>\]
+47. Wang, X., **<u>Song, L.</u>**, Wu, P. (2018, September). A Novel Method of Island Port's Transport: Automatic Guided Vehicle Approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE) (pp. 219-224). IEEE. (**EI**) \[[DOI](https://doi.org/10.1109/ICITE.2018.8492567)\]\[<a href="../files/PAPER/ICITE2018-8.pdf">PDF</a>\]
