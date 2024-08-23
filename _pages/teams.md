@@ -32,23 +32,30 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
     <tr id="2024" class="entry">
 <td>
         <div class="polaroid">
-          <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
-          <div class="container">
-          Yixuan Lin (林毅轩) 2024<br>
-		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('linyixuan','Details')">Details</a>]
-		</p>
-          </div>
+        <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
+        <div class="container">
+        	Yixuan Lin (林毅轩) 2024<be>
+	 	<details><summary>Details</summary>
+		2023年获第十五届全国大学生数学竞赛二等奖<br>
+		2021、2022、2023年获校三等奖学金、优秀学生干部、三好学生、优秀团员<br>
+		2022年全国大学生数学建模竞赛省一等奖<br>
+		第十六届全国大学生先进成图技术竞赛道桥类省赛二等奖、国赛个人赛二等奖、团体赛二等奖第一名<br>
+		第十四届华中杯大学生数学建模挑战赛二等奖<br>
+		</details>  
+        </div>
         </div>
 </td>
 <td>
         <div class="polaroid">
           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
           <div class="container">
-          Ke Nie (聂可) 2024<br>
-		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('nieke','Details2')">Details</a>]
-		</p>
+          	Ke Nie (聂可) 2024<br>
+		<details><summary>Details</summary>
+		2021年、2022年、2023年校三等奖学金，“校三好学生”称号<br>
+		2024年“优秀毕业生”称号<br>
+		全国第一届高校数智化商业决策创新大赛全国一等奖<br>
+		第十八届全国大学生交通运输科技大赛校级一等奖
+		</details>  
           </div>
         </div>
 </td>
@@ -56,13 +63,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <td> </td>
 <td> </td>
 </tr>
-     <tr id="det_linyixuan" class="Details noshow">
-	          <td colspan="4"><b>Details</b>: ...TBD2....</td>
-	</tr>
-	<tr id="det_nieke" class="Details2 noshow">
-          <td colspan="4"><b>Details</b>: ...TBD....</td>
-        </tr>
-
 
 <tr id="2023" class="entry">
 <td>
@@ -70,27 +70,24 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <div class="polaroid">
 <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
 	<div class="container">
-	          Shijie Li (李士杰) 2023
+		Shijie Li (李士杰) 2023
 		<details><summary>Details</summary>
-		“华为杯”第二十届中国研究生数学建模竞赛二等奖<br>
-		Li S ,Lei L ,Deng Z , et al.Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits[C]//.2024 世界交通运输大会(WTC2024)论文集（交通工程）.<br>
-		2023年获研究生学校奖学金一等奖<br>
+		2023 第二十届中国研究生数学建模竞赛二等奖<br>
+		2024 Li S ,Lei L ,Deng Z , et al.Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits[C]//.世界交通运输大会(WTC2024)推荐论文.<br>
+		2023 研究生学校奖学金一等奖<br>
 		</details>  	  
 	</div>
 </div>
 </td>
 <td>
-        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
-        <div class="polaroid">
-          <img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
-          <div class="container">
-          Pengfei Xu (徐鹏飞) 2023
-		<p class="infolinks"> 
-		  [<a href="javascript:toggleInfo('xupengfei','Details2')">Details</a>]
-<!--                   [<a href="javascript:toggleInfo('2ms2023','Awards')">Awards</a>]  -->
-		</p>
-          </div>
-        </div>
+	<div class="polaroid">
+	<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
+	<div class="container">
+		Pengfei Xu (徐鹏飞) 2023
+		<details><summary>Details</summary>
+		</details>  
+	</div>
+	</div>
 </td>
 <td> </td>
 <td> </td>
