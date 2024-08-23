@@ -31,7 +31,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <tbody>
     <tr id="2024" class="entry">
 <td>
-        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
           <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
           <div class="container">
@@ -43,7 +42,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         </div>
 </td>
 <td>
-        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
           <div class="container">
@@ -69,23 +67,17 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <tr id="2023" class="entry">
 <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
-        <div class="polaroid">
-          <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
-          <div class="container">
-          Shijie Li (李士杰) 2023
-		<details>
-  <summary>de</summary>
-
-qqqqq
-
-</details>  	  
-    <br>
-		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('lishijie','Details1')">Details</a>]
-<!--                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>]  -->
-		</p>
-          </div>
-        </div>
+<div class="polaroid">
+<img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
+	<div class="container">
+	          Shijie Li (李士杰) 2023
+		<details><summary>Details</summary>
+		“华为杯”第二十届中国研究生数学建模竞赛二等奖<br>
+		Li S ,Lei L ,Deng Z , et al.Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits[C]//.2024 世界交通运输大会(WTC2024)论文集（交通工程）.<br>
+		2023年获研究生学校奖学金一等奖<br>
+		</details>  	  
+	</div>
+</div>
 </td>
 <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
@@ -104,12 +96,12 @@ qqqqq
 <td> </td>
 <td> </td>
 </tr>
-	<tr id="det_lishijie" class="Details1 noshow">
+<!-- 	<tr id="det_lishijie" class="Details1 noshow">
           <td colspan="4"><b>Details</b>: ...TBD....</td>
         </tr>
 	<tr id="det_xupengfei" class="Details2 noshow">
           <td colspan="4"><b>Details</b>: ...TBD2....</td>
-        </tr>
+        </tr> -->
 
 	
 	
