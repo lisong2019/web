@@ -65,7 +65,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <div class="polaroid">
 <!--           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img"> -->
           <div class="container">
-          	Jingyuan Xu (徐锦源) 2024<details><summary>Details</summary><ul>
+          	Jinyuan Xu (徐锦源) 2024<details><summary>Details</summary><ul>
 		</ul></details>  
           </div>
         </div>
