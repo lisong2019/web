@@ -117,7 +117,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
  </tbody>
 </table>
 
-## Excellent undergraduate graduation guidance：
+## Excellent undergraduate dissertation guidance：
 2024. 双向两车道改扩建场景下车流信号智能管控研究，林毅轩，指导老师：宋力
 2023. 耦合交通事故及拥堵的成因分析框架设计，曾锦涛，指导老师：宋力
 
