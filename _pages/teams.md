@@ -45,6 +45,18 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
+          <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
+          <div class="container">
+          Ke Nie (聂可) 2024<br>
+		<p class="infolinks"> 
+                  [<a href="javascript:toggleInfo('d_nieke','Details')">Details</a>]
+		</p>
+          </div>
+        </div>
+</td>
+<td>
+        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+        <div class="polaroid">
           <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
           <div class="container">
           Shijie Li (李士杰) 2023<br>
