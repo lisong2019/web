@@ -66,6 +66,12 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <img src="../images/stud/jinyuanxu2024.jpg" width="600" class="research_img">
           <div class="container">
           	Jinyuan Xu (徐锦源) 2024<details><summary>Details</summary><ul>
+		<li>2023年全国大学生数学竞赛二等奖</li>
+		<li>2022年全国大学生数学建模竞赛湖北赛区一等奖</li>
+		<li>第十四届华中杯大学生数学建模挑战赛二等奖</li>
+		<li>2021年武汉理工大学数学竞赛三等奖</li>
+		<li>2020—2021年度学校二等奖学金</li>
+		<li>2024年武汉理工大学本科优秀毕业生</li>
 		</ul></details>  
           </div>
         </div>
