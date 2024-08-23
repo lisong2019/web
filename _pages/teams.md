@@ -52,7 +52,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
           <div class="container">
           	Ke Nie (聂可) 2024 <details><summary>Details</summary><ul>
-		<li>2021年、2022年、2023年校三等奖学金，“校三好学生”称号</li>
+		<li>2023 “校三好学生”称号</li>
 		<li>2024年“优秀毕业生”称号</li>
 		<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
 		<li>第十八届全国大学生交通运输科技大赛校级一等奖</li>
@@ -77,10 +77,11 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
 	<div class="container">
 		Shijie Li (李士杰) 2023 <details><summary>Details</summary><ul>
-		<li>2023 第二十届中国研究生数学建模竞赛二等奖</li>
+		<li>2023 第二十届中国研究生数学建模竞赛全国二等奖</li>
 		<li>2023-2024 发明专利申请2项</li>
-		<li>2024 世界交通运输大会(WTC2024)推荐论文</li>
-		<li>2023 研究生学校奖学金一等奖</li>
+		<li>2024 世界交通运输大会推荐论文</li>
+		<li>2023 研究生一等奖学金</li>
+		<li>全国大学生数学建模竞赛本科组全国一等奖</li>
 		</ul></details>  	  
 	</div>
 </div>
