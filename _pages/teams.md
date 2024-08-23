@@ -37,7 +37,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Shijie Li (李士杰) 2023<br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('ms2023','Details')">Dissertation</a>]
+                  [<a href="javascript:toggleInfo('ms2023','Details')">Details</a>]
 <!--                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
@@ -50,7 +50,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Pengfei Xu (徐鹏飞) 2023
 		<p class="infolinks"> 
-		  [<a href="javascript:toggleInfo('xupengfei','Details')">Dissertation</a>]
+		  [<a href="javascript:toggleInfo('xupengfei','Details')">Details</a>]
 <!--                   [<a href="javascript:toggleInfo('2ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
@@ -59,14 +59,14 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
       <td> </td>
       <td> </td>
       </tr>
-        <tr id="d_lishijie" class="Dissertation noshow">
-          <td colspan="4"><b>Dissertation</b>: ...TBD....</td>
+        <tr id="d_lishijie" class="Details noshow">
+          <td colspan="4"><b>Details</b>: ...TBD....</td>
         </tr>
 <!--         <tr id="awd_ms2023" class="Awards noshow">
           <td colspan="4"><b>Awards</b>:...TBD....</td>
         </tr> -->
-	<tr id="d_xupengfei" class="Dissertation noshow">
-          <td colspan="4"><b>Dissertation</b>: ...TBD2....</td>
+	<tr id="d_xupengfei" class="Details noshow">
+          <td colspan="4"><b>Details</b>: ...TBD2....</td>
         </tr>
 <!--         <tr id="awd_2ms2023" class="Awards noshow">
           <td colspan="4"><b>Awards</b>:...TBD2....</td>
