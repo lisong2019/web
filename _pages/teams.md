@@ -35,13 +35,13 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
         <div class="container">
         	Yixuan Lin (林毅轩) 2024 <details><summary>Details</summary>
-		\bullet 2024 本科优秀毕设<br>
-		\bullet 2024 发明专利申请2项<br>
-		\bullet 2023年获第十五届全国大学生数学竞赛二等奖<br>
-		\bullet 2021、2022、2023年获校三等奖学金、优秀学生干部、三好学生、优秀团员<br>
-		\bullet 2022年全国大学生数学建模竞赛省一等奖<br>
-		\bullet 第十六届全国大学生先进成图技术竞赛道桥类省赛二等奖、国赛个人赛二等奖、团体赛二等奖第一名<br>
-		\bullet 第十四届华中杯大学生数学建模挑战赛二等奖<br>
+		* 2024 本科优秀毕设<br>
+		* 2024 发明专利申请2项<br>
+		* 2023年获第十五届全国大学生数学竞赛二等奖<br>
+		* 2021、2022、2023年获校三等奖学金、优秀学生干部、三好学生、优秀团员<br>
+		* 2022年全国大学生数学建模竞赛省一等奖<br>
+		* 第十六届全国大学生先进成图技术竞赛道桥类省赛二等奖、国赛个人赛二等奖、团体赛二等奖第一名<br>
+		* 第十四届华中杯大学生数学建模挑战赛二等奖<br>
 		</details>  
         </div>
         </div>
