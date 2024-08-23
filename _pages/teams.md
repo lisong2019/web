@@ -72,9 +72,16 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <div class="polaroid">
           <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
           <div class="container">
-          Shijie Li (李士杰) 2023<br>
+          Shijie Li (李士杰) 2023
+		<details>
+  <summary>de</summary>
+
+qqqqq
+
+</details>  	  
+    <br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('lishijie','Details')">Details</a>]
+                  [<a href="javascript:toggleInfo('lishijie','Details1')">Details</a>]
 <!--                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
@@ -97,10 +104,10 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <td> </td>
 <td> </td>
 </tr>
-	<tr id="lishijie2" class="Details noshow">
+	<tr id="det_lishijie" class="Details1 noshow">
           <td colspan="4"><b>Details</b>: ...TBD....</td>
         </tr>
-	<tr id="xupengfei2" class="Details2 noshow">
+	<tr id="det_xupengfei" class="Details2 noshow">
           <td colspan="4"><b>Details</b>: ...TBD2....</td>
         </tr>
 
