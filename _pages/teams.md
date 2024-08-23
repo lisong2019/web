@@ -58,10 +58,10 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <td> </td>
 <td> </td>
 </tr>
-     <tr id="linyixuan" class="Details noshow">
+     <tr id="det_linyixuan" class="Details noshow">
 	          <td colspan="4"><b>Details</b>: ...TBD2....</td>
 	</tr>
-	<tr id="nieke" class="Details2 noshow">
+	<tr id="det_nieke" class="Details2 noshow">
           <td colspan="4"><b>Details</b>: ...TBD....</td>
         </tr>
 
