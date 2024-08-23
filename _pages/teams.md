@@ -72,7 +72,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 
 </td>
 <td>
-        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+        
 <div class="polaroid">
 <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
 	<div class="container">
