@@ -34,10 +34,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <div class="polaroid">
         <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
         <div class="container">
-        	Yixuan Lin (林毅轩) 2024
-	 	<details><summary>Details</summary>
-		2024 本科优秀毕设
-		2024 发明专利申请2项
+        	Yixuan Lin (林毅轩) 2024 <details><summary>Details</summary>
+		2024 本科优秀毕设<br>
+		2024 发明专利申请2项<br>
 		2023年获第十五届全国大学生数学竞赛二等奖<br>
 		2021、2022、2023年获校三等奖学金、优秀学生干部、三好学生、优秀团员<br>
 		2022年全国大学生数学建模竞赛省一等奖<br>
@@ -51,8 +50,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <div class="polaroid">
           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
           <div class="container">
-          	Ke Nie (聂可) 2024
-		<details><summary>Details</summary>
+          	Ke Nie (聂可) 2024 <details><summary>Details</summary>
 		2021年、2022年、2023年校三等奖学金，“校三好学生”称号<br>
 		2024年“优秀毕业生”称号<br>
 		全国第一届高校数智化商业决策创新大赛全国一等奖<br>
@@ -65,8 +63,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <div class="polaroid">
 <!--           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img"> -->
           <div class="container">
-          	Jingyuan Xu (徐锦源) 2024
-		<details><summary>Details</summary>
+          	Jingyuan Xu (徐锦源) 2024<details><summary>Details</summary>
 		</details>  
           </div>
         </div>
@@ -82,10 +79,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <div class="polaroid">
 <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
 	<div class="container">
-		Shijie Li (李士杰) 2023
-		<details><summary>Details</summary>
+		Shijie Li (李士杰) 2023 <details><summary>Details</summary>
 		2023 第二十届中国研究生数学建模竞赛二等奖<br>
-		2023-2024 发明专利申请2项
+		2023-2024 发明专利申请2项<br>
 		2024 世界交通运输大会(WTC2024)推荐论文.<br>
 		2023 研究生学校奖学金一等奖<br>
 		</details>  	  
@@ -96,8 +92,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	<div class="polaroid">
 	<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
 	<div class="container">
-		Pengfei Xu (徐鹏飞) 2023
-		<details><summary>Details</summary>
+		Pengfei Xu (徐鹏飞) 2023 <details><summary>Details</summary>
 		</details>  
 	</div>
 	</div>
