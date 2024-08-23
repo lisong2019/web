@@ -29,7 +29,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
     </thead>
 <tbody>
-<tr id="2024" class="entry">
+<tr id="2023_2024" class="entry">
 <td>
         <div class="polaroid">
         <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
@@ -71,11 +71,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         </div>
 
 </td>
-<td> </td>
-<td> </td>
-</tr>
-
-<tr id="2023" class="entry">
 <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
 <div class="polaroid">
@@ -100,6 +95,12 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	</div>
 	</div>
 </td>
+</tr>
+
+<tr id="2025" class="entry">
+
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -115,6 +116,10 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	
  </tbody>
 </table>
+
+## Excellent undergraduate graduation guidance：
+2024. 双向两车道改扩建场景下车流信号智能管控研究，林毅轩，指导老师：宋力
+2023. 耦合交通事故及拥堵的成因分析框架设计，曾锦涛，指导老师：宋力
 
 
 developing...
