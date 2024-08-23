@@ -19,16 +19,17 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <table style="width:100%">
   <thead>
 		<tr>
-			<th width="25%">Master Student</th>
-			<th width="25%"></th>
-			<th width="25%"></th>
-			<th width="25%"></th>
+			<th width="20%">Master Student</th>
+			<th width="20%"></th>
+			<th width="20%"></th>
+			<th width="20%"></th>
+			<th width="20%"></th>
 			<!-- <th width="2%">Year</th>
 			<th width="20%">Journal/Proceedings</th>  -->
 		</tr>
     </thead>
 <tbody>
-    <tr id="ms2023" class="entry">
+    <tr id="lishijie2023" class="entry">
       <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
@@ -36,8 +37,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Shijie Li (李士杰) 2023<br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('ms2023','Dissertation')">Dissertation</a>]
-                  [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>] 
+                  [<a href="javascript:toggleInfo('ms2023','Details')">Dissertation</a>]
+<!--                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
         </div>
@@ -49,8 +50,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Pengfei Xu (徐鹏飞) 2023
 		<p class="infolinks"> 
-		  [<a href="javascript:toggleInfo('2ms2023','Dissertation')">Dissertation</a>]
-                  [<a href="javascript:toggleInfo('2ms2023','Awards')">Awards</a>] 
+		  [<a href="javascript:toggleInfo('xupengfei','Details')">Dissertation</a>]
+<!--                   [<a href="javascript:toggleInfo('2ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
         </div>
@@ -58,18 +59,18 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
       <td> </td>
       <td> </td>
       </tr>
-        <tr id="dis_ms2023" class="Dissertation noshow">
+        <tr id="d_lishijie" class="Dissertation noshow">
           <td colspan="4"><b>Dissertation</b>: ...TBD....</td>
         </tr>
-        <tr id="awd_ms2023" class="Awards noshow">
+<!--         <tr id="awd_ms2023" class="Awards noshow">
           <td colspan="4"><b>Awards</b>:...TBD....</td>
-        </tr>
-	<tr id="dis_2ms2023" class="Dissertation noshow">
+        </tr> -->
+	<tr id="d_xupengfei" class="Dissertation noshow">
           <td colspan="4"><b>Dissertation</b>: ...TBD2....</td>
         </tr>
-        <tr id="awd_2ms2023" class="Awards noshow">
+<!--         <tr id="awd_2ms2023" class="Awards noshow">
           <td colspan="4"><b>Awards</b>:...TBD2....</td>
-        </tr> 
+        </tr>  -->
 	
 	
  </tbody>
