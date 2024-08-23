@@ -36,6 +36,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <div class="container">
         	Yixuan Lin (林毅轩) 2024
 	 	<details><summary>Details</summary>
+		2024 本科优秀毕设
+		2024 发明专利申请2项
 		2023年获第十五届全国大学生数学竞赛二等奖<br>
 		2021、2022、2023年获校三等奖学金、优秀学生干部、三好学生、优秀团员<br>
 		2022年全国大学生数学建模竞赛省一等奖<br>
@@ -59,7 +61,17 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           </div>
         </div>
 </td>
-<td> </td>
+<td> 
+<div class="polaroid">
+<!--           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img"> -->
+          <div class="container">
+          	Jingyuan Xu (徐锦源) 2024
+		<details><summary>Details</summary>
+		</details>  
+          </div>
+        </div>
+
+</td>
 <td> </td>
 <td> </td>
 </tr>
@@ -73,7 +85,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		Shijie Li (李士杰) 2023
 		<details><summary>Details</summary>
 		2023 第二十届中国研究生数学建模竞赛二等奖<br>
-		2024 Li S ,Lei L ,Deng Z , et al.Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits[C]//.世界交通运输大会(WTC2024)推荐论文.<br>
+		2023-2024 发明专利申请2项
+		2024 世界交通运输大会(WTC2024)推荐论文.<br>
 		2023 研究生学校奖学金一等奖<br>
 		</details>  	  
 	</div>
