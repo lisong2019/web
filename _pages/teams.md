@@ -37,7 +37,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Yixuan Lin (林毅轩) 2024<br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('d_yixuanlin','Details')">Details</a>]
+                  [<a href="javascript:toggleInfo('linyixuan','Details')">Details</a>]
 		</p>
           </div>
         </div>
@@ -49,7 +49,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Ke Nie (聂可) 2024<br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('d_nieke','Details')">Details</a>]
+                  [<a href="javascript:toggleInfo('nieke','Details')">Details</a>]
 		</p>
           </div>
         </div>
@@ -61,7 +61,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Shijie Li (李士杰) 2023<br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('d_lishijie','Details')">Details</a>]
+                  [<a href="javascript:toggleInfo('lishijie','Details')">Details</a>]
 <!--                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
@@ -86,19 +86,17 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <td> </td>
 <td> </td>
 <td> </td>
-      </tr>
-	<tr id="d_lishijie" class="Details noshow">
+</tr>
+	<tr id="linyixuan" class="Details noshow">
+	          <td colspan="4"><b>Details</b>: ...TBD2....</td>
+	</tr>
+	<tr id="lishijie" class="Details noshow">
           <td colspan="4"><b>Details</b>: ...TBD....</td>
         </tr>
-<!--         <tr id="awd_ms2023" class="Awards noshow">
-          <td colspan="4"><b>Awards</b>:...TBD....</td>
-        </tr> -->
-	<tr id="d_xupengfei" class="Details noshow">
+	<tr id="xupengfei" class="Details noshow">
           <td colspan="4"><b>Details</b>: ...TBD2....</td>
         </tr>
-<!--         <tr id="awd_2ms2023" class="Awards noshow">
-          <td colspan="4"><b>Awards</b>:...TBD2....</td>
-        </tr>  -->
+
 	
 	
  </tbody>
