@@ -29,12 +29,12 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
     </thead>
 <tbody>
-    <tr id="2024" class="entry">
+<tr id="2024" class="entry">
 <td>
         <div class="polaroid">
         <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
         <div class="container">
-        	Yixuan Lin (林毅轩) 2024<be>
+        	Yixuan Lin (林毅轩) 2024
 	 	<details><summary>Details</summary>
 		2023年获第十五届全国大学生数学竞赛二等奖<br>
 		2021、2022、2023年获校三等奖学金、优秀学生干部、三好学生、优秀团员<br>
@@ -49,7 +49,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <div class="polaroid">
           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
           <div class="container">
-          	Ke Nie (聂可) 2024<br>
+          	Ke Nie (聂可) 2024
 		<details><summary>Details</summary>
 		2021年、2022年、2023年校三等奖学金，“校三好学生”称号<br>
 		2024年“优秀毕业生”称号<br>
