@@ -93,6 +93,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
 	<div class="container">
 		Pengfei Xu (徐鹏飞) 2023 <details><summary>Details</summary>
+		2024 COTA2024会议论文<br>
 		</details>  
 	</div>
 	</div>
