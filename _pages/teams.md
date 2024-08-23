@@ -29,7 +29,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
     </thead>
 <tbody>
-    <tr id="2023" class="entry">
+    <tr id="2024" class="entry">
 <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
@@ -49,11 +49,24 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Ke Nie (聂可) 2024<br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('nieke','Details')">Details</a>]
+                  [<a href="javascript:toggleInfo('nieke','Details2')">Details</a>]
 		</p>
           </div>
         </div>
 </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+     <tr id="linyixuan" class="Details noshow">
+	          <td colspan="4"><b>Details</b>: ...TBD2....</td>
+	</tr>
+	<tr id="nieke" class="Details2 noshow">
+          <td colspan="4"><b>Details</b>: ...TBD....</td>
+        </tr>
+
+
+<tr id="2023" class="entry">
 <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
@@ -74,26 +87,20 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <div class="container">
           Pengfei Xu (徐鹏飞) 2023
 		<p class="infolinks"> 
-		  [<a href="javascript:toggleInfo('xupengfei','Details')">Details</a>]
+		  [<a href="javascript:toggleInfo('xupengfei','Details2')">Details</a>]
 <!--                   [<a href="javascript:toggleInfo('2ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
         </div>
 </td>
-
-<tr id="2023" class="entry">
-
 <td> </td>
 <td> </td>
 <td> </td>
 </tr>
-	<tr id="linyixuan" class="Details noshow">
-	          <td colspan="4"><b>Details</b>: ...TBD2....</td>
-	</tr>
-	<tr id="lishijie" class="Details noshow">
+	<tr id="lishijie2" class="Details noshow">
           <td colspan="4"><b>Details</b>: ...TBD....</td>
         </tr>
-	<tr id="xupengfei" class="Details noshow">
+	<tr id="xupengfei2" class="Details2 noshow">
           <td colspan="4"><b>Details</b>: ...TBD2....</td>
         </tr>
 
@@ -101,7 +108,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	
  </tbody>
 </table>
-
 
 
 developing...
