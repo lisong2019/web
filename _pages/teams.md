@@ -29,21 +29,21 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
     </thead>
 <tbody>
-    <tr id="lishijie2023" class="entry">
-      <td>
+    <tr id="2023" class="entry">
+<td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
           <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
           <div class="container">
           Shijie Li (李士杰) 2023<br>
 		<p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('ms2023','Details')">Details</a>]
+                  [<a href="javascript:toggleInfo('d_lishijie','Details')">Details</a>]
 <!--                   [<a href="javascript:toggleInfo('ms2023','Awards')">Awards</a>]  -->
 		</p>
           </div>
         </div>
-      </td>
-	<td>
+</td>
+<td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
           <img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
@@ -55,11 +55,12 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</p>
           </div>
         </div>
-      </td>
-      <td> </td>
-      <td> </td>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
       </tr>
-        <tr id="d_lishijie" class="Details noshow">
+	<tr id="d_lishijie" class="Details noshow">
           <td colspan="4"><b>Details</b>: ...TBD....</td>
         </tr>
 <!--         <tr id="awd_ms2023" class="Awards noshow">
