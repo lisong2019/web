@@ -35,12 +35,11 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
         <div class="container">
         	Yixuan Lin (林毅轩) 2024 <details><summary>Details</summary><ul>
-		<li>2024 本科优秀毕设</li>
-		<li>2024年武汉理工大学本科优秀毕业生</li>
+		<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
+		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
 		<li>2024 发明专利申请2项</li>
-		<li>2023年获第十五届全国大学生数学竞赛二等奖</li>
-		<li>2021、2022、2023年获校三等奖学金、优秀学生干部、三好学生、优秀团员</li>
-		<li>2022年全国大学生数学建模竞赛省一等奖</li>
+		<li>2023 第十五届全国大学生数学竞赛二等奖</li>
+		<li>2022 全国大学生数学建模竞赛省一等奖</li>
 		<li>第十六届全国大学生先进成图技术竞赛国赛个人赛二等奖、团体赛二等奖第一名</li>
 		<li>第十四届华中杯大学生数学建模挑战赛二等奖</li>
 		</ul>
@@ -67,12 +66,11 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <img src="../images/stud/jinyuanxu2024.jpg" width="600" class="research_img">
           <div class="container">
           	Jinyuan Xu (徐锦源) 2024<details><summary>Details</summary><ul>
-		<li>2023年全国大学生数学竞赛二等奖</li>
-		<li>2022年全国大学生数学建模竞赛湖北赛区一等奖</li>
-		<li>第十四届华中杯大学生数学建模挑战赛二等奖</li>
-		<li>2021年武汉理工大学数学竞赛三等奖</li>
-		<li>2020—2021年度学校二等奖学金</li>
 		<li>2024年武汉理工大学本科优秀毕业生</li>
+		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
+		<li>2023 全国大学生数学竞赛二等奖</li>
+		<li>2022 全国大学生数学建模竞赛湖北赛区一等奖</li>
+		<li>第十四届华中杯大学生数学建模挑战赛二等奖</li>
 		</ul></details>  
           </div>
         </div>
@@ -84,11 +82,12 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
 	<div class="container">
 		Shijie Li (李士杰) 2023 <details><summary>Details</summary><ul>
+		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
 		<li>2023 第二十届中国研究生数学建模竞赛全国二等奖</li>
+		<li>全国大学生数学建模竞赛本科组全国一等奖</li>
 		<li>2023-2024 发明专利申请2项</li>
 		<li>2024 世界交通运输大会推荐论文</li>
 		<li>2023 研究生一等奖学金</li>
-		<li>全国大学生数学建模竞赛本科组全国一等奖</li>
 		</ul></details>  	  
 	</div>
 </div>
