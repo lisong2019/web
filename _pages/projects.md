@@ -32,6 +32,7 @@ author_profile: true
 2015 **“First Prize”**, Undergraduate Mathematical Contest In Modeling, Shanghai  
 
 ## Others
+2024. Recommended paper, 2024 World Transport Congress ,  World Transport Congress Committee
 2023. Song Li, et al. First Prize of Excellent paper, Guangxi Road Transport Association.
 
 <!--
