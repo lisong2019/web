@@ -128,6 +128,12 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 2023. 耦合交通事故及拥堵的成因分析框架设计，曾锦涛，指导老师：宋力
 
 
+## Student awards （selected）:
+2024 中国研究生数学建模竞赛全国二等奖（林毅轩、徐锦源）
+2024 中国研究生数学建模竞赛全国三等奖（李士杰）
+2023 中国研究生数学建模竞赛全国二等奖（李士杰）
+
+
 developing...
 
 
