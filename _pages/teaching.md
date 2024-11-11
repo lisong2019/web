@@ -16,7 +16,10 @@ author_profile: true
 3. Transportation system control and practice (Intelligent transportation system control part, 00241070), 2022;  <br>
 4. Traffic flow theory and method (00211033), 2023; <be>
 
-  
+# Teaching Projects or Awards:
+2024	武汉理工大学第四届课程思政微课大赛校级一等奖 <br>
+2024	优秀本科生班主任（交工2201班级），武汉理工大学<br>
+
 The following part is still under development.....<br>
 ======
 {% include base_path %}
