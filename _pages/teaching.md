@@ -17,8 +17,8 @@ author_profile: true
 4. Traffic flow theory and method (00211033), 2023; <be>
 
 # Teaching Projects or Awards:
-2024	武汉理工大学第四届课程思政微课大赛校级一等奖 <br>
-2024	优秀本科生班主任（交工2201班级），武汉理工大学<br>
+2024	First prize of the 4th Micro-course Competition of Wuhan University of Technology <br>
+2024	Excellent Undergraduate Class Teacher of Wuhan University of Technology (Class 2201) <br>
 
 The following part is still under development.....<br>
 ======
