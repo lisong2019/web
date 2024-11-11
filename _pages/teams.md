@@ -36,8 +36,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
         <div class="container">
         	Yixuan Lin (林毅轩) 2024 <details><summary>Details</summary><ul>
 		<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
-		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
 		<li>2024 发明专利申请2项</li>
+  		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
 		<li>2023 第十五届全国大学生数学竞赛二等奖</li>
 		<li>2022 全国大学生数学建模竞赛省一等奖</li>
 		<li>第十六届全国大学生先进成图技术竞赛国赛个人赛二等奖、团体赛二等奖第一名</li>
@@ -52,10 +52,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
           <div class="container">
           	Ke Nie (聂可) 2024 <details><summary>Details</summary><ul>
-		<li>2023 “校三好学生”称号</li>
-		<li>2024年武汉理工大学本科优秀毕业生</li>
+		<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
 		<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
-		<li>第十八届全国大学生交通运输科技大赛校级一等奖</li>
+		<li>第十八届全国大学生交通运输科技大赛校一等奖</li>
 		</ul>
 		</details>  
           </div>
@@ -66,7 +65,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
           <img src="../images/stud/jinyuanxu2024.jpg" width="600" class="research_img">
           <div class="container">
           	Jinyuan Xu (徐锦源) 2024<details><summary>Details</summary><ul>
-		<li>2024年武汉理工大学本科优秀毕业生</li>
+		<li>2024 武汉理工大学本科优秀毕业生</li>
 		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
 		<li>2023 全国大学生数学竞赛二等奖</li>
 		<li>2022 全国大学生数学建模竞赛湖北赛区一等奖</li>
