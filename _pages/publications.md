@@ -14,13 +14,14 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 1. Wu, P., Meng, X.#, **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 -->
-_**Total: 29 ；SCI: 24； EI: 4 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
+_**Total: 30 ；SCI: 25； EI: 4 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
 
 
 **Journal Article:**  
 ====== 
-1. Feng, L., Zhao, X.#, Chen, Z., **<u>Song, L.</u>** (2024). An adaptive coupled control method based on vehicles platooning for intersection controller and vehicle trajectories in mixed traffic. <i>IET Intelligent Transport Systems.</i>（**SCI**）
-2. Zhang, X., Guo, X., Yu, H., Guo, Y., **<u>Song L.,</u>** Zhao, X. (2024) 3D visualisation method for urban road waterlogging based on mobile augmented reality. <i>International Journal of Digital Earth.</i> 17(1). 2378823.（**SCI**）
+1. Luo, S., Liu, B., **<u>Song, L.#</u>**, Xia, J. (2024). A Field Study about the Effects of Asymmetric Visual Perception on Lateral Driving Behaviors on Curves. <i>Journal of Transportation Engineering, Part A: Systems.</i>  （**SCI**）
+2. Feng, L., Zhao, X.#, Chen, Z., **<u>Song, L.</u>** (2024). An adaptive coupled control method based on vehicles platooning for intersection controller and vehicle trajectories in mixed traffic. <i>IET Intelligent Transport Systems.</i>（**SCI**）
+3. Zhang, X., Guo, X., Yu, H., Guo, Y., **<u>Song L.,</u>** Zhao, X. (2024) 3D visualisation method for urban road waterlogging based on mobile augmented reality. <i>International Journal of Digital Earth.</i> 17(1). 2378823.（**SCI**）
 1. **<u>Song, L.</u>** and Fan, W.#, (2023). Performance of State-Shared Multi-Agent Deep Reinforcement Learning Controlled Signal Corridor with Platooning-Based CAVs,  <i>ASCE Journal of Transportation Engineering, Part A: System</i>,（**SCI, IF:2.252**）
 4. **<u>Song, L.</u>** and Fan, W.#, (2023). Intersection capacity adjustments considering different market penetration rates of connected and automated vehicles. <i>Transportation Planning and Technology</i>（**SCI**）
 5. Li, Y., Fan, W., **<u>Song, L.</u>** and Liu, S. (2022). Combining Emerging Hotspots Analysis with XGBoost for Modeling Pedestrian Injuries in Pedestrian-Vehicle Crashes: A Case Study of North Carolina, <i>Journal of Transportation Safety & Security</i>. (**SCI, Q3, IF:3.0**) 
