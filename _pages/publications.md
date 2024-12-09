@@ -14,7 +14,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 1. Wu, P., Meng, X.#, **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
 -->
-_**Total: 30 ；SCI: 25； EI: 4 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
+_**Total: 31 ；SCI: 25； EI: 5 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
 
 
 **Journal Article:**  
@@ -49,5 +49,6 @@ _**Total: 30 ；SCI: 25； EI: 4 ；Others: 1** (note: corresponding author is n
 **Conference Article:**  
 ====== 
 1. Li, S., Lei, L., Deng, Z., Sheng, B., **<u>Song, L.#</u>** (2024) Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits. World Transportation Conference 2024, 1-18.
+2. Xu, P., Zhang, B., Zeng, J., **<u>Song, L.#</u>** (2024). A Machine Learning Framework for Analyzing the Causes of Traffic Accident-Induced Congestion. In CICTP 2024.
 44. Wang, X., **<u>Song, L.</u>**, Wu, P., Yu, S. (2019). Analysis of Unconventional Design for Signalized and Closely-Spaced T-Intersections. In CICTP 2019 (pp. 2636-2647). (**EI**) \[[DOI](https://doi.org/10.1061/9780784482292.229)\]\[<a href="../files/PAPER/cota2019.pdf">PDF</a>\]
 47. Wang, X., **<u>Song, L.</u>**, Wu, P. (2018, September). A Novel Method of Island Port's Transport: Automatic Guided Vehicle Approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE) (pp. 219-224). IEEE. (**EI**) \[[DOI](https://doi.org/10.1109/ICITE.2018.8492567)\]\[<a href="../files/PAPER/ICITE2018-8.pdf">PDF</a>\]
