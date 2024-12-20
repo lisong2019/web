@@ -123,16 +123,22 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
  </tbody>
 </table>
 
-## Excellent undergraduate dissertation guidance：
+## Excellent Undergraduate Dissertation Guidance：
 2024. 双向两车道改扩建场景下车流信号智能管控研究，林毅轩，指导老师：宋力
 2023. 耦合交通事故及拥堵的成因分析框架设计，曾锦涛，指导老师：宋力
 
 
-## Student awards （selected）:
+## Student Contest Awards（selected）:
+2024.12 基于飞桨的多车道动态可变限速控制系统，中国高校计算机大赛，全国二等奖，刘俊杰，吴东篱，曾浩轩
+2023.10 基于飞桨的城市拥堵快速路实时上匝道智能信号灯管控系统，中国高校计算机大赛，省三等奖，褚嘉怡，胡志芳，董芃慧
 2024 中国研究生数学建模竞赛全国二等奖（林毅轩、徐锦源）<br>
 2024 中国研究生数学建模竞赛全国三等奖（李士杰）<br>
 2023 中国研究生数学建模竞赛全国二等奖（李士杰）<br>
 
+## Student Awards （selected）:
+
+## Student Research Projects （selected）:
+2024.6 智路控行”—基于深度强化学习的多车道分组可变限速控制系统，校自主创新研究基金本科生创新团队培育项目，柳乐
 
 developing...
 
