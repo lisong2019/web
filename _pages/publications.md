@@ -12,7 +12,7 @@ More info about Li Song can be found in [Research Gate](https://www.researchgate
 ======
 _(note: corresponding author is noted with #; cooperative first author is noted with *;)_<br>
 
-1. Wu, P., Meng, X.#, **Song, L.** What is the Systematic Risk and Individual Risk of Urban Crashes Based on Different Crash Types? Evidence from Shenzhen City, China. <i>Journal of Transportation Research Record</i> (under review)
+1. 
 -->
 _**Total: 33 ；SCI: 27； EI: 5 ；Others: 1** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
 
