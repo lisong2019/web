@@ -15,6 +15,17 @@ author_profile: true
 2019-2022. **Major Completer**. Spatiotemporal Patterns and Crash Injury Severity Factors Identification. USDOT CAMMSE Transportation Research Center Sponsored. <br>
 -->
 
+# Patent: 
+2024	宋力, 林毅轩, 韦彬, 董芃慧, 陈国俊, 一种智能双向单车道改扩建信号管控方法和系统. <br>
+2024	宋力, 李士杰, 柳乐, 宗嘉伟, 陈婷婷, 韩之恒, 融合实时预测交通态势的道路可变限速控制装置及方法. CN202410984160.8<br>
+2024	宋力, 章步镐, 林毅轩, 蒋立靓, 褚嘉怡, 张学全, 胡志芳, 董芃慧, 李士杰. 一种城市快速路的车流管控方法和系统. CN202411109233.5<br>
+2024	孔桦桦, 宋力, 李士杰, 柳乐, 陈婷婷, 张学全, 蒋立靓. 一种车联网场景下的车速管控方法、系统、装置和介质. CN202410307967.8<br>
+2024	宋力, 杨启明, 宋岱骋, 林毅轩, 黄林风. 一种移动式路侧行人交通冲突监测与预警装置及方法. CN202410489742.9<br>
+2023	张学全, 陈超然, 宋力, 陈国俊, 张抒扬. 面向早高峰地铁站接驳的共享单车综合调度方法及系统. CN 202310711918.6<br>
+2023	张学全, 黄震, 宋力， 刘兵. 兼顾全局效率与局部错位的城市交通路网韧性评估方法, ZL202310570846.8，<br>
+
+
+
 # Selected Awards:
 ## International Level
 2022 **“2021 Chinese Government Award for Outstanding Self-financed Students Abroad”**, China Scholarship Council (600, NA) <br>
