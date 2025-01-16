@@ -17,6 +17,10 @@ author_profile: true
 4. Traffic flow theory and method (00211033), 2023; <be>
 
 ---
+# Books:
+1. 教材	参编，《智能运输系统：原理、方法及应用》ISSN: 978-7-5629-7188-7, 吴超仲主编，2024 <br>
+
+---
 # Teaching Projects or Awards:
 2025  Second Prize of the Fifth Teachers' Teaching Innovation Competition, Wuhan University of Technology <br>
 2024	First prize of the 4th Micro-course Competition of Wuhan University of Technology <br>
