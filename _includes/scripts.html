@@ -21,15 +21,15 @@ function toggleInfo(master_id,info) {
 			}
 		} else if (c2 && info == 'details2') {
 			if(c2.className.indexOf('details2') != -1) {
-			bib.className.indexOf('noshow') == -1?bib.className = 'details2 noshow':bib.className = 'details2';
+			c2.className.indexOf('noshow') == -1?c2.className = 'details2 noshow':c2.className = 'details2';
 			}
 		} else {
 			return;
 		}
 
 
-		var absshow = false;
-		var bibshow = false;
+		var c1show = false;
+		var c2show = false;
 		(c1 && c1.className.indexOf('noshow') == -1)? c1show = true: c1show = false;
 		(c2 && c2.className == 'details2')? c2show = true: c2show = false;
 
