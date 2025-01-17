@@ -19,9 +19,14 @@ function toggleInfo(master_id,info) {
 			if(c1.className.indexOf('details1') != -1) {
 			c1.className.indexOf('noshow') == -1?c1.className = 'details1 noshow':c1.className = 'details1';
 			}
-		}  else {
+		} else if (c2 && info == 'details2') {
+			if(c2.className.indexOf('details2') != -1) {
+			bib.className.indexOf('noshow') == -1?bib.className = 'details2 noshow':bib.className = 'details2';
+			}
+		} else {
 			return;
 		}
+
 
 		var absshow = false;
 		var bibshow = false;
