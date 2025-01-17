@@ -8,37 +8,36 @@
 
 function toggleInfo(articleid,info) {
 
-		var entry = document.getElementById(articleid);
-		var abs = document.getElementById('dis_'+articleid);
-		var bib = document.getElementById('awd_'+articleid);
+		var entry = document.getElementById(master_id);
+		var c1 = document.getElementById('c1_'+master_id);
+		var c2 = document.getElementById('c2_'+master_id);
+		var c3 = document.getElementById('c3_'+master_id);
+		var c4 = document.getElementById('c3_'+master_id);
+		var c5 = document.getElementById('c5_'+master_id);
 
-		if (abs && info == 'Dissertation') {
-			if(abs.className.indexOf('Dissertation') != -1) {
-			abs.className.indexOf('noshow') == -1?abs.className = 'Dissertation noshow':abs.className = 'Dissertation';
+		if (c1 && info == 'details') {
+			if(c1.className.indexOf('details1') != -1) {
+			c1.className.indexOf('noshow') == -1?c1.className = 'details1 noshow':c1.className = 'details1';
 			}
-		} else if (bib && info == 'Awards') {
-			if(bib.className.indexOf('Awards') != -1) {
-			bib.className.indexOf('noshow') == -1?bib.className = 'Awards noshow':bib.className = 'Awards';
-			}
-		} else {
+		}  else {
 			return;
 		}
 
 		var absshow = false;
 		var bibshow = false;
-		(abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
-		(bib && bib.className == 'Awards')? bibshow = true: bibshow = false;
+		(c1 && c1.className.indexOf('noshow') == -1)? c1show = true: c1show = false;
+		(c2 && c2.className == 'bibtex')? c2show = true: c2show = false;
 
 		if(entry) {
-			if (absshow || bibshow) {
+			if (c1show || c2show) {
 			entry.className = 'entry highlight show';
 			} else {
 			entry.className = 'entry show';
 			}
 		}
 
-		if(absshow) {
-			(bibshow)?abs.className = 'Dissertation nextshow':abs.className = 'Dissertation';
+		if(c1show) {
+			(c2show)?abs.className = 'details1 nextshow':c1.className = 'details1';
 		}
 	}
 </script>
