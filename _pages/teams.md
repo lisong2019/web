@@ -323,7 +323,6 @@ developing...
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr>
 		<!-- Item Finished*********************************** -->
-
 	</tbody>
 </table>
 
