@@ -23,6 +23,10 @@ function toggleInfo(master_id,info) {
 			if(c2.className.indexOf('details2') != -1) {
 			c2.className.indexOf('noshow') == -1?c2.className = 'details2 noshow':c2.className = 'details2';
 			}
+		} else if (c3 && info == 'details3') {
+			if(c3.className.indexOf('details3') != -1) {
+			c3.className.indexOf('noshow') == -1?c3.className = 'details3 noshow':c3.className = 'details3';
+			}
 		} else {
 			return;
 		}
@@ -30,11 +34,13 @@ function toggleInfo(master_id,info) {
 
 		var c1show = false;
 		var c2show = false;
+		var c3show = false;
 		(c1 && c1.className.indexOf('noshow') == -1)? c1show = true: c1show = false;
 		(c2 && c2.className == 'details2')? c2show = true: c2show = false;
+		(c3 && c3.className == 'details3')? c3show = true: c3show = false;
 
 		if(entry) {
-			if (c1show || c2show) {
+			if (c1show || c2show || c3show) {
 			entry.className = 'entry highlight show';
 			} else {
 			entry.className = 'entry show';
