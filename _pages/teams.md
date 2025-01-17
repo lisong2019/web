@@ -142,7 +142,50 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 
 developing...
 
-
-
+<table style="width:100%">
+    <thead>
+	<tr>
+		<th width="20%">Highlight</th>
+		<th width="20%">Authors</th>
+		<th width="20%">Title</th>
+		<th width="20%">Year</th>
+		<th width="20%">Journal/Proceedings</th>
+	</tr>
+    </thead>
+	<tbody>
+		<tr id="li2024steering" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
+				<div class="container">
+				Yixuan Lin
+				</div>
+				</div>
+			</td>
+			<td>Z Li#, <strong>Z Cui</strong>#, H Liao, J Ash, G Zhang, C Xu, Y Wang* </td>
+			<td>
+				Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('li2024steering','abstract')">Abstract</a>]
+						<!--[<a href="https://ieeexplore.ieee.org/abstract/document/10595852">PDF</a>]-->
+						<!-- [<a href="https://arxiv.org/pdf/2405.04909">arXiv</a>] -->
+						<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>CHAIN</td>
+      	</tr>
+		</tr>
+		<tr id="abs_li2024steering" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: At the intersection of artificial intelligence and urban development, this paper unveils the pivotal role of Foundation Models (FMs) in revolutionizing Intelligent Transportation Systems (ITS). Against the backdrop of escalating urbanization and environmental concerns, we rigorously assess how FMs—spanning large language models, vision-language models, large multimodal models, etc.—can redefine urban mobility paradigms. Our discussion extends to the potential of modular, scalable models and strategic public-private partnerships in facilitating seamless integration. Through a comprehensive literature review and theoretical framework, this paper underscores the significant role of FMs in steering the future of transportation towards unprecedented levels of intelligence and responsiveness. The insights offered aim to guide policymakers, engineers, and researchers in the ethical and effective adoption of FMs, paving the way for a new era in transportation systems.</div></td>
+		</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+	</tbody>
+</table>
 
 
