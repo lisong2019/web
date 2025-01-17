@@ -19,11 +19,11 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 <table style="width:100%">
     <thead>
 	<tr>
-		<th width="20%">Highlight</th>
-		<th width="20%">Authors</th>
-		<th width="20%">Title</th>
-		<th width="20%">Year</th>
-		<th width="20%">Journal/Proceedings</th>
+		<th width="20%">Master Students</th>
+		<th width="20%"></th>
+		<th width="20%"></th>
+		<th width="20%"></th>
+		<th width="20%"></th>
 	</tr>
     </thead>
 	<tbody>
