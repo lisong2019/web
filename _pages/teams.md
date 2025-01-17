@@ -168,8 +168,8 @@ developing...
 				<img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
 				<div class="container">Ke Nie (聂可) 2024</div>
 				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','niedetails')">Details</a>]</p>
-				</div>
+					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','niedetails')">Details</a>]
+				</p></div>
 				</div>
 			</td>
 			<td>
