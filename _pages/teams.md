@@ -164,23 +164,24 @@ developing...
 				<div class="polaroid">
 				<img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
 				<div class="container">Yixuan Lin (林毅轩) 2024</div>
+				<p class="infolinks"> 
+				[<a href="javascript:toggleInfo('li2024steering','lindetails')">Details</a>]</p>
 				</div>
 			</td>
 			<td>
 				Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models<br>
 						<p class="infolinks"> 
 						[<a href="javascript:toggleInfo('li2024steering','abstract')">Abstract</a>]
-						<!--[<a href="https://ieeexplore.ieee.org/abstract/document/10595852">PDF</a>]-->
-						<!-- [<a href="https://arxiv.org/pdf/2405.04909">arXiv</a>] -->
+						[<a href="javascript:toggleInfo('wang2023accidentgpt','bibtex')">BibTeX</a>] 
 						<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
-						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
-						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
-						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
 					</p>
 			</td>
 			<td>2024</td>
 			<td>CHAIN</td>
-      	</tr>
+      		</tr>
+		<tr id="abs_li2024steering" class="lindetails noshow">
+			<td colspan="5"><div align="justify"> <b>Details</b>: 123.</div></td>
+		</tr>
 		<tr id="abs_li2024steering" class="abstract noshow">
 			<td colspan="5"><div align="justify"> <b>Abstract</b>: 123.</div></td>
 		</tr>
