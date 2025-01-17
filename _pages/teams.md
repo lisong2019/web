@@ -173,26 +173,41 @@ developing...
 				</div>
 			</td>
 			<td>
-				Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models<br>
+				<div class="polaroid">
+				<img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
+				<div class="container">Shijie Li (李士杰) 2023 </div>
+				<div class="container">
+					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','details3')">Details</a>]
+				</p></div>
+				</div>
 			</td>
 			<td>2024</td>
 			<td>CHAIN</td>
       		</tr>
 		<tr id="c1_master1" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>林毅轩</b>: 		
-		<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
-		<li>2024 发明专利申请2项</li>
-  		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
-		<li>2023 第十五届全国大学生数学竞赛二等奖</li>
-		<li>2022 全国大学生数学建模竞赛省一等奖</li>
-		<li>第十六届全国大学生先进成图技术竞赛国赛个人赛二等奖、团体赛二等奖第一名</li>
-		<li>第十四届华中杯大学生数学建模挑战赛二等奖</li></div></td>
+			<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
+			<li>2024 发明专利申请2项</li>
+	  		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
+			<li>2023 第十五届全国大学生数学竞赛二等奖</li>
+			<li>2022 全国大学生数学建模竞赛省一等奖</li>
+			<li>第十六届全国大学生先进成图技术竞赛国赛个人赛二等奖、团体赛二等奖第一名</li>
+			<li>第十四届华中杯大学生数学建模挑战赛二等奖</li></div></td>
 		</tr>
 		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>聂可</b>:
-		<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
-		<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
-		<li>第十八届全国大学生交通运输科技大赛校一等奖</li></div></td>
+			<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
+			<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
+			<li>第十八届全国大学生交通运输科技大赛校一等奖</li></div></td>
+		</tr>
+		<tr id="c3_master1" class="details3 noshow">
+			<td colspan="5"><div align="justify"> <b>李士杰</b>:
+			<li>2024 中国研究生数学建模竞赛全国三等奖</li>
+			<li>2023 中国研究生数学建模竞赛全国二等奖</li>
+			<li>全国大学生数学建模竞赛本科组全国一等奖</li>
+			<li>2023-2024 发明专利申请2项</li>
+			<li>2024 世界交通运输大会推荐论文</li>
+			<li>2023 研究生一等奖学金</li></div></td>
 		</tr>
 		<!-- Item Finished -->
 		<!-- Item Finished -->
@@ -200,31 +215,3 @@ developing...
 </table>
 
 
-details {
-  font:
-    16px "Open Sans",
-    Calibri,
-    sans-serif;
-  width: 620px;
-}
-
-details > summary {
-  padding: 2px 6px;
-  width: 15em;
-  background-color: #ddd;
-  border: none;
-  box-shadow: 3px 3px 4px black;
-  cursor: pointer;
-}
-
-details > p {
-  border-radius: 0 0 10px 10px;
-  background-color: #ddd;
-  padding: 2px 6px;
-  margin: 0;
-  box-shadow: 3px 3px 4px black;
-}
-
-details[open] > summary {
-  background-color: #ccf;
-}
