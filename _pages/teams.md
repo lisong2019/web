@@ -157,10 +157,10 @@ developing...
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
-				<div class="container">Yixuan Lin (林毅轩) 2024</div>
-				<div class="container"><p class="infolinks"> 
+				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master1','details1')">Details</a>]
+				<!--<div class="container"><p class="infolinks"> 
 					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
-				</p></div>
+				</p></div>-->
 				</div>
 			</td>
 			<td>
