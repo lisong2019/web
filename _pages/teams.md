@@ -234,7 +234,7 @@ developing...
 			<li>2023 研究生一等奖学金</li></div></td>
 		</tr>
 		<tr id="c5_master1" class="details5 noshow">
-			<td colspan="5"><div align="justify"> <b>李士杰</b>:
+			<td colspan="5"><div align="justify"> <b>徐鹏飞</b>:
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr>
 		<!-- Item Finished -->
