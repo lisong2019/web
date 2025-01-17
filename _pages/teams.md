@@ -48,27 +48,21 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/jinyuanxu2024.jpg" width="600" class="research_img">
-				<div class="container">Jinyuan Xu (徐锦源) 2024 </div>
-				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','details3')">Details</a>]
+				<div class="container">Jinyuan Xu (徐锦源) 2024 [<a href="javascript:toggleInfo('master1','details3')">Details</a>]</div>
 				</p></div>
 				</div>
 			</td>
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
-				<div class="container">Shijie Li (李士杰) 2023 </div>
-				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','details4')">Details</a>]
+				<div class="container">Shijie Li (李士杰) 2023 [<a href="javascript:toggleInfo('master1','details4')">Details</a>]</div>
 				</p></div>
 				</div>
 			</td>
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
-				<div class="container">Pengfei Xu (徐鹏飞) 2023 </div>
-				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','details5')">Details</a>]
+				<div class="container">Pengfei Xu (徐鹏飞) 2023 [<a href="javascript:toggleInfo('master1','details5')">Details</a>]</div>
 				</p></div>
 				</div>	
 			</td>
@@ -111,6 +105,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr>
 		<!-- Item Finished*********************************** -->
+		<!--
 		<tr id="master2" class="entry">
 			<td>
 				<div class="polaroid">
@@ -187,7 +182,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td colspan="5"><div align="justify"> <b>徐鹏飞</b>:
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr> 
-		<!-- Item Finished*********************************** -->
+		<!-- Item Finished*********************************** -->  
 	</tbody>
 </table>
 					
