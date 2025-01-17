@@ -113,14 +113,11 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr>
 		<!-- Item Finished*********************************** -->
-		<tr id="master2" class="entry">
+		<!--<tr id="master2" class="entry">
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
 				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
-				<!--<div class="container"><p class="infolinks"> 
-					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
-				</p></div>-->
 				</div>
 			</td>
 			<td>
@@ -196,7 +193,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<tr id="c5_master2" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>徐鹏飞</b>:
 			<li>2024 COTA2024会议论文</li></div></td>
-		</tr>
+		</tr> 
+		-->
 		<!-- Item Finished*********************************** -->
 	</tbody>
 </table>
