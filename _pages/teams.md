@@ -179,7 +179,14 @@ developing...
 			<td>CHAIN</td>
       		</tr>
 		<tr id="c1_master1" class="details1 noshow">
-			<td colspan="5"><div align="justify"> <b>Details</b>: 123.</div></td>
+			<td colspan="5"><div align="justify"> <b>林毅轩</b>: 		
+		<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
+		<li>2024 发明专利申请2项</li>
+  		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
+		<li>2023 第十五届全国大学生数学竞赛二等奖</li>
+		<li>2022 全国大学生数学建模竞赛省一等奖</li>
+		<li>第十六届全国大学生先进成图技术竞赛国赛个人赛二等奖、团体赛二等奖第一名</li>
+		<li>第十四届华中杯大学生数学建模挑战赛二等奖</li></div></td>
 		</tr>
 		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>Details</b>: 456.</div></td>
