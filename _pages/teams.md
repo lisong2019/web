@@ -159,7 +159,7 @@ developing...
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
 				<div class="container">Yixuan Lin (林毅轩) 2024</div>
 				<div class="container"><p class="infolinks"> 
-					[<a href="javascript:toggleInfo('master1','lindetails')">Details</a>]
+					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
 				</p></div>
 				</div>
 			</td>
@@ -168,7 +168,7 @@ developing...
 				<img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
 				<div class="container">Ke Nie (聂可) 2024</div>
 				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','niedetails')">Details</a>]
+					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','details2')">Details</a>]
 				</p></div>
 				</div>
 			</td>
@@ -178,10 +178,10 @@ developing...
 			<td>2024</td>
 			<td>CHAIN</td>
       		</tr>
-		<tr id="linxiyuan_master1" class="lindetails noshow">
+		<tr id="c1_master1" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>Details</b>: 123.</div></td>
 		</tr>
-		<tr id="nieke_master1" class="niedetails noshow">
+		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>Details</b>: 456.</div></td>
 		</tr>
 		<!-- Item Finished -->
