@@ -158,9 +158,9 @@ developing...
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
 				<div class="container">Yixuan Lin (林毅轩) 2024</div>
-				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master1','lindetails')">Details</a>]</p>
-				</div>
+				<div class="container"><p class="infolinks"> 
+					[<a href="javascript:toggleInfo('master1','lindetails')">Details</a>]
+				</p></div>
 				</div>
 			</td>
 			<td>
@@ -174,11 +174,6 @@ developing...
 			</td>
 			<td>
 				Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models<br>
-					<p class="infolinks"> 
-					[<a href="javascript:toggleInfo('master1','abstract')">Abstract</a>]
-					[<a href="javascript:toggleInfo('master1','bibtex')">BibTeX</a>] 
-					<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
-					</p>
 			</td>
 			<td>2024</td>
 			<td>CHAIN</td>
