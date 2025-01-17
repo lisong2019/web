@@ -113,7 +113,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr>
 		<!-- Item Finished*********************************** -->
-		<!--<tr id="master2" class="entry">
+		<tr id="master2" class="entry">
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
@@ -194,7 +194,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td colspan="5"><div align="justify"> <b>徐鹏飞</b>:
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr> 
-		-->
 		<!-- Item Finished*********************************** -->
 	</tbody>
 </table>
