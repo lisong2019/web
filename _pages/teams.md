@@ -158,31 +158,32 @@ developing...
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
 				<div class="container">Yixuan Lin (林毅轩) 2024</div>
+				<div class="container">
+					<p class="infolinks"> [<a href="javascript:toggleInfo('li2024steering','lindetails')">Details</a>]</p>
+				</div>
 				</div>
 			</td>
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
-				<div class="container">Yixuan Lin (林毅轩) 2024</div>
-				<p class="infolinks"> 
-				[<a href="javascript:toggleInfo('li2024steering','lindetails')">Details</a>]</p>
+				<div class="container">Ke Nie (聂可) 2024</div>
 				</div>
 			</td>
 			<td>
 				Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models<br>
-						<p class="infolinks"> 
-						[<a href="javascript:toggleInfo('li2024steering','abstract')">Abstract</a>]
-						[<a href="javascript:toggleInfo('wang2023accidentgpt','bibtex')">BibTeX</a>] 
-						<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+					<p class="infolinks"> 
+					[<a href="javascript:toggleInfo('li2024steering','abstract')">Abstract</a>]
+					[<a href="javascript:toggleInfo('wang2023accidentgpt','bibtex')">BibTeX</a>] 
+					<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
 					</p>
 			</td>
 			<td>2024</td>
 			<td>CHAIN</td>
       		</tr>
-		<tr id="abs_li2024steering" class="lindetails noshow">
+		<tr id="1_li2024steering" class="lindetails noshow">
 			<td colspan="5"><div align="justify"> <b>Details</b>: 123.</div></td>
 		</tr>
-		<tr id="abs_li2024steering" class="abstract noshow">
+		<tr id="2_li2024steering" class="abstract noshow">
 			<td colspan="5"><div align="justify"> <b>Abstract</b>: 123.</div></td>
 		</tr>
 		<!-- Item Finished -->
