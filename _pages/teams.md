@@ -16,6 +16,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 
 
 ## Current Research Team:
+
 <table style="width:100%">
     <thead>
 	<tr>
@@ -31,7 +32,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
-				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master1','details1')">Details</a>]
+				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master1','details1')">Details</a>]</div>
 				<!--<div class="container"><p class="infolinks"> 
 					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
 				</p></div>-->
@@ -116,7 +117,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
-				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master2','details1')">Details</a>]
+				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
 				<!--<div class="container"><p class="infolinks"> 
 					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
 				</p></div>-->
