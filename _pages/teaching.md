@@ -18,7 +18,7 @@ author_profile: true
 
 ---
 # Books:
-1. Participant in Textbook: Wu Chaozhong et al., Intelligent Transport Systems: Principles, Methods and Applications, ISSN: 978-7-5629-7188-7, 2024. <details><summary>Details</summary><ul>
+1. Participant in Textbook: Wu Chaozhong et al., Intelligent Transport Systems: Principles, Methods and Applications, ISSN: 978-7-5629-7188-7, 2024.<details><summary>Details</summary><ul>
 		<li>教材参编，《智能运输系统：原理、方法及应用》ISSN: 978-7-5629-7188-7, 吴超仲主编，2024</li></ul></details>  
 
 
