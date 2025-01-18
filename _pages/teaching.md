@@ -20,12 +20,14 @@ author_profile: true
 # Books:
 1. Participant in Textbook: Wu Chaozhong et al., Intelligent Transport Systems: Principles, Methods and Applications, ISSN: 978-7-5629-7188-7, 2024.<details><summary>Details</summary><li>教材参编，《智能运输系统：原理、方法及应用》ISSN: 978-7-5629-7188-7, 吴超仲主编，2024</li></details>  
 
-
 ---
-# Teaching Projects or Awards:
+# Teaching Awards:
 1. 2025  Second Prize of the Fifth Teachers' Teaching Innovation Competition, Wuhan University of Technology <br>
 2. 2024	First prize of the 4th Micro-course Competition of Wuhan University of Technology <br>
-3. 2024	Excellent Undergraduate Class Teacher of Wuhan University of Technology (Class 2201) <br>
+3. 2024	Excellent Undergraduate Class Teacher of Wuhan University of Technology (Class 2201) <be>
+
+---
+# Teaching Projects:
 
 ---
 
