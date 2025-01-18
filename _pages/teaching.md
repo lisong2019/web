@@ -17,9 +17,7 @@ author_profile: true
 4. Traffic flow theory and method (00211033), 2023; <be>
 
 ---
-# Books:
-<details><summary># Books:</summary>教材参编，《智能运输系统：原理、方法及应用》ISSN: 978-7-5629-7188-7, 吴超仲主编，2024</details>
-1. Participant in Textbook: Wu Chaozhong et al., Intelligent Transport Systems: Principles, Methods and Applications, ISSN: 978-7-5629-7188-7, 2024. <details><summary>Details</summary>教材参编，《智能运输系统：原理、方法及应用》ISSN: 978-7-5629-7188-7, 吴超仲主编，2024</details>
+# Books: <details><summary># Details:</summary>教材参编，《智能运输系统：原理、方法及应用》ISSN: 978-7-5629-7188-7, 吴超仲主编，2024</details>
 <details><summary>1. Participant in Textbook: Wu Chaozhong et al., Intelligent Transport Systems: Principles, Methods and Applications, ISSN: 978-7-5629-7188-7, 2024. </summary>
   <p>教材参编，《智能运输系统：原理、方法及应用》ISSN: 978-7-5629-7188-7, 吴超仲主编，2024</p></details>
 ---
