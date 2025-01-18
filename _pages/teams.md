@@ -69,10 +69,10 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>2024 发明专利申请3项</li>
 			<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
 	  		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
-			<li>2023 第十五届全国大学生数学竞赛二等奖</li>
-			<li>2022 全国大学生数学建模竞赛省一等奖</li>
+			<li>2023 第十五届全国大学生数学竞赛二等奖、</li>
+			<li>2022 全国大学生数学建模竞赛省一等奖、第十四届华中杯大学生数学建模挑战赛二等奖</li>
 			<li>第十六届全国大学生先进成图技术竞赛国赛个人赛二等奖、团体赛二等奖第一名</li>   
-			<li>第十四届华中杯大学生数学建模挑战赛二等奖</li></div></td>
+			</div></td>
 		</tr>
 		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>聂可 2024级硕士</b>:
@@ -85,16 +85,15 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>2024 武汉理工大学本科优秀毕业生</li>
 			<li>2024 中国研究生数学建模竞赛全国二等奖</li>
 			<li>2023 全国大学生数学竞赛二等奖</li>
-			<li>2022 全国大学生数学建模竞赛湖北赛区一等奖</li>
-			<li>第十四届华中杯大学生数学建模挑战赛二等奖</li></div></td>
+			<li>2022 全国大学生数学建模竞赛湖北赛区一等奖、第十四届华中杯大学生数学建模挑战赛二等奖</li>
+			</div></td>
 		</tr>
 		<tr id="c4_master1" class="details4 noshow">
 			<td colspan="5"><div align="justify"> <b>李士杰 2023级硕士</b>:
 			<li>2025 论文发表SCIQ1一篇</li>
 			<li>2024 发明专利申请3项</li>
 			<li>2024 世界交通运输大会推荐论文</li>
-			<li>2024 中国研究生数学建模竞赛全国三等奖</li>
-			<li>2023 中国研究生数学建模竞赛全国二等奖</li>
+			<li>2023 中国研究生数学建模竞赛全国二等奖、2024 中国研究生数学建模竞赛全国三等奖</li>
 			<li>全国大学生数学建模竞赛本科组全国一等奖</li>
 			<li>2023 研究生一等奖学金</li></div></td>
 		</tr>
