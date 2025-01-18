@@ -23,9 +23,9 @@ author_profile: true
 
 ---
 # Teaching Projects or Awards:
-2025  Second Prize of the Fifth Teachers' Teaching Innovation Competition, Wuhan University of Technology <br>
-2024	First prize of the 4th Micro-course Competition of Wuhan University of Technology <br>
-2024	Excellent Undergraduate Class Teacher of Wuhan University of Technology (Class 2201) <br>
+1. 2025  Second Prize of the Fifth Teachers' Teaching Innovation Competition, Wuhan University of Technology <br>
+2. 2024	First prize of the 4th Micro-course Competition of Wuhan University of Technology <br>
+3. 2024	Excellent Undergraduate Class Teacher of Wuhan University of Technology (Class 2201) <br>
 
 ---
 
