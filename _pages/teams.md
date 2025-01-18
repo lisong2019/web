@@ -197,7 +197,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 ## Student Awards （selected）:
 
 ## Student Research Projects （selected）:
-2024.6 智路控行”—基于深度强化学习的多车道分组可变限速控制系统，校自主创新研究基金本科生创新团队培育项目，柳乐<br>
+2024.6 智路控行”—基于深度强化学习的多车道分组可变限速控制系统，**校自主创新研究基金本科生创新团队培育项目**，柳乐<br>
 
 developing...
 
