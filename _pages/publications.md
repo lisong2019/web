@@ -19,7 +19,9 @@ _**Total: 33 ；SCI: 27； EI: 5 ；Others: 1** (note: corresponding author is n
 
 **Journal Article:**  
 ====== 
-1. **<u>Song, L.</u>**，Li, S., Yang, Q., Liu, B., Lyu, N., # Fan, W. (2025). Partially temporally constrained modeling of speeding crash-injury severities on freeways and non-freeways before, during, and after the stay-at-home order. <i>Accident Analysis and Prevention</i>. In Press. (**SCI, Q1**)
+1. **<u>Song, L.</u>**，Lin, Y., Chen, G., Zhao, X., Zhang, X.#, # Fan, W. (2025). Exploring behavior shifts and sample selectivity issues among speeding single-vehicle crash-injury severities before-and-after the stay-at-home order. <i>International Journal of Injury Control and Safety Promotion</i>. (**SCI, Q2**) 
+1. Liu, W., **<u>Song, L.</u>**, Dong, Y., Zhang, X.#, & Xu, L. (2025). Unified model predictive control method of automated vehicles for lane-changing and lane-keeping maneuvers. <i>Journal of Intelligent Transportation Systems, 1–21</i>. (**SCI, Q2**) 
+2.  **<u>Song, L.</u>**，Li, S., Yang, Q., Liu, B., Lyu, N., # Fan, W. (2025). Partially temporally constrained modeling of speeding crash-injury severities on freeways and non-freeways before, during, and after the stay-at-home order. <i>Accident Analysis and Prevention</i>. In Press. (**SCI, Q1**)
 1. **<u>Song, L.</u>**，Lin, Y., Xu, G., Zhang, X.,# Liu, W., Liu, B., Chen, G. (2025). Spatiotemporal crash outliers are also noteworthy: evidence from 13 years of pedestrian-vehicle crashes in North Carolina. <i>Injury Prevention</i> (**SCI, Q2**) 
 2. Luo, S., Liu, B., **<u>Song, L.#</u>**, Xia, J. (2024). A Field Study about the Effects of Asymmetric Visual Perception on Lateral Driving Behaviors on Curves. <i>Journal of Transportation Engineering, Part A: Systems.</i>  （**SCI**）
 3. Feng, L., Zhao, X.#, Chen, Z., **<u>Song, L.</u>** (2024). An adaptive coupled control method based on vehicles platooning for intersection controller and vehicle trajectories in mixed traffic. <i>IET Intelligent Transport Systems.</i>（**SCI**）
