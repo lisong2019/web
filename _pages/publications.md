@@ -19,7 +19,7 @@ _**Total: 34, including SCI: 28； EI: 5 ；Others: 1** (note: corresponding aut
 
 **Journal Article:**  
 ====== 
-1.**<u>Song, L.</u>**，Lin, Y., Zhao, X., Lyu, N.#, # Fan, W. (2025). Exploring the feasibility and sensitivity of deep reinforcement learning controlled traffic signals in bidirectional two-lane road work zones. <i>Expert Systems With Applications</i>. (**SCI, Q1, IF=7.5 中科院一区TOP**) 
+1.**<u>Song, L.</u>**，Lin, Y., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring the feasibility and sensitivity of deep reinforcement learning controlled traffic signals in bidirectional two-lane road work zones. <i>Expert Systems With Applications</i>. (**SCI, Q1, IF=7.5 中科院一区TOP**) 
 2. **<u>Song, L.</u>**，Lin, Y., Chen, G., Zhao, X., Zhang, X.#, # Fan, W. (2025). Exploring behavior shifts and sample selectivity issues among speeding single-vehicle crash-injury severities before-and-after the stay-at-home order. <i>International Journal of Injury Control and Safety Promotion</i>. (**SCI, Q2**) 
 1. Liu, W., **<u>Song, L.</u>**, Dong, Y., Zhang, X.#, & Xu, L. (2025). Unified model predictive control method of automated vehicles for lane-changing and lane-keeping maneuvers. <i>Journal of Intelligent Transportation Systems, 1–21</i>. (**SCI, Q2**) 
 2.  **<u>Song, L.</u>**，Li, S., Yang, Q., Liu, B., Lyu, N., # Fan, W. (2025). Partially temporally constrained modeling of speeding crash-injury severities on freeways and non-freeways before, during, and after the stay-at-home order. <i>Accident Analysis and Prevention</i>. In Press. (**SCI, Q1**)
