@@ -76,6 +76,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>聂可 2024级硕士</b>:
+			<li>2025 发明专利申请1项</li>
 			<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
 			<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
 			<li>第十八届全国大学生交通运输科技大赛校一等奖</li></div></td>
