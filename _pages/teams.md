@@ -184,14 +184,22 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 </table>
 
 ---					
+## Co-supervised Students：
+2025. 罗书宇, 毕业去向：比亚迪（深圳）研发岗；
+2026. 罗凯振, 毕业去向：株洲中车；
+
+---					
 ## Excellent Undergraduate Dissertation Guidance：
 2024. 双向两车道改扩建场景下车流信号智能管控研究，林毅轩，指导老师：宋力
 2023. 耦合交通事故及拥堵的成因分析框架设计，曾锦涛，指导老师：宋力
 
 ---
 ## Student Contest Awards（selected）:
+# Undergraduate Students:
 2024.12 **中国高校计算机大赛，全国二等奖**，基于飞桨的多车道动态可变限速控制系统，刘俊杰，吴东篱，曾浩轩<br>
 2023.10 **中国高校计算机大赛，省三等奖**，基于飞桨的城市拥堵快速路实时上匝道智能信号灯管控系统，褚嘉怡，胡志芳，董芃慧<br>
+2025.05 **全国大学生交通运输科技大赛，全国二等奖** （指导老师：吕能超，宋力）
+# Graduate Students:
 2025 **华中杯大学生数学建模挑战赛,一等奖**（林毅轩、徐锦源、李士杰）<br>
 2024 **中国研究生数学建模竞赛,全国二等奖**（林毅轩、徐锦源）<br>
 2024 **中国研究生数学建模竞赛,全国三等奖**（李士杰）<br>
