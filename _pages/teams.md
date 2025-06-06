@@ -186,7 +186,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 ---					
 ## Co-supervised Students：
 2025 罗书宇, 毕业去向：比亚迪（深圳）研发岗；<br>
-2026 罗凯振, 毕业去向：株洲中车；<br>
+2025 罗凯振, 毕业去向：株洲中车；<br>
 
 ---					
 ## Excellent Undergraduate Dissertation Guidance：
