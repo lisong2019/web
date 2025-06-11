@@ -11,7 +11,7 @@ tags:
 
 ## 2025毕业留念（罗书宇、罗凯振）
 <div style="text-align: center">
-    <img src="https://github.com/lisong2019/web/blob/master/images/graduation/20250612grad1.jpg"  alt="grad2025" width="80%" height="auto"/>
+    <img src="https://github.com/lisong2019/web/raw/master/images/graduation/20250612grad1.jpg"  alt="grad2025" width="80%" height="auto"/>
 </div>
 
 
