@@ -29,6 +29,64 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	</tr>
     </thead>
 	<tbody>
+		<tr id="master2" class="entry">
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/youarewanted.jpg" width="600" class="research_img">
+				<div class="container">You Are Wanted [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
+				<!--<div class="container"><p class="infolinks"> 
+					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
+				</p></div>-->
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master2','details2')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<div class="container">Jiawei Zong (宗嘉伟) 2025 [<a href="javascript:toggleInfo('master2','details3')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<div class="container">Zhiheng Han (韩之恒) 2025 [<a href="javascript:toggleInfo('master2','details4')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<div class="container">Yuyue Gu (顾雨悦) 2025 [<a href="javascript:toggleInfo('master2','details5')">Details</a>]</div>
+				</div>	
+			</td>
+      		</tr>
+		<tr id="c1_master2" class="details1 noshow">
+			<td colspan="5"><div align="justify"> <b>团队招生</b>: 		
+			<li>2025 </li>
+			</div></td>
+		</tr>
+		<tr id="c2_master2" class="details2 noshow">
+			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
+			<li>2025 武汉理工大学本科优秀毕业生</li>
+		</tr>
+		<tr id="c3_master2" class="details3 noshow">
+			<td colspan="5"><div align="justify"> <b>宗嘉伟 2025级硕士</b>:
+			<li>2025 武汉理工大学本科优秀毕业生</li>
+			</div></td>
+		</tr>
+		<tr id="c4_master1" class="details4 noshow">
+			<td colspan="5"><div align="justify"> <b>韩之恒 2025级硕士</b>:
+			<li>2025 武汉理工大学本科优秀毕业生</li>
+		</tr>
+		<tr id="c5_master1" class="details5 noshow">
+			<td colspan="5"><div align="justify"> <b>顾雨悦 2025级硕士</b>:
+			<li>2025 </li></div></td>
+		</tr>
+		<!-- Item Finished**************the next line********************* -->
 		<tr id="master1" class="entry">
 			<td>
 				<div class="polaroid">
