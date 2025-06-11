@@ -33,7 +33,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/youarewanted.jpg" width="600" class="research_img">
-				<div class="container">You Are Wanted [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
+				<div class="container">I Want You [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
 				<!--<div class="container"><p class="infolinks"> 
 					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
 				</p></div>-->
@@ -66,14 +66,14 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
       		</tr>
 		<tr id="c1_master2" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>团队招生</b>:
-			<li>如若你有以下特点，请联系我们, We Need You! </li>
+			<li>如若您有以下特点，请联系我们, We Need You! </li>
 			<li>(1) 具有创新突破精神，致力于攻读博士优先，或者致力于从事技术研发类工作;</li>
-			<li>(2) 对编程有浓厚的兴趣，对于交通控制算法、自动驾驶系统、仿真二次开发、大数据分析技术等兴趣浓厚</li>
+			<li>(2) 对编程有浓厚的兴趣，对于控制算法（如强化学习算法）、自动驾驶系统、仿真二次开发、大数据分析技术等兴趣浓厚</li>
 			<li>(3) 具有一定的编程基础及经验，或者致力于学习编程技术 </li>
 			<li> 团队能够带来： </li>
-				<li> 专业技能的指导，发表高水平期刊及专利成果 </li>
-				<li> 推荐国内外高校攻博推荐，获得国家奖学金的机会 </li>
-				<li> 未来从事程序编程、数据分析、工程技术类就业方向机会 </li>
+				<li> 专业技术指导，发表高水平期刊及专利成果 </li>
+				<li> 志向攻博：推荐国内外高校攻博推荐，获评国家奖学金的机会 </li>
+				<li> 志向就业：定期就业辅导，暑期实习机会，从事程序编程、数据分析、工程技术类就业方向机会 </li>
 			</div></td>
 		</tr>
 		<tr id="c2_master2" class="details2 noshow">
