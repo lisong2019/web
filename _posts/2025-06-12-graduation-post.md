@@ -16,17 +16,14 @@ tags:
 
 
 <!-- <img src="https://github.com/lisong2019/web/raw/master/images/graduation/20250612grad1.jpg"  alt="grad2025" width="80%" height="auto"/>-->
-
-<table style="width:100%; border: none;">
+</table>
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-  <td style="width:50%;">
-  <img src="../images/graduation/20250612grad1.jpg" style="width:100%; height:300px; object-fit: cover;">
-  </td>
-  
-  <td style="width:50%;">
-  <img src="../images/graduation/20250612grad3.jpg" style="width:100%; height:300px; object-fit: cover;">
-  </td>
-
+    <td style="width:50%; padding:0; text-align:center;">
+      <img src="../images/graduation/20250612grad1.jpg" style="width:100%; height:200px; object-fit:cover;">
+    </td>
+    <td style="width:50%; padding:0; text-align:center;">
+      <img src="../images/graduation/20250612grad1.jpg" style="width:100%; height:200px; object-fit:cover;">
+    </td>
   </tr>
-
 </table>
