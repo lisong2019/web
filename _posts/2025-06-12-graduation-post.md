@@ -1,6 +1,5 @@
-
 ---
-title: 'Graduation Archives '
+title: 'Graduation Archives'
 date: 2025-06-12
 permalink: /posts/2025/06/blog-post-5/
 tags:
@@ -8,6 +7,7 @@ tags:
   - category1
   - category2
 ---
+
 
 ## 2025毕业留念（罗书宇、罗凯振）
 <div style="text-align: center">
