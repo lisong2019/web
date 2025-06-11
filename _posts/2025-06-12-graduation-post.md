@@ -11,7 +11,7 @@ tags:
 
 ## 2025毕业留念（罗书宇、罗凯振）
 <div style="text-align: center">
-    <img src="../images/graduation/20250612grad1.jpg"  alt="grad2025" width="80%" height="auto"/>
+    <img src="../images/graduation/20250612grad2.jpg"  alt="grad2025" width="80%" height="auto"/>
 </div>
 
 
@@ -24,7 +24,7 @@ tags:
   </td>
   
   <td style="width:50%;">
-  <img src="../images/graduation/20250612grad2.jpg" style="width:100%; height:300px; object-fit: cover;">
+  <img src="../images/graduation/20250612grad3.jpg" style="width:100%; height:300px; object-fit: cover;">
   </td>
 
   </tr>
