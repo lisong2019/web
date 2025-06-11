@@ -19,18 +19,14 @@ tags:
 
 <table style="width:100%; border: none;">
   <tr>
-  <td style="width:33.33%;">
+  <td style="width:50%;">
   <img src="../images/graduation/20250612grad1.jpg" style="width:100%; height:200px; object-fit: cover;">
   </td>
   
-  <td style="width:33.33%;">
+  <td style="width:50%;">
   <img src="../images/graduation/20250612grad2.jpg" style="width:100%; height:200px; object-fit: cover;">
   </td>
-  
-  <td style="width:33.33%;">
-  <img src="../images/graduation/20250612grad3.jpg" style="width:100%; height:200px; object-fit: cover;">
-  </td>
-  
+
   </tr>
 
 </table>
