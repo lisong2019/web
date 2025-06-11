@@ -253,6 +253,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 
 ---					
 ## Co-supervised Students：
+2025-now 石培烨,  (主指导老师：吕能超)；<br>
 2022-2025 罗书宇, 毕业去向：比亚迪汽车工业有限公司（深圳），高级仿真工程师 (主指导老师：刘兵)；<br>
 2022-2025 罗凯振, 毕业去向：中车株洲电力机车研究所有限公司，采购岗 (主指导老师：刘兵)；<br>
 
