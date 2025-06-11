@@ -1,7 +1,7 @@
 ---
 title: 'Graduation Archives'
 date: 2025-06-12
-permalink: /posts/2025/06/blog-post-5/
+permalink: /posts/grad-post/
 tags:
   - cool posts
   - category1
