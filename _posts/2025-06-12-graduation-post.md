@@ -16,4 +16,4 @@ tags:
 
 
 <!-- <img src="https://github.com/lisong2019/web/raw/master/images/graduation/20250612grad1.jpg"  alt="grad2025" width="80%" height="auto"/>-->
-|  <img src="../images/graduation/20250612grad1.jpg"  alt="grad2025" width="50" height="auto"/> |  <img src="../images/graduation/20250612grad1.jpg"  alt="grad2025" width="50%" height="auto"/> |
+|  <img src="../images/graduation/20250612grad1.jpg"  alt="grad2025" width="50%" height="auto"/> |  <img src="../images/graduation/20250612grad1.jpg"  alt="grad2025" width="50%" height="auto"/> |
