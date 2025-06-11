@@ -266,6 +266,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 ---
 ## Student Contest Awards（selected）:
 # Undergraduate Students:
+2025.05 **中国大学生计算机设计大赛，省二等奖**，刘俊杰, 罗铃欢, 曾浩轩, 韦彬, 马蕴琴<br>
 2024.12 **中国高校计算机大赛，全国二等奖**，基于飞桨的多车道动态可变限速控制系统，刘俊杰，吴东篱，曾浩轩<br>
 2023.10 **中国高校计算机大赛，省三等奖**，基于飞桨的城市拥堵快速路实时上匝道智能信号灯管控系统，褚嘉怡，胡志芳，董芃慧<br>
 2025.05 **全国大学生交通运输科技大赛，全国二等奖** （指导老师：吕能超，宋力）<br>
