@@ -78,11 +78,11 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>2025 武汉理工大学本科优秀毕业生</li>
 			</div></td>
 		</tr>
-		<tr id="c4_master1" class="details4 noshow">
+		<tr id="c4_master2" class="details4 noshow">
 			<td colspan="5"><div align="justify"> <b>韩之恒 2025级硕士</b>:
 			<li>2025 武汉理工大学本科优秀毕业生</li>
 		</tr>
-		<tr id="c5_master1" class="details5 noshow">
+		<tr id="c5_master2" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>顾雨悦 2025级硕士</b>:
 			<li>2025 </li></div></td>
 		</tr>
@@ -240,6 +240,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<!-- Item Finished*********************************** -->  
 	</tbody>
 </table>
+
 
 ---					
 ## Co-supervised Students：
