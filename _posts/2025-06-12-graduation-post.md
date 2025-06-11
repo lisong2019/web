@@ -11,7 +11,7 @@ tags:
 
 ## 2025毕业留念（罗书宇、罗凯振）
 <div style="text-align: center">
-    <img src="../images/STAR_LOGO.png"  alt="STAR Lab" width="30%" height="auto"/>
+    <img src="../images/graduation/20250612grad1.jpg"  alt="grad2025" width="100%" height="auto"/>
 </div>
 
      
