@@ -47,19 +47,19 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			</td>
 			<td>
 				<div class="polaroid">
-				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<img src="../images/stud/zongjiawei.jpg" width="600" class="research_img"> 
 				<div class="container">Jiawei Zong (宗嘉伟) 2025 [<a href="javascript:toggleInfo('master2','details3')">Details</a>]</div>
 				</div>
 			</td>
 			<td>
 				<div class="polaroid">
-				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<img src="../images/stud/hanzhiheng.jpg" width="600" class="research_img">
 				<div class="container">Zhiheng Han (韩之恒) 2025 [<a href="javascript:toggleInfo('master2','details4')">Details</a>]</div>
 				</div>
 			</td>
 			<td>
 				<div class="polaroid">
-				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<img src="../images/stud/guyuyue.jpg" width="600" class="research_img">
 				<div class="container">Yuyue Gu (顾雨悦) 2025 [<a href="javascript:toggleInfo('master2','details5')">Details</a>]</div>
 				</div>	
 			</td>
