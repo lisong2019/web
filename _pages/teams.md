@@ -78,7 +78,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c2_master2" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
-			<li>2025 武汉理工大学本科优秀毕业生</li>
+			<li>2025 武汉理工大学本科优秀毕业生、校三好学生干部</li>
+			<li>2024 申请发明1项</li>	
+			<li>2024 第十七届全国大学生先进成图技术竞赛国赛个人二等奖、团体赛一等奖</li>	
 			</div></td>
 		</tr>
 		<tr id="c3_master2" class="details3 noshow">
@@ -90,12 +92,17 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c4_master2" class="details4 noshow">
 			<td colspan="5"><div align="justify"> <b>韩之恒 2025级硕士</b>:
-			<li>2025 武汉理工大学本科优秀毕业生</li>
+			<li>2025 武汉理工大学本科优秀毕业生</li>	
+			<li>2022-2023学年：勤园奖学金；校优秀共青团员</li>
+			<li>2023-2024学年：卫华奖学金</li>
+			<li>第十九届全国大学生交通科技大赛校赛三等奖、十六届全国大学生先进成图技术创新大赛预选赛三等奖</li>
 			</div></td>
 		</tr>
 		<tr id="c5_master2" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>顾雨悦 2025级硕士</b>:
-			<li>2025 </li></div></td>
+			<li>2022-2023国家励志奖学金</li>
+			<li>2021-2022获优秀共青团员称号、2022-2023优秀共青团干部称号</li>
+			</div></td>
 		</tr>
 		<!-- Item Finished**************the next line********************* -->
 		<tr id="master1" class="entry">
