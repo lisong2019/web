@@ -16,7 +16,7 @@ Interested students are encouraged to send his/her resume along with transcripts
 Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/xygk/szdw/jgml/202210/t20221006_887992.shtml) for more information. Review of applications will start immediately. 
 
 ---
-## Current Research Team:
+## Current Research Team: [Graduated Students](https://lisong2019.github.io/web/grad-post/)
 
 <table style="width:100%">
     <thead>
