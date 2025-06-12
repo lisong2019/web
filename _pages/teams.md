@@ -133,7 +133,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="container">Shijie Li (李士杰) 2023 [<a href="javascript:toggleInfo('master1','details4')">Details</a>]</div>
 				</div>
 			</td>
-			<td>/
+			<td>
 				<div class="polaroid">
 				<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
 				<div class="container">Pengfei Xu (徐鹏飞) 2023 [<a href="javascript:toggleInfo('master1','details5')">Details</a>]</div>
