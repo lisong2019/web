@@ -22,7 +22,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
     <thead>
 	<tr>
 		<th width="20%">Current Students</th>
-		<th width="20%"> [Graduated Students](https://lisong2019.github.io/web/grad-post/)</th>
+		<th width="20%"> </th>
 		<th width="20%"></th>
 		<th width="20%"></th>
 		<th width="20%"></th>
@@ -250,6 +250,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	</tbody>
 </table>
 
+Also see: [**Graduated Students**](https://lisong2019.github.io/web/grad-post/)
 
 ---					
 ## Co-supervised Students：
