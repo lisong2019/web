@@ -83,7 +83,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c3_master2" class="details3 noshow">
 			<td colspan="5"><div align="justify"> <b>宗嘉伟 2025级硕士</b>:
-			<li>2025 武汉理工大学本科优秀毕业生</li>
+			<li>2025 武汉理工大学本科优秀毕业生 2022校优秀共青团员、2024校优秀学生干部</li>
+			<li>2023、2024 国家励志奖学金 </li>
+			<li>第十九届全国大学生交通科技大赛校赛三等奖、十六届全国大学生先进成图技术创新大赛预选赛三等奖</li>
 			</div></td>
 		</tr>
 		<tr id="c4_master2" class="details4 noshow">
@@ -124,7 +126,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="container">Shijie Li (李士杰) 2023 [<a href="javascript:toggleInfo('master1','details4')">Details</a>]</div>
 				</div>
 			</td>
-			<td>
+			<td>/
 				<div class="polaroid">
 				<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
 				<div class="container">Pengfei Xu (徐鹏飞) 2023 [<a href="javascript:toggleInfo('master1','details5')">Details</a>]</div>
