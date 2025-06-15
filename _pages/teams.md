@@ -41,7 +41,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			</td>
 			<td>
 				<div class="polaroid">
-				<!--<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img"> -->
+				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
 				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master2','details2')">Details</a>]</div>
 				</div>
 			</td>
