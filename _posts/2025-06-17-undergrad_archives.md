@@ -9,7 +9,7 @@ tags:
 ---
 
 
-## 2025毕业留念（柳乐、陈婧雯、余杰、韩之恒、宗佳伟）
+## 2025本科毕业留念（柳乐、陈婧雯、余杰、韩之恒、宗佳伟、石培晔）
 <div style="text-align: center">
     <img src="../images/graduation/2025undergrad.jpg"  alt="grad2025" width="100%" height="auto"/>
 </div>
