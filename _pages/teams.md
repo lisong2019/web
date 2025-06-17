@@ -259,7 +259,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	</tbody>
 </table>
 
-Also see: [**Graduated Students**](https://lisong2019.github.io/web/grad-post/)
+Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web/grad-post/)、[**Graduated Undergraduate Students**](https://lisong2019.github.io/web/undergrad-post/)
 
 ---					
 ## Co-supervised Students：
