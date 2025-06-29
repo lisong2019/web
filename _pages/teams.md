@@ -78,7 +78,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c2_master2" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
-			<li>2025 武汉理工大学本科优秀毕业生、校三好学生干部</li>
+			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生 </li>
 			<li>2024 申请发明1项</li>	
 			<li>2024 第十七届全国大学生先进成图技术竞赛国赛个人二等奖、团体赛一等奖</li>	
 			</div></td>
@@ -93,8 +93,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<tr id="c4_master2" class="details4 noshow">
 			<td colspan="5"><div align="justify"> <b>韩之恒 2025级硕士</b>:
 			<li>2025 武汉理工大学本科优秀毕业生</li>	
-			<li>2022-2023学年：勤园奖学金；校优秀共青团员</li>
-			<li>2023-2024学年：卫华奖学金</li>
+			<li>2022-2023学年：勤园奖学金；2023-2024学年：卫华奖学金；校优秀共青团员</li>
 			<li>第十九届全国大学生交通科技大赛校赛三等奖、十六届全国大学生先进成图技术创新大赛预选赛三等奖</li>
 			</div></td>
 		</tr>
@@ -270,6 +269,7 @@ Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web
 
 ---					
 ## Excellent Undergraduate Dissertation Guidance：
+2025. 基于深度强化学习的快速路管养路段车速调控研究，余杰，指导老师：宋力<br>
 2024 双向两车道改扩建场景下车流信号智能管控研究，林毅轩，指导老师：宋力<br>
 2023 耦合交通事故及拥堵的成因分析框架设计，曾锦涛，指导老师：宋力<br>
 
