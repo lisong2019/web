@@ -269,7 +269,7 @@ Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web
 
 ---					
 ## Excellent Undergraduate Dissertation Guidance：
-2025. 基于深度强化学习的快速路管养路段车速调控研究，余杰，指导老师：宋力<br>
+2025 基于深度强化学习的快速路管养路段车速调控研究，余杰，指导老师：宋力<br>
 2024 双向两车道改扩建场景下车流信号智能管控研究，林毅轩，指导老师：宋力<br>
 2023 耦合交通事故及拥堵的成因分析框架设计，曾锦涛，指导老师：宋力<br>
 
