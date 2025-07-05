@@ -100,7 +100,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<tr id="c5_master2" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>顾雨悦 2025级硕士</b>:
 			<li>2022-2023国家励志奖学金</li>
-			<li>2021-2022获优秀共青团员称号、2022-2023优秀共青团干部称号</li>
+			<li>2021-2022获长安大学优秀共青团员称号、2022-2023优秀共青团干部称号</li>
 			</div></td>
 		</tr>
 		<!-- Item Finished**************the next line********************* -->
@@ -152,7 +152,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>聂可 2024级硕士</b>:
 			<li>2025 发明专利申请1项</li>
-			<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
+			<li>2024 武汉理工大学本科优秀毕业生、校三好学生</li>
 			<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
 			<li>第十八届全国大学生交通运输科技大赛校一等奖</li></div></td>
 		</tr>
