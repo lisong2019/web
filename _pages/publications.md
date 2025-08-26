@@ -55,7 +55,8 @@ _**Total: 36, including SCI: 30； EI: 5 ；Others: 1** (note: corresponding aut
 
 **Conference Article:**  
 ====== 
-1. Li, S., Lei, L., Deng, Z., Sheng, B., **<u>Song, L.#</u>** (2024) Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits. World Transportation Conference 2024, 1-18.
-2. Xu, P., Zhang, B., Zeng, J., **<u>Song, L.#</u>** (2024). A Machine Learning Framework for Analyzing the Causes of Traffic Accident-Induced Congestion. In CICTP 2024.
+1. Yang, Q., Song, D., Zeng, S., Li, S., Du, Y., **<u>Song, L.#</u>**, Ye, J. Car-Following Model Parameter Dynamic Optimization Research. In WTC 2025.
+2. Li, S., Lei, L., Deng, Z., Sheng, B., **<u>Song, L.#</u>** (2024) Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits. World Transportation Conference 2024, 1-18.
+3. Xu, P., Zhang, B., Zeng, J., **<u>Song, L.#</u>** (2024). A Machine Learning Framework for Analyzing the Causes of Traffic Accident-Induced Congestion. In CICTP 2024.
 44. Wang, X., **<u>Song, L.</u>**, Wu, P., Yu, S. (2019). Analysis of Unconventional Design for Signalized and Closely-Spaced T-Intersections. In CICTP 2019 (pp. 2636-2647). (**EI**) \[[DOI](https://doi.org/10.1061/9780784482292.229)\]\[<a href="../files/PAPER/cota2019.pdf">PDF</a>\]
 47. Wang, X., **<u>Song, L.</u>**, Wu, P. (2018, September). A Novel Method of Island Port's Transport: Automatic Guided Vehicle Approach. In 2018 3rd IEEE International Conference on Intelligent Transportation Engineering (ICITE) (pp. 219-224). IEEE. (**EI**) \[[DOI](https://doi.org/10.1109/ICITE.2018.8492567)\]\[<a href="../files/PAPER/ICITE2018-8.pdf">PDF</a>\]
