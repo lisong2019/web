@@ -29,15 +29,15 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	</tr>
     </thead>
 	<tbody>
-			<tr id="master3" class="entry">
+		<tr id="master3" class="entry">
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/youarewanted.jpg" width="600" class="research_img">
 				<div class="container">We Need You [<a href="javascript:toggleInfo('master3','details1')">Details</a>]</div>
 				<!--<div class="container"><p class="infolinks"> 
 					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
-				</p></div>-->
-				</div>
+				</p></div>
+				</div>-->
 			</td>
 			<td>
 				<!--<div class="polaroid">
@@ -48,14 +48,14 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td>
 				<!--<div class="polaroid">
 				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
-				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details3')">Details</a>]</div>-->
-				</div>
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details3')">Details</a>]</div>
+				</div>-->
 			</td>
 			<td>
 				<!--<div class="polaroid">
 				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
-				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details4')">Details</a>]</div>-->
-				</div>
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details4')">Details</a>]</div>
+				</div>-->
 			</td>
 			<td>
 				<div class="polaroid">
@@ -63,7 +63,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details5')">Details</a>]</div>
 				</div>
 			</td>
-      		</tr>
+      	</tr>
 		<tr id="c1_master3" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>团队招生</b>:
 			<li>如若您有以下特点，请联系我们, We Need You! </li>
@@ -126,7 +126,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="container">Xiao Wen (闻枭) 2025 [<a href="javascript:toggleInfo('master2','details5')">Details</a>]</div>
 				</div>
 			</td>
-      		</tr>
+      	</tr>
 		<tr id="c1_master2" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>宗嘉伟 2025级硕士</b>:
 			<li>2025 武汉理工大学本科优秀毕业生 2022校优秀共青团员、2024校优秀学生干部</li>
@@ -155,7 +155,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c5_master2" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>闻枭 2025级硕士（襄阳专项）</b>:
-			<li>2025  2025 优秀毕业生，2023 优秀学生，优秀共青团员
+			<li>2025  2025 优秀毕业生，2023 优秀学生，优秀共青团员</li>	
 			<li>2022 国家励志奖学金</li>	
 			<li>2024 2023 第七届全国高校智能交通创新与创业大赛三等奖</li>	
 			</div></td>
