@@ -29,42 +29,42 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 	</tr>
     </thead>
 	<tbody>
-		<tr id="master2" class="entry">
+			<tr id="master3" class="entry">
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/youarewanted.jpg" width="600" class="research_img">
-				<div class="container">We Need You [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
+				<div class="container">We Need You [<a href="javascript:toggleInfo('master3','details1')">Details</a>]</div>
 				<!--<div class="container"><p class="infolinks"> 
 					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
 				</p></div>-->
 				</div>
 			</td>
 			<td>
+				<!--<div class="polaroid">
+				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details2')">Details</a>]</div>
+				</div>-->
+			</td>
+			<td>
+				<!--<div class="polaroid">
+				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details3')">Details</a>]</div>-->
+				</div>
+			</td>
+			<td>
 				<div class="polaroid">
 				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
-				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master2','details2')">Details</a>]</div>
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details4')">Details</a>]</div>
 				</div>
 			</td>
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/zongjiawei.jpg" width="600" class="research_img"> 
-				<div class="container">Jiawei Zong (宗嘉伟) 2025 [<a href="javascript:toggleInfo('master2','details3')">Details</a>]</div>
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details5')">Details</a>]</div>
 				</div>
-			</td>
-			<td>
-				<div class="polaroid">
-				<img src="../images/stud/hanzhiheng.jpg" width="600" class="research_img">
-				<div class="container">Zhiheng Han (韩之恒) 2025 [<a href="javascript:toggleInfo('master2','details4')">Details</a>]</div>
-				</div>
-			</td>
-			<td>
-				<div class="polaroid">
-				<img src="../images/stud/guyuyue.jpg" width="600" class="research_img">
-				<div class="container">Yuyue Gu (顾雨悦) 2025 [<a href="javascript:toggleInfo('master2','details5')">Details</a>]</div>
-				</div>	
 			</td>
       		</tr>
-		<tr id="c1_master2" class="details1 noshow">
+		<tr id="c1_master3" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>团队招生</b>:
 			<li>如若您有以下特点，请联系我们, We Need You! </li>
 			(1) 具有创新突破精神，勤奋进取，致力于攻读博士优先，或者有志于从事工程技术研发及编程类工作<br>
@@ -76,31 +76,88 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			(3) 志向就业：定期就业辅导，参与研发项目攻关，研二暑期实习机会，从事编程、数据分析、工程技术类就业方向机会<br>
 			</div></td>
 		</tr>
-		<tr id="c2_master2" class="details2 noshow">
+		<tr id="c2_master3" class="details2 noshow">
+			<td colspan="5"><div align="justify"> <b> </b>:
+			</div></td>
+		</tr>
+		<tr id="c3_master3" class="details3 noshow">
+			<td colspan="5"><div align="justify"> <b> </b>:
+			</div></td>
+		</tr>
+		<tr id="c4_master3" class="details4 noshow">
+			<td colspan="5"><div align="justify">  
+		</tr>
+		<tr id="c5_master3" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
 			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生 </li>
 			<li>2024 申请发明1项</li>	
 			<li>2024 第十七届全国大学生先进成图技术竞赛国赛个人二等奖、团体赛一等奖</li>	
 			</div></td>
 		</tr>
-		<tr id="c3_master2" class="details3 noshow">
+		<!-- Item Finished**************the next line********************* -->
+		<tr id="master2" class="entry">
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/zongjiawei.jpg" width="600" class="research_img"> 
+				<div class="container">Jiawei Zong (宗嘉伟) 2025 [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/hanzhiheng.jpg" width="600" class="research_img">
+				<div class="container">Zhiheng Han (韩之恒) 2025 [<a href="javascript:toggleInfo('master2','details2')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/guyuyue.jpg" width="600" class="research_img">
+				<div class="container">Yuyue Gu (顾雨悦) 2025 [<a href="javascript:toggleInfo('master2','details3')">Details</a>]</div>
+				</div>	
+			</td>
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/2025zhongshenghong.jpg" width="600" class="research_img">
+				<div class="container">Shenghong Zhong (钟声宏) 2025 [<a href="javascript:toggleInfo('master2','details4')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/2025wenxiao.jpg" width="600" class="research_img">
+				<div class="container">Xiao Wen (闻枭) 2025 [<a href="javascript:toggleInfo('master2','details5')">Details</a>]</div>
+				</div>
+			</td>
+      		</tr>
+		<tr id="c1_master2" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>宗嘉伟 2025级硕士</b>:
 			<li>2025 武汉理工大学本科优秀毕业生 2022校优秀共青团员、2024校优秀学生干部</li>
 			<li>2023、2024 国家励志奖学金 </li>
 			<li>第十九届全国大学生交通科技大赛校赛三等奖、十六届全国大学生先进成图技术创新大赛预选赛三等奖</li>
 			</div></td>
 		</tr>
-		<tr id="c4_master2" class="details4 noshow">
+		<tr id="c2_master2" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>韩之恒 2025级硕士</b>:
 			<li>2025 武汉理工大学本科优秀毕业生</li>	
 			<li>2022-2023学年：勤园奖学金；2023-2024学年：卫华奖学金；校优秀共青团员</li>
 			<li>第十九届全国大学生交通科技大赛校赛三等奖、十六届全国大学生先进成图技术创新大赛预选赛三等奖</li>
 			</div></td>
 		</tr>
-		<tr id="c5_master2" class="details5 noshow">
+		<tr id="c3_master2" class="details3 noshow">
 			<td colspan="5"><div align="justify"> <b>顾雨悦 2025级硕士</b>:
 			<li>2022-2023国家励志奖学金</li>
 			<li>2021-2022获长安大学优秀共青团员称号、2022-2023优秀共青团干部称号</li>
+			</div></td>
+		</tr>
+		<tr id="c4_master2" class="details4 noshow">
+			<td colspan="5"><div align="justify">  <b>钟声宏 2025级硕士（襄阳专项）</b>:
+			<li>2021-2023学年连续三年二等优秀奖学金</li>
+			<li>2022-2023学年“三好学生”称号</li>	
+			</div></td>
+		</tr>
+		<tr id="c5_master2" class="details5 noshow">
+			<td colspan="5"><div align="justify"> <b>闻枭 2025级硕士（襄阳专项）</b>:
+			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生 </li>
+			<li>2024 申请发明1项</li>	
+			<li>2024 第十七届全国大学生先进成图技术竞赛国赛个人二等奖、团体赛一等奖</li>	
 			</div></td>
 		</tr>
 		<!-- Item Finished**************the next line********************* -->
@@ -109,9 +166,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="polaroid">
 				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
 				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master1','details1')">Details</a>]</div>
-				<!--<div class="container"><p class="infolinks"> 
-					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
-				</p></div>-->
 				</div>
 			</td>
 			<td>
@@ -176,83 +230,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<td colspan="5"><div align="justify"> <b>徐鹏飞 2023级硕士</b>:
 			<li>2024 COTA2024会议论文</li></div></td>
 		</tr>
-		<!-- Item Finished*********************************** -->
-		<!--
-		<tr id="master2" class="entry">
-			<td>
-				<div class="polaroid">
-				<img src="../images/stud/linyixuan2024.jpg" width="600" class="research_img">
-				<div class="container">Yixuan Lin (林毅轩) 2024 [<a href="javascript:toggleInfo('master2','details1')">Details</a>]</div>
-				</div>
-			</td>
-			<td>
-				<div class="polaroid">
-				<img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
-				<div class="container">Ke Nie (聂可) 2024</div>
-				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master2','details2')">Details</a>]
-				</p></div>
-				</div>
-			</td>
-			<td>
-				<div class="polaroid">
-				<img src="../images/stud/jinyuanxu2024.jpg" width="600" class="research_img">
-				<div class="container">Jinyuan Xu (徐锦源) 2024 [<a href="javascript:toggleInfo('master2','details3')">Details</a>]</div>
-				</div>
-			</td>
-			<td>
-				<div class="polaroid">
-				<img src="../images/stud/shijie_li.jpg" width="600" class="research_img">
-				<div class="container">Shijie Li (李士杰) 2023 </div>
-				<div class="container">
-					<p class="infolinks"> [<a href="javascript:toggleInfo('master2','details4')">Details</a>]
-				</p></div>
-				</div>
-			</td>
-			<td>
-				<div class="polaroid">
-				<img src="../images/stud/pengfei_xu.jpg" width="600" class="research_img">
-				<div class="container">Pengfei Xu (徐鹏飞) 2023 [<a href="javascript:toggleInfo('master2','details5')">Details</a>]</div>
-				</div>
-			</td>
-      		</tr>
-		<tr id="c1_master2" class="details1 noshow">
-			<td colspan="5"><div align="justify"> <b>林毅轩</b>: 		
-			<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
-			<li>2024 发明专利申请2项</li>
-	  		<li>2024 中国研究生数学建模竞赛全国二等奖</li>
-			<li>2023 第十五届全国大学生数学竞赛二等奖</li>
-			<li>2022 全国大学生数学建模竞赛省一等奖</li>
-			<li>第十六届全国大学生先进成图技术竞赛国赛个人赛二等奖、团体赛二等奖第一名</li>
-			<li>第十四届华中杯大学生数学建模挑战赛二等奖</li></div></td>
-		</tr>
-		<tr id="c2_master2" class="details2 noshow">
-			<td colspan="5"><div align="justify"> <b>聂可</b>:
-			<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
-			<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
-			<li>第十八届全国大学生交通运输科技大赛校一等奖</li></div></td>
-		</tr>
-		<tr id="c3_master2" class="details3 noshow">
-			<td colspan="5"><div align="justify"> <b>徐锦源</b>:
-			<li>2024 武汉理工大学本科优秀毕业生</li>
-			<li>2024 中国研究生数学建模竞赛全国二等奖</li>
-			<li>2023 全国大学生数学竞赛二等奖</li>
-			<li>2022 全国大学生数学建模竞赛湖北赛区一等奖</li>
-			<li>第十四届华中杯大学生数学建模挑战赛二等奖</li></div></td>
-		</tr>
-		<tr id="c4_master2" class="details4 noshow">
-			<td colspan="5"><div align="justify"> <b>李士杰</b>:
-			<li>2024 中国研究生数学建模竞赛全国三等奖</li>
-			<li>2023 中国研究生数学建模竞赛全国二等奖</li>
-			<li>全国大学生数学建模竞赛本科组全国一等奖</li>
-			<li>2023-2024 发明专利申请2项</li>
-			<li>2024 世界交通运输大会推荐论文</li>
-			<li>2023 研究生一等奖学金</li></div></td>
-		</tr>
-		<tr id="c5_master2" class="details5 noshow">
-			<td colspan="5"><div align="justify"> <b>徐鹏飞</b>:
-			<li>2024 COTA2024会议论文</li></div></td>
-		</tr> 
 		<!-- Item Finished*********************************** -->  
 	</tbody>
 </table>
