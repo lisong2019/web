@@ -192,7 +192,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="container">Pengfei Xu (徐鹏飞) 2023 [<a href="javascript:toggleInfo('master1','details5')">Details</a>]</div>
 				</div>	
 			</td>
-      		</tr>
+      	</tr>
 		<tr id="c1_master1" class="details1 noshow">
 			<td colspan="5"><div align="justify"> <b>林毅轩 2024级硕士</b>: 		
 			<li>2025 论文发表：Q1 SCI 1篇 （ESWA2025）, Q2 SCI 2篇（IP2025, IJICSP2025）</li>
@@ -233,6 +233,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<!-- Item Finished*********************************** -->  
 	</tbody>
 </table>
+
 
 Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web/grad-post/)、[**Graduated Undergraduate Students**](https://lisong2019.github.io/web/undergrad-post/)
 
