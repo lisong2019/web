@@ -52,9 +52,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				</div>
 			</td>
 			<td>
-				<div class="polaroid">
+				<!--<div class="polaroid">
 				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
-				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details4')">Details</a>]</div>
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details4')">Details</a>]</div>-->
 				</div>
 			</td>
 			<td>
