@@ -37,8 +37,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="polaroid">
 				<img src="../images/stud/youarewanted.jpg" width="600" class="research_img">
 				<div class="container">We Need You [<a href="javascript:toggleInfo('master3','details1')">Details</a>]</div>
-				<!--<div class="container"><p class="infolinks"> [<a href="javascript:toggleInfo('master1','details1')">Details</a>]
-				</p></div>-->
+				<!--<div class="container"><p class="infolinks"> [<a href="javascript:toggleInfo('master1','details1')">Details</a>]</p></div>-->
 				</div>
 			</td>
 			<td>
@@ -87,7 +86,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			</div></td>
 		</tr>
 		<tr id="c4_master3" class="details4 noshow">
-			<td colspan="5"><div align="justify">  
+			<td colspan="5"><div align="justify">  <b> </b>:
+			</div></td>
 		</tr>
 		<tr id="c5_master3" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
