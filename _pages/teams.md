@@ -122,7 +122,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			</td>
 			<td>
 				<div class="polaroid">
-				<img src="../images/stud/2025wenxiao.jpg" width="600" class="research_img">
+				<img src="../images/stud/wenxiao.jpg" width="600" class="research_img">
 				<div class="container">Xiao Wen (闻枭) 2025 [<a href="javascript:toggleInfo('master2','details5')">Details</a>]</div>
 				</div>
 			</td>
@@ -155,9 +155,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c5_master2" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>闻枭 2025级硕士（襄阳专项）</b>:
-			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生 </li>
-			<li>2024 申请发明1项</li>	
-			<li>2024 第十七届全国大学生先进成图技术竞赛国赛个人二等奖、团体赛一等奖</li>	
+			<li>2025  2025 优秀毕业生，2023 优秀学生，优秀共青团员
+			<li>2022 国家励志奖学金</li>	
+			<li>2024 2023 第七届全国高校智能交通创新与创业大赛三等奖</li>	
 			</div></td>
 		</tr>
 		<!-- Item Finished**************the next line********************* -->
