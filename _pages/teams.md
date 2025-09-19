@@ -45,14 +45,15 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
 				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details2')">Details</a>]</div>
 				</div>-->
+				<li>TBD </li>
 			</td>
-			<td>
+			<td><li>TBD </li>
 				<!--<div class="polaroid">
 				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
 				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details3')">Details</a>]</div>
 				</div>-->
 			</td>
-			<td>
+			<td><li>TBD </li>
 				<!--<div class="polaroid">
 				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
 				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master3','details4')">Details</a>]</div>
