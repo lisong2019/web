@@ -13,9 +13,7 @@ author_profile: true
 Requirements for graduate students are listed in [**Open Positions**](https://lisong2019.github.io/web/posts/2023/08/blog-post-4/)
 Interested students are encouraged to send his/her resume along with transcripts and proof materials (optional) directly to Dr. Li Song at `lisong1@whut.edu.cn` OR `345536290@qq.com`. 
 
-Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/xygk/szdw/jgml/202210/t20221006_887992.shtml) for more information. Review of applications will start immediately. 
-<br>
-<br>
+Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/xygk/szdw/jgml/202210/t20221006_887992.shtml) for more information. Review of applications will start immediately. <br>
 
 ---
 ## Current Research Team: 
@@ -66,7 +64,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				</div>
 			</td>
       	</tr>
-		<tr id="c1_master3" class="details1 noshow">
+		<tr id="c1_master3" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>团队招生</b>:
 			<li>如若您有以下特点，请联系我们, We Need You! </li>
 			(1) 具有创新突破精神，勤奋进取，致力于攻读博士优先，或者有志于从事工程技术研发及编程类工作<br>
@@ -130,7 +128,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				</div>
 			</td>
       	</tr>
-		<tr id="c1_master2" class="details1 noshow">
+		<tr id="c1_master2" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>宗嘉伟 2025级硕士</b>:
 			<li>2025 武汉理工大学本科优秀毕业生 2022校优秀共青团员、2024校优秀学生干部</li>
 			<li>2023、2024 国家励志奖学金 </li>
@@ -196,7 +194,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				</div>	
 			</td>
       	</tr>
-		<tr id="c1_master1" class="details1 noshow">
+		<tr id="c1_master1" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>林毅轩 2024级硕士</b>: 		
 			<li>2025 论文发表：Q1 SCI 1篇 （ESWA2025）, Q2 SCI 2篇（IP2025, IJICSP2025）</li>
 			<li>2024 发明专利申请3项</li>
@@ -241,7 +239,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web/grad-post/)、[**Graduated Undergraduate Students**](https://lisong2019.github.io/web/undergrad-post/)
 
 
-<br>
 <br>
 ---					
 ## Co-supervised Students：
