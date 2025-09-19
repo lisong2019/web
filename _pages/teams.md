@@ -116,7 +116,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			</td>
 			<td>
 				<div class="polaroid">
-				<img src="../images/stud/2025zhongshenghong.jpg" width="600" class="research_img">
+				<img src="../images/stud/zhongshenghong.jpg" width="600" class="research_img">
 				<div class="container">Shenghong Zhong (钟声宏) 2025 [<a href="javascript:toggleInfo('master2','details4')">Details</a>]</div>
 				</div>
 			</td>
