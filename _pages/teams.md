@@ -23,13 +23,13 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 
 <table style="width:100%">
     <thead>
-	<tr>
+		<tr>
 		<th width="20%">Current Students</th>
 		<th width="20%"> </th>
 		<th width="20%"></th>
 		<th width="20%"></th>
 		<th width="20%"></th>
-	</tr>
+		</tr>
     </thead>
 	<tbody>
 		<tr id="master3" class="entry">
@@ -37,10 +37,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<div class="polaroid">
 				<img src="../images/stud/youarewanted.jpg" width="600" class="research_img">
 				<div class="container">We Need You [<a href="javascript:toggleInfo('master3','details1')">Details</a>]</div>
-				<!--<div class="container"><p class="infolinks"> 
-					[<a href="javascript:toggleInfo('master1','details1')">Details</a>]
-				</p></div>
-				</div>-->
+				<!--<div class="container"><p class="infolinks"> [<a href="javascript:toggleInfo('master1','details1')">Details</a>]
+				</p></div>-->
+				</div>
 			</td>
 			<td>
 				<!--<div class="polaroid">
