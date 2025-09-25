@@ -93,9 +93,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c5_master3" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
-			<li>2025 软著申请5项</li>	
-			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生 </li>
-			<li>2024 申请发明1项</li>	
+			<li>2025 软著申请5项、2024 申请发明1项</li>	
+			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生 </li>	
 			<li>2024 第十七届全国大学生先进成图技术竞赛国赛个人二等奖、团体赛一等奖</li>	
 			</div></td>
 		</tr>
@@ -223,8 +222,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>专利申请1项、软著申请1项</li>
 			<li>2024 武汉理工大学本科优秀毕业生</li>
 			<li>2024 中国研究生数学建模竞赛全国二等奖、2025华中杯大学生数学建模挑战赛一等奖</li>
-			<li>2023 全国大学生数学竞赛二等奖</li>
-			<li>2022 全国大学生数学建模竞赛湖北赛区一等奖、第十四届华中杯大学生数学建模挑战赛二等奖</li>
+			<li>2023 全国大学生数学竞赛二等奖、2022 全国大学生数学建模竞赛湖北赛区一等奖、第十四届华中杯大学生数学建模挑战赛二等奖</li>
 			</div></td>
 		</tr>
 		<tr id="c4_master1" class="details4 noshow">
