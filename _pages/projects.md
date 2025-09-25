@@ -27,24 +27,15 @@ author_profile: true
 
 
 # Selected Awards:
-## International Level
+2024. Recommended paper, 2024 World Transport Congress ,  World Transport Congress Committee
+2023. Song Li, et al. First Prize of Excellent paper, Guangxi Road Transport Association.
 2022 **“2021 Chinese Government Award for Outstanding Self-financed Students Abroad”**, China Scholarship Council (600, NA) <br>
 2021 **“Don Blackburn Memorial Scholarship”**, North Carolina Section of the Institute of Transportation Engineers, NC, USA (1%, 21) <br>
 2021 **“Paul D. Cribbins Cup”**, NCSITE, USA (1%, 4) <br>
 2021 **"Third Prize Oral Presentation"**, 4th CAMMSE Research Symposium 2021, USA (5%, 18) <br>
 2018 **“Excellent Oral Presentation”**, International Conference of Intelligent Transportation Engineering (ICITE 2018)， Singapore (5%, 116)  
-2016 **“Honorable Mention”**, The Mathematical Contest in Modeling (20%, 37338)  
 
-## National Level
-2018 **“National Scholarship for Graduate Students”**, China (3%, 110)  
-2015 **“Second Prize”**, National Undergraduate Mathematical Contest In Modeling (3.4%, 85955)  
-2017 **“Outstanding Graduate of Shanghai”**, (5%, 174000)  
-2015 **“Shanghai Scholarship”**, (1%, 113)  
-2015 **“First Prize”**, Undergraduate Mathematical Contest In Modeling, Shanghai  
 
-## Others
-2024. Recommended paper, 2024 World Transport Congress ,  World Transport Congress Committee
-2023. Song Li, et al. First Prize of Excellent paper, Guangxi Road Transport Association.
 
 <!--
 ## School Level
