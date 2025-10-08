@@ -247,10 +247,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 </table>
 
 
-Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web/grad-post/)、[**Graduated Undergraduate Students**](https://lisong2019.github.io/web/undergrad-post/)
-
-
-<br>
+Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web/grad-post/)、[**Graduated Undergraduate Students**](https://lisong2019.github.io/web/undergrad-post/)<br>
 ---					
 ## Co-supervised Students：
 2025-now 石培晔,  (主指导老师：吕能超)；<br>
