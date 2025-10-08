@@ -24,12 +24,18 @@ author_profile: true
 
 ---
 # Teaching Awards:
-1. 2025  Second Prize of the Fifth Teachers' Teaching Innovation Competition, Wuhan University of Technology <br>
-2. 2024	First prize of the 4th Micro-course Competition of Wuhan University of Technology <br>
-3. 2024	Excellent Undergraduate Class Teacher of Wuhan University of Technology (Class 2201) <be>
+1. 2025	第五届教师教学创新大赛二等奖，武汉理工大学
+2. 2025	2025教职工AI应用创意大赛（研究生教学）三等奖，武汉理工大学
+3. 2024	优秀本科生班主任，武汉理工大学
+4. 2024	第四届课程思政微课大赛校级一等奖，武汉理工大学
+
+
 
 ---
 # Teaching Projects:
+研究生	数智化转型下的交通工程类卓越研究生培养模式改革研究(2023.09) 新时代卓越工程师培养模式创新实践研究, 教学改革研究项目, 杜志刚, 参与; R5<br>
+研究生	信息化背景下交通运输工程类研究生“多元协同”产教融合培养模式研究（2023.09）教学改革研究项目, 参与; R2<br>
+本科生	物联网与车路协同，本科课程思政建设，2023.10-2024.9，R1<br>
 
 ---
 
