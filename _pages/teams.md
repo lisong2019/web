@@ -203,7 +203,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<tr id="c1_master1" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>林毅轩 2024级硕士</b>: 		
 			<li>2025 论文发表：Q1 SCI 1篇 （ESWA2025）, Q2 SCI 2篇（IP2025, IJICSP2025）</li>
-			<li><span style="background-color:yellow;">2025 研究生国家奖学金</span></li>
+			<li><span style="background-color:rgb(176, 224, 230);">2025 研究生国家奖学金</span></li>
 			<li>2024 发明专利申请3项、软著申请8项</li>
 			<li>2024 武汉理工大学本科优秀毕设、优秀毕业生</li>
 	  		<li>2024 中国研究生数学建模竞赛全国二等奖、2025华中杯大学生数学建模挑战赛一等奖</li>
@@ -228,8 +228,8 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c4_master1" class="details4 noshow">
 			<td colspan="5"><div align="justify"> <b>李士杰 2023级硕士</b>:
-			<li>2025 论文发表Q1SCI 2篇 (AAP2025、ESWA2025)、2024 世界交通运输大会推荐论文、2025WTC会议论文</li>
-			<li><span style="background-color:yellow;">2025 研究生国家奖学金</span></li>
+			<li>2025 论文发表 Q1 SCI 2篇 (AAP2025、ESWA2025)、2024 世界交通运输大会推荐论文、2025WTC会议论文</li>
+			<li><span style="background-color:rgb(176, 224, 230);">2025 研究生国家奖学金</span></li>
 			<li>2024 发明专利申请3项、软著申请3项</li>
 			<li>2023 中国研究生数学建模竞赛全国二等奖、2024 中国研究生数学建模竞赛全国三等奖、2025华中杯大学生数学建模挑战赛一等奖</li>
 			<li>全国大学生数学建模竞赛本科组全国一等奖</li>
