@@ -14,6 +14,20 @@ author_profile: true
 2020-2022. **Major Completer**. Impact of Connected and Autonomous Vehicles (CAVs) on North Carolina’s Transportation System and Associated Revenue. NCDOT Project, NC Transportation Center of Excellence in Connected and Autonomous Vehicle Technology(NC-CAV) Sponsored.  <br>
 2019-2022. **Major Completer**. Spatiotemporal Patterns and Crash Injury Severity Factors Identification. USDOT CAMMSE Transportation Research Center Sponsored. <br>
 -->
+# Selected Awards:
+2025	**2025年度中国物流与采购联合会科学技术奖一等奖**，营运车辆运输过程监管与运行风险预警技术及应用；中国物流与采购联合会；6/11<br>
+2025	**2025湖北省公路学会科学技术奖一等奖**，智能网联交通系统安全评价技术及其测评体系；湖北省公路学会；10/14<br>
+2025	**优秀论文**, Exploring the feasibility and sensitivity of deep reinforcement learning controlled traffic signals in bidirectional two-lane road work zones. 第四届数字交通与智慧出行学术论坛, 甘肃省交通运输协会; Song, L.，Lin, Y., Zhao, X., Lyu, N.#, Fan, W.;1/5<br>
+2024	**推荐论文**, Dynamic Calibration of Car-following Models Considering Driver Compliance with Speed Limits; 2024世界交通运输大会，世界交通运输大会执委会; 李士杰，雷立，邓自闯，盛彬，宋力; 5/5<br>
+2023	**优秀论文一等奖**，人车事故时空特性建模；广西道路运输协会；1/4<br>
+2025 **年度考核优秀**，武汉理工大学 <br>
+2024 **年度考核优秀**，武汉理工大学 <br>
+2023	**先进个人**，武汉理工大学交通与物流工程学院 <br>
+2022 **“2021 Chinese Government Award for Outstanding Self-financed Students Abroad”**, China Scholarship Council (600, NA) <br>
+2021 **“Don Blackburn Memorial Scholarship”**, North Carolina Section of the Institute of Transportation Engineers, NC, USA (1%, 21) <br>
+2021 **“Paul D. Cribbins Cup”**, NCSITE, USA (1%, 4) <br>
+2021 **"Third Prize Oral Presentation"**, 4th CAMMSE Research Symposium 2021, USA (5%, 18) <br>
+2018 **“Excellent Oral Presentation”**, International Conference of Intelligent Transportation Engineering (ICITE 2018)， Singapore (5%, 116)  
 
 # Patent: 
 2024	宋力, 林毅轩, 韦彬, 董芃慧, 陈国俊, 一种智能双向单车道改扩建信号管控方法和系统. <br>
@@ -26,14 +40,6 @@ author_profile: true
 
 
 
-# Selected Awards:
-2024. Recommended paper, 2024 World Transport Congress ,  World Transport Congress Committee
-2023. Song Li, et al. First Prize of Excellent paper, Guangxi Road Transport Association.
-2022 **“2021 Chinese Government Award for Outstanding Self-financed Students Abroad”**, China Scholarship Council (600, NA) <br>
-2021 **“Don Blackburn Memorial Scholarship”**, North Carolina Section of the Institute of Transportation Engineers, NC, USA (1%, 21) <br>
-2021 **“Paul D. Cribbins Cup”**, NCSITE, USA (1%, 4) <br>
-2021 **"Third Prize Oral Presentation"**, 4th CAMMSE Research Symposium 2021, USA (5%, 18) <br>
-2018 **“Excellent Oral Presentation”**, International Conference of Intelligent Transportation Engineering (ICITE 2018)， Singapore (5%, 116)  
 
 
 
