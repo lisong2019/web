@@ -20,8 +20,8 @@ _**Total: 39, including SCI: 32； EI: 5 ；Others: 2** (note: corresponding aut
 **Journal Article:**  
 ====== 
 
-1. **<u>Song, L.</u>**, Li, S., Chen, G., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring mechanisms of integrating global perception prediction for connected vehicles with lane-specific reinforcement learning-based variable speed limits. Expert Systems With Applications. 129958. (**SCI, Q1, IF=7.5 中科院一区TOP**)
-2. Zhang, T.，Zhang, X., Yang, Z., Chen, Y., **<u>Song, L.</u>**, Zhang, W. (2026). Automated pothole detection and volume assessment using PointPSSN and smartphone LiDAR point clouds. Expert Systems With Applications. 298, Part C, 129833. (**SCI, Q1, IF=7.5 中科院一区TOP**)
+1. **<u>Song, L.</u>**, Li, S., Chen, G., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring mechanisms of integrating global perception prediction for connected vehicles with lane-specific reinforcement learning-based variable speed limits. <i>Expert Systems With Applications</i>. 129958. (**SCI, Q1, IF=7.5 中科院一区TOP**)
+2. Zhang, T.，Zhang, X., Yang, Z., Chen, Y., **<u>Song, L.</u>**, Zhang, W. (2026). Automated pothole detection and volume assessment using PointPSSN and smartphone LiDAR point clouds. <i>Expert Systems With Applications</i>. 298, Part C, 129833. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 3. Liu, D., Zhao, X., Ge, T., **<u>Song, L.</u>**, Zhang, X. (2025) Integrated control strategy for autonomous vehicle decision-making based on deep reinforcement learning. <i>Journal of Supercomputing</i>. 81, 1247. (**SCI, Q2**)
 4. **<u>Song, L.</u>**，Lin, Y., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring the feasibility and sensitivity of deep reinforcement learning controlled traffic signals in bidirectional two-lane road work zones. <i>Expert Systems With Applications</i>. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 5. **<u>Song, L.</u>**，Lin, Y., Chen, G., Zhao, X., Zhang, X.#, # Fan, W. (2025). Exploring behavior shifts and sample selectivity issues among speeding single-vehicle crash-injury severities before-and-after the stay-at-home order. <i>International Journal of Injury Control and Safety Promotion</i>. (**SCI, Q2**)
