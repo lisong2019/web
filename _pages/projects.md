@@ -15,6 +15,7 @@ author_profile: true
 2019-2022. **Major Completer**. Spatiotemporal Patterns and Crash Injury Severity Factors Identification. USDOT CAMMSE Transportation Research Center Sponsored. <br>
 -->
 # Selected Awards:
+2025 **2025年度中国智能交通协会科学技术奖二等奖**, 智慧公路多源信息融合与安全管控技术及应用; 中国智能交通协会; 4/10<br>
 2025	**2025年度中国物流与采购联合会科学技术奖一等奖**，营运车辆运输过程监管与运行风险预警技术及应用；中国物流与采购联合会；6/11<br>
 2025	**2025湖北省公路学会科学技术奖一等奖**，智能网联交通系统安全评价技术及其测评体系；湖北省公路学会；10/14<br>
 2025	**优秀论文**, Exploring the feasibility and sensitivity of deep reinforcement learning controlled traffic signals in bidirectional two-lane road work zones. 第四届数字交通与智慧出行学术论坛, 甘肃省交通运输协会; Song, L.，Lin, Y., Zhao, X., Lyu, N.#, Fan, W.;1/5<br>
