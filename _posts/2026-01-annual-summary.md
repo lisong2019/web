@@ -1,5 +1,5 @@
 ---
-title: 'STAR智能交通研究团队年终总结'
+title: 'STAR Annual summary'
 date: 2026-01-31
 permalink: /blog-post-5/
 tags:
