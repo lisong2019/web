@@ -1,5 +1,5 @@
 ---
-title: 'STAR Annual Summary'
+title: 'STAR 年度总结'
 date: 2026-01-31
 permalink: /ANNUAL-SUMMARY/
 tags:
