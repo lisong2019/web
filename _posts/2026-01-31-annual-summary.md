@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-2025年度课题组年度总结[2025-STAR公众号](https://mp.weixin.qq.com/s/D-2qaCz7295K45S5FaPkuQ)
+课题组年度总结[2025](https://mp.weixin.qq.com/s/D-2qaCz7295K45S5FaPkuQ)
