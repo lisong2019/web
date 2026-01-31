@@ -14,7 +14,7 @@ Requirements for graduate students are listed in [**Open Positions**](https://li
 Interested students are encouraged to send his/her resume along with transcripts and proof materials (optional) directly to Dr. Li Song at `lisong1@whut.edu.cn` OR `345536290@qq.com`. 
 
 Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/xygk/szdw/jgml/202210/t20221006_887992.shtml) for more information. Review of applications will start immediately. <br>
-[2025年度课题组年度总结](https://mp.weixin.qq.com/s/D-2qaCz7295K45S5FaPkuQ)
+课题组年度总结:[2025](https://mp.weixin.qq.com/s/D-2qaCz7295K45S5FaPkuQ)
 ---
 ## Current Research Team: 
 
