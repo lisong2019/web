@@ -40,25 +40,25 @@ permalink: /Research Interest/
 		      <td>
 			  <img src="../images/cavs_p1.jpg" width="600" class="research_img">
 		      </td>
-		      <td><mark>Connected and Autonomous Vehicle</mark></td>
-		      <td>Intelligent vehicle technologies; <br />Simulation and impacts analysis <br /> Optimal and control method;<br>
+		      <td><mark>人工智能+交通群体智能控制</mark></td>
+		      <td><mark>深度强化学习技术</mark> <br /> <mark>智能交通群体管控</mark><br /> <mark>LLM-VLM技术</mark><br /> 自动化控制技术 <br />交通仿真二次开发 <br /> 优化理论及技术<br>
 			       <!-- <p class="infolinks"> [<a href="javascript:toggleInfo('interest1','abstract')">Abstract</a>]
 				 [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] 
 				  [<a href="http://tps.uwstarlab.org/">Website</a>]
 			      </p>-->
 		       </td>
 		</tr>
-		<tr id="interest2" class="entry">
-			<td> <img src="../images/bigDataP1.gif" width="600" class="research_img"> </td>
-			<td> Big Data Analytics & Statistics </td>
-			<td>Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence. I am also highly interested in the developing data mining technology.
-			</td>
-		</tr>
 		<tr id="interest3" class="entry">
 			<td><img src="../images/transportation_300_500.png" width="600" class="research_img">
 				</td>
-			<td> Future Transportation Systems </td>
-			<td>I am highly interested in technologies which could change the future of the transportation. Including but not limited to: Intelligent transport system control; Sharing mobilities; Smart parking; Congestion mitigation..
+			<td> 网联自主交通系统</td>
+			<td><mark>控制及仿真技术：自动驾驶控制技术及仿真测试、无人机系统管控</mark> <br /> I am highly interested in technologies which could change the future of transportation. Including but not limited to: Intelligent transport system control; Sharing mobility; Smart parking; Congestion mitigation..<br>
+			</td>
+		</tr>
+		<tr id="interest2" class="entry">
+			<td> <img src="../images/bigDataP1.gif" width="600" class="research_img"> </td>
+			<td> 交通大数据分析 Big Data Analytics & Statistics </td>
+			<td><mark>统计、机器学习及数据平台开发:城市级轨迹数据及省级出行数据分析</mark> <br />Transportation safety data analysis; Discrete choice modeling; Machine learning and artificial intelligence. I am also highly interested in the developing data mining technology.<br>
 			</td>
 		</tr>
 	</tbody>
