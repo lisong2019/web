@@ -19,7 +19,7 @@ _**Total: 39, including SCI: 32； EI: 5 ；Others: 2** (note: corresponding aut
 
 **Journal Article:**  
 ====== 
-
+1. **<u>Song, L.</u>**, Zong, J., Lin, Y., Zhao, X., Lyu, N.,# Fan, W. (2026). Interpretable deep reinforcement learning with hybrid action space for cooperative ramp merging control, <i>Expert Systems With Applications</i>. 132377. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 1. **<u>Song, L.</u>**, Li, S., Chen, G., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring mechanisms of integrating global perception prediction for connected vehicles with lane-specific reinforcement learning-based variable speed limits. <i>Expert Systems With Applications</i>. 129958. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 2. Zhang, T.，Zhang, X., Yang, Z., Chen, Y., **<u>Song, L.</u>**, Zhang, W. (2026). Automated pothole detection and volume assessment using PointPSSN and smartphone LiDAR point clouds. <i>Expert Systems With Applications</i>. 298, Part C, 129833. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 3. Liu, D., Zhao, X., Ge, T., **<u>Song, L.</u>**, Zhang, X. (2025) Integrated control strategy for autonomous vehicle decision-making based on deep reinforcement learning. <i>Journal of Supercomputing</i>. 81, 1247. (**SCI, Q2**)
@@ -54,6 +54,12 @@ _**Total: 39, including SCI: 32； EI: 5 ；Others: 2** (note: corresponding aut
 38. Wu, P., Meng, X.#, **<u>Song, L.</u>**, Zuo, W. (2019). Crash Risk Evaluation and crash severity pattern analysis for different types of urban junctions: fault tree analysis and association rules approaches. Transportation research record, 2673(1), 403-416.  (**SCI, Q4, IF:1.6**) \[[DOI](https://doi.org/10.1177/0361198118822817)\]\[<a href="../files/PAPER/Wu_TRR-Crash-Risk-Evaluation.pdf">PDF</a>\]
 41. Wang, X., **<u>Song, L.</u>**#, Wu, Z., Wu, P. (2019). Development of a road shoulder's equivalent sound source traffic noise prediction model. Proceedings of the Institution of Civil Engineers-Transport, 1-10. (**SCI, Q4, IF:1.1**) \[[DOI](https://doi.org/10.1680/jtran.18.00105)\]\[<a href="../files/PAPER/ICE_t_2018_traffic_noise.pdf">PDF</a>\]
 50. **<u>Song, L.</u>**, Chen, J.#, Li, K. X., Liu, X., Fei, Y., Yu, H. (2018). Periodical characteristics of shipbuilding market activity: A wavelet analysis. Journal of Marine Science and Technology, 26(5), 692-702. (**SCI, Q4**)\[[DOI](https://jmst.ntou.edu.tw/marine/26-5/692-702.pdf)\]\[<a href="../files/PAPER/JMST2018-Periodic_Characteristics_of_Shipbuilding_Activity.pdf">PDF</a>\]
+51. **<u>宋力</u>**,聂可,郭凯,雷立,陶昕蕊,罗凯振 (2026). 基于深度强化学习的高速公路连续充电站动态定容方法. 交通信息与安全. (北核)
+52. 王莹,林毅轩,李景,**<u>宋力</u>**,江锋,张帆 (2026). 双向两车道改扩建场景下的强化学习信号控制. 交通科技与经济.
+53. 雷立,徐鹏飞,**<u>宋力#</u>**,肖冉,罗书宇 (2025). 高速公路服务区充电供需评估体系及供需状态分析,武汉理工大学学报(交通科学与工程版). (核心, 通讯作者)
+54. 王莹,余杰,王孝亮,刘婧,**<u>宋力#</u>**,张帆(2025). 基于深度强化学习的快速路施工区分段可变限速控制研究, 计算机应用与软件. (北核, 通讯作者)
+55. 王莹, 李士杰, 王欣, 罗宜, 曲直, **<u>宋力#</u>** (2026). 融合网联车辆局部感知的分车道强化学习可变限速方法, 计算机应用与软件, 已录用. (北核, 通讯作者)
+
 
 **Conference Article:**  
 ====== 
