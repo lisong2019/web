@@ -40,16 +40,16 @@ author_profile: true
 ---
 ## 一虚两实——三阶递进式实验教学体系
 <div style="text-align: center">
-    <img src="../_teaching/teach1.gif" alt="实验教学理念" width="80%" height="auto">
+    <img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach1.gif" alt="实验教学理念" width="80%" height="auto">
 </div>
 <!-- <img src="https://github.com/lisong2019/web/raw/master/images/graduation/20250612grad1.jpg"  alt="grad2025" width="80%" height="auto"/>-->
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:50%; padding:0; text-align:center;">
-    	<img src="../_teaching/teach2.gif" style="width:100%; height:300px; object-fit:cover;">
+    	<img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach2.gif" style="width:100%; height:300px; object-fit:cover;">
     </td>
     <td style="width:50%; padding:0; text-align:center;">
-    	<img src="../_teaching/teach3.gif" style="width:100%; height:300px; object-fit:cover;">
+    	<img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach3.gif" style="width:100%; height:300px; object-fit:cover;">
     </td>
   </tr>
 </table>
