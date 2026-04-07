@@ -94,6 +94,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c5_master3" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
+			<li>北大核心 1篇（计算机应用与软件2026）；</li>
 			<li>2025 软著申请5项、申请发明1项（2025）</li>	
 			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生、省公路协会优秀毕设 </li>	
 			<li>中国研究生数学建模竞赛全国二等奖(2025) </li>
@@ -135,6 +136,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
       	</tr>
 		<tr id="c1_master2" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>宗嘉伟 2025级硕士</b>:
+			<li>2025 论文发表：Q1 SCI 1篇 （ESWA2026）</li>
 			<li>2025 软著申请5项</li>
 			<li>2025 武汉理工大学本科优秀毕业生 2022校优秀共青团员、2024校优秀学生干部</li>
 			<li>2023、2024 国家励志奖学金 </li>
@@ -206,7 +208,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
       	</tr>
 		<tr id="c1_master1" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>林毅轩 2024级硕士</b>: 		
-			<li>2025 论文发表：Q1 SCI 1篇 （ESWA2025）, Q2 SCI 2篇（IP2025, IJICSP2025）</li>
+			<li>2025 论文发表：Q1 SCI 2篇 （ESWA2025，ESWA2026）； Q2 SCI 2篇（IP2025, IJICSP2025）；中文1篇（交通科技与经济2026）</li>
 			<li><span style="background-color:rgb(176, 224, 230);">2025 研究生国家奖学金</span></li>
 			<li>2024 发明专利申请3项、软著申请8项</li>
 			<li>2024 武汉理工大学本科优秀毕设、优秀毕业生、省公路协会优秀毕设</li>
@@ -217,6 +219,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>聂可 2024级硕士</b>:
+			<li>2025 论文发表：北大核心 1篇 （交通信息与安全2025）</li>
 			<li>2025 发明专利申请1项、软著申请6项</li>
 			<li>2024 武汉理工大学本科优秀毕业生、校三好学生</li>
 			<li>中国研究生数学建模竞赛全国二等奖(2025) </li>
@@ -232,7 +235,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c4_master1" class="details4 noshow">
 			<td colspan="5"><div align="justify"> <b>李士杰 2023级硕士</b>:
-			<li>2025 论文发表 Q1 SCI 2篇 (AAP2025、ESWA2025)、2024 世界交通运输大会推荐论文、2025WTC会议论文</li>
+			<li>2025 论文发表 Q1 SCI 2篇 (AAP2025、ESWA2025)；北大核心 1篇（计算机应用与软件2026）；2024 世界交通运输大会推荐论文、2025WTC会议论文</li>
 			<li><span style="background-color:rgb(176, 224, 230);">2025 研究生国家奖学金</span></li>
 			<li>2024 发明专利申请3项、软著申请3项</li>
 			<li>2023 中国研究生数学建模竞赛全国二等奖、2024 中国研究生数学建模竞赛全国三等奖、2025华中杯大学生数学建模挑战赛一等奖</li>
