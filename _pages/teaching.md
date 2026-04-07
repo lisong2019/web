@@ -38,6 +38,21 @@ author_profile: true
 3. 本科生	物联网与车路协同，本科课程思政建设，2023.10-2024.9，R1<br>
 
 ---
+## 一虚两实——三阶递进式实验教学体系
+<div style="text-align: center">
+    <img src="../_teaching/teach1.gif" alt="实验教学理念" idth="80%" height="auto">
+</div>
+<!-- <img src="https://github.com/lisong2019/web/raw/master/images/graduation/20250612grad1.jpg"  alt="grad2025" width="80%" height="auto"/>-->
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:50%; padding:0; text-align:center;">
+      <img src="../_teaching/teach2.gif" style="width:100%; height:300px; object-fit:cover;">
+    </td>
+    <td style="width:50%; padding:0; text-align:center;">
+      <img src="../_teaching/teach3.gif" style="width:100%; height:300px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 The following part is still under development.....<br>
 ======
