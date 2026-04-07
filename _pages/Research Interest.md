@@ -64,10 +64,16 @@ permalink: /Research Interest/
 	</tbody>
 </table>      
 
-# SELECTED RESEARCH
+# Experimental equipment
 -----
+<div style="text-align: center">
+    <img src="../images/equip/equipment1.png" alt="实验设备1" width="100%" height="auto">
+</div>
+<div style="text-align: center">
+    <img src="../images/equip/equipment2.png" alt="实验设备2" width="100%" height="auto">
+</div>
 
-# METHODOLOGIES
+# SELECTED RESEARCH
 -----
 <table style="width:100%; font-size:22px;">
     <thead>
