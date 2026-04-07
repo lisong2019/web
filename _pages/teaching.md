@@ -46,10 +46,10 @@ author_profile: true
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:50%; padding:0; text-align:center;">
-      <img src="../_teaching/teach2.gif" style="width:100%; height:300px; object-fit:cover;">
+    	<img src="../_teaching/teach2.gif" style="width:100%; height:300px; object-fit:cover;">
     </td>
     <td style="width:50%; padding:0; text-align:center;">
-      <img src="../_teaching/teach3.gif" style="width:100%; height:300px; object-fit:cover;">
+    	<img src="../_teaching/teach3.gif" style="width:100%; height:300px; object-fit:cover;">
     </td>
   </tr>
 </table>
