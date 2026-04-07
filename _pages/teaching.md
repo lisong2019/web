@@ -46,10 +46,10 @@ author_profile: true
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:50%; padding:0; text-align:center;">
-    	<img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach2.gif" style="width:80%; object-fit:cover;">
+    	<img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach2.gif" style="width:90%; object-fit:cover;">
     </td>
     <td style="width:50%; padding:0; text-align:center;">
-    	<img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach3.gif" style="width:80%; object-fit:cover;">
+    	<img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach3.gif" style="width:90%; object-fit:cover;">
     </td>
   </tr>
 </table>
