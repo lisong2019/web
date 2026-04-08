@@ -40,7 +40,7 @@ author_profile: true
 ---
 # 一虚两实——三阶递进式实验教学体系
 <div style="text-align: center">
-    <img src="../images/teach/teach1.png" alt="实验教学理念" width="80%" height="auto">
+    <img src="../images/teach/teach1.gif" alt="实验教学理念" width="80%" height="auto">
 </div>
 <!--  <img src="https://raw.githubusercontent.com/lisong2019/web/master/_teaching/teach1.gif" alt="实验教学理念" width="80%" height="auto">-->
 <table style="width:100%; border-collapse: collapse;">
