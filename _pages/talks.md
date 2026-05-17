@@ -15,11 +15,10 @@ Including conference hosting, oral presentation, poster, and attendance only.<br
 **Presentation:** <be>
 1. **Song, L.** (2026). 交通安全与环境第二届编委会， 长沙. 2026.5.17.
 1. **Song, L.** (2026). 交通安全研讨会， 北海. 2026.4.
-2. **Song, L.**,  2026, 第五届数字交通与智慧出行学术论坛, Tianjing, Selected Paper Award
-3. **Song, L.**,  2025, 第四届数字交通与智慧出行学术论坛, Nantong, Selected Paper Award
-4. **Song, L.**,  2024, 第三届数字交通与智慧出行学术论坛, Gulin, Selected Paper Award
-1. **Song, L.**,  2024, World Transport Conference, Qingdao, Sub-forum host, Selected Paper Award
-1.  **Song, L.**, (2023, Aug.). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. In 2023 2nd Academic Conference on Digital Transportation and Smart Travel, Guilin.
+2. **Song, L.**,  2026, 第五届数字交通与智慧出行学术论坛, Tianjing, Selected Paper Award, **口头汇报**
+3. **Song, L.**,  2025, 第四届数字交通与智慧出行学术论坛, Nantong, Selected Paper Award，**口头汇报**
+1. **Song, L.**,  2024, World Transport Conference, Qingdao, Sub-forum host, Selected Paper Award  **海报**
+1.  **Song, L.**, (2023, Aug.). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. In 2023 2nd Academic Conference on Digital Transportation and Smart Travel,第三届数字交通与智慧出行学术论坛, Guilin.**口头汇报**
 2.  **Song, L.**, (2022, Nov.). Intersection Capacity Adjustments Considering Different Market Penetration Rates of Connected and Autonomous Vehicles. In 2022 NCCAV Seminar. Online. 
 1.  **Song, L.**, (2022, Nov.). Performance of State-Shared Multi-Agent Deep Reinforcement Learning Controlled Signal Corridor with Platooning-Based CAVs. In 2022 5th CAMMSE Research Symposium. Online. 
 1.  **Song, L.**, (2021, Nov.). Impacts of mixed traffic on transfer-based DQN controlled signal intersection. In 2021 4th CAMMSE Research Symposium. Online. (**Honor: Third Oral Presentation Prize**)
