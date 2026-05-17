@@ -239,12 +239,14 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			<li>2024 发明专利申请4项、软著申请3项</li>
 			<li>2023 中国研究生数学建模竞赛全国二等奖、2024 中国研究生数学建模竞赛全国三等奖、2025华中杯大学生数学建模挑战赛一等奖</li>
 			<li>全国大学生数学建模竞赛本科组全国一等奖</li>
+			<li><span style="background-color:rgb(176, 224, 230);">毕业去向2026：中交第二公路勘察设计研究院有限公司（中交集团，央企）智慧交通研发岗</span></li>
 			</div></td>
 		</tr>
 		<tr id="c5_master1" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>徐鹏飞 2023级硕士</b>:
 			<li>2025武汉理工大学报1篇、2024 COTA2024会议论文1篇（EI）</li>
 			<li>2025软著申请2项</li>
+			<li><span style="background-color:rgb(176, 224, 230);">毕业去向2026：岚图汽车科技股份有限公司（东风集团，央企）智能驾驶部分，数据研发岗</span></li>
 			</div></td>
 		</tr>
 		<!-- Item Finished*********************************** -->  
@@ -333,6 +335,7 @@ developing...
           <img src="../images/stud/nieke2024.jpg" width="600" class="research_img">
           <div class="container">
           	Ke Nie (聂可) 2024 <details><summary>Details</summary><ul>
+		<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
 		<li>2024年武汉理工大学本科优秀毕业生、校三好学生</li>
 		<li>全国第一届高校数智化商业决策创新大赛全国一等奖</li>
 		<li>第十八届全国大学生交通运输科技大赛校一等奖</li>
