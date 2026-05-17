@@ -13,6 +13,8 @@ Including conference hosting, oral presentation, poster, and attendance only.<br
 3. **Song, L.**, (2020, Nov.). Multimodal Session. NCSITE Annual Meeting.
 
 **Oral Presentation:** <be>
+1. **Song, L.**,  2026, 第五届数字交通与智慧出行学术论坛, Nantong, Selected Paper Award
+2. **Song, L.**,  2025, 第四届数字交通与智慧出行学术论坛, Nantong, Selected Paper Award
 1. **Song, L.**,  2024, World Transport Conference, Qingdao, Sub-forum host, Selected Paper Award
 1.  **Song, L.**, (2023, Aug.). Modeling pedestrian-injury severities in pedestrian-vehicle crashes considering spatiotemporal patterns: insights from different hierarchical Bayesian random-effects models. In 2023 2nd Academic Conference on Digital Transportation and Smart Travel, Guilin.
 2.  **Song, L.**, (2022, Nov.). Intersection Capacity Adjustments Considering Different Market Penetration Rates of Connected and Autonomous Vehicles. In 2022 NCCAV Seminar. Online. 
