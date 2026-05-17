@@ -8,10 +8,10 @@ author_profile: true
 # Undergraduate Student Course: 
 1. Vehicle networking and vehicle-road collaboration (20231-02684), 2022-present; <be>
 2. Integrated experiment of vehicle networking and vehicle-road collaboration (4180679170), 2022-present;  <be>   
-1. Artificial Intelligence and Machine Learning for Transportation (4180128220), 2022-present;  <br>
+1. Artificial Intelligence and Machine Learning for Transportation (4180128220), 2022-2024;  <br>
 
 # Graduate Student Course: 
-1. CAV safety theory and method (00212069), 2022; <br>
+1. CAV safety theory and method (00212069), 2022-present; <br>
 2. Transportation system management and control (Intelligent transportation system part, 00223005), 2022;  <br>
 3. Transportation system control and practice (Intelligent transportation system control part, 00241070), 2022;  <br>
 4. Traffic flow theory and method (00211033), 2023; <be>
@@ -24,6 +24,7 @@ author_profile: true
 
 ---
 # Teaching Awards:
+1. 2026	第六届湖北省教师教学创新大赛特等奖，湖北省高等教育学会<br>
 1. 2026	第六届教师教学创新大赛一等奖，武汉理工大学<br>
 2. 2025	第五届教师教学创新大赛二等奖，武汉理工大学<br>
 3. 2025	2025教职工AI应用创意大赛（研究生教学）三等奖，武汉理工大学<br>
