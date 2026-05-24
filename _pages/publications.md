@@ -21,12 +21,13 @@ _**Total: 45, including SCI: 34； EI: 4 ；Others: 2; 中文：5 ** (note: corr
 ====== 
 1. **<u>Song, L.</u>**, Zong, J., Lin, Y., Zhao, X., Lyu, N.,# Fan, W. (2026). Interpretable deep reinforcement learning with hybrid action space for cooperative ramp merging control, <i>Expert Systems With Applications</i>. 132377. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 1. **<u>Song, L.</u>**, Li, S., Chen, G., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring mechanisms of integrating global perception prediction for connected vehicles with lane-specific reinforcement learning-based variable speed limits. <i>Expert Systems With Applications</i>. 129958. (**SCI, Q1, IF=7.5 中科院一区TOP**)
-2. Zhang, T.，Zhang, X., Yang, Z., Chen, Y., **<u>Song, L.</u>**, Zhang, W. (2026). Automated pothole detection and volume assessment using PointPSSN and smartphone LiDAR point clouds. <i>Expert Systems With Applications</i>. 298, Part C, 129833. (**SCI, Q1, IF=7.5 中科院一区TOP**)
-3. Liu, D., Zhao, X., Ge, T., **<u>Song, L.</u>**, Zhang, X. (2025) Integrated control strategy for autonomous vehicle decision-making based on deep reinforcement learning. <i>Journal of Supercomputing</i>. 81, 1247. (**SCI, Q2**)
-4. **<u>Song, L.</u>**，Lin, Y., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring the feasibility and sensitivity of deep reinforcement learning controlled traffic signals in bidirectional two-lane road work zones. <i>Expert Systems With Applications</i>. (**SCI, Q1, IF=7.5 中科院一区TOP**)
-5. **<u>Song, L.</u>**，Lin, Y., Chen, G., Zhao, X., Zhang, X.#, # Fan, W. (2025). Exploring behavior shifts and sample selectivity issues among speeding single-vehicle crash-injury severities before-and-after the stay-at-home order. <i>International Journal of Injury Control and Safety Promotion</i>. (**SCI, Q2**)
-6. Liu, W., **<u>Song, L.</u>**, Dong, Y., Zhang, X.#, & Xu, L. (2025). Unified model predictive control method of automated vehicles for lane-changing and lane-keeping maneuvers. <i>Journal of Intelligent Transportation Systems, 1–21</i>. (**SCI, Q2**) 
-7.  **<u>Song, L.</u>**，Li, S., Yang, Q., Liu, B., Lyu, N., # Fan, W. (2025). Partially temporally constrained modeling of speeding crash-injury severities on freeways and non-freeways before, during, and after the stay-at-home order. <i>Accident Analysis and Prevention</i>. In Press. (**SCI, Q1 中科院一区TOP**)
+2. Wang, T., Chen, G.#, Gao, P., Zhang, S., & **<u>Song, L.</u>** (2026). Real-time Bus Arrival Information Service: Optimal Dissemination Value Considering Non-travel Activities. Travel Behaviour and Society, 43, 101179. (**SCI, Q1, IF=5.7 中科院一区TOP**)
+3. Zhang, T.，Zhang, X., Yang, Z., Chen, Y., **<u>Song, L.</u>**, Zhang, W. (2026). Automated pothole detection and volume assessment using PointPSSN and smartphone LiDAR point clouds. <i>Expert Systems With Applications</i>. 298, Part C, 129833. (**SCI, Q1, IF=7.5 中科院一区TOP**)
+4. Liu, D., Zhao, X., Ge, T., **<u>Song, L.</u>**, Zhang, X. (2025) Integrated control strategy for autonomous vehicle decision-making based on deep reinforcement learning. <i>Journal of Supercomputing</i>. 81, 1247. (**SCI, Q2**)
+5. **<u>Song, L.</u>**，Lin, Y., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring the feasibility and sensitivity of deep reinforcement learning controlled traffic signals in bidirectional two-lane road work zones. <i>Expert Systems With Applications</i>. (**SCI, Q1, IF=7.5 中科院一区TOP**)
+6. **<u>Song, L.</u>**，Lin, Y., Chen, G., Zhao, X., Zhang, X.#, # Fan, W. (2025). Exploring behavior shifts and sample selectivity issues among speeding single-vehicle crash-injury severities before-and-after the stay-at-home order. <i>International Journal of Injury Control and Safety Promotion</i>. (**SCI, Q2**)
+7. Liu, W., **<u>Song, L.</u>**, Dong, Y., Zhang, X.#, & Xu, L. (2025). Unified model predictive control method of automated vehicles for lane-changing and lane-keeping maneuvers. <i>Journal of Intelligent Transportation Systems, 1–21</i>. (**SCI, Q2**) 
+8.  **<u>Song, L.</u>**，Li, S., Yang, Q., Liu, B., Lyu, N., # Fan, W. (2025). Partially temporally constrained modeling of speeding crash-injury severities on freeways and non-freeways before, during, and after the stay-at-home order. <i>Accident Analysis and Prevention</i>. In Press. (**SCI, Q1 中科院一区TOP**)
 1. **<u>Song, L.</u>**，Lin, Y., Xu, G., Zhang, X.,# Liu, W., Liu, B., Chen, G. (2025). Spatiotemporal crash outliers are also noteworthy: evidence from 13 years of pedestrian-vehicle crashes in North Carolina. <i>Injury Prevention</i> (**SCI, Q2 BMJ子刊**) 
 2. Luo, S., Liu, B., **<u>Song, L.#</u>**, Xia, J. (2024). A Field Study about the Effects of Asymmetric Visual Perception on Lateral Driving Behaviors on Curves. <i>Journal of Transportation Engineering, Part A: Systems.</i>  （**SCI, Q3**）
 3. Feng, L., Zhao, X.#, Chen, Z., **<u>Song, L.</u>** (2024). An adaptive coupled control method based on vehicles platooning for intersection controller and vehicle trajectories in mixed traffic. <i>IET Intelligent Transport Systems.</i>（**SCI, Q2**）
@@ -56,9 +57,10 @@ _**Total: 45, including SCI: 34； EI: 4 ；Others: 2; 中文：5 ** (note: corr
 50. **<u>Song, L.</u>**, Chen, J.#, Li, K. X., Liu, X., Fei, Y., Yu, H. (2018). Periodical characteristics of shipbuilding market activity: A wavelet analysis. Journal of Marine Science and Technology, 26(5), 692-702. (**SCI, Q4**)\[[DOI](https://jmst.ntou.edu.tw/marine/26-5/692-702.pdf)\]\[<a href="../files/PAPER/JMST2018-Periodic_Characteristics_of_Shipbuilding_Activity.pdf">PDF</a>\]
 51. **<u>宋力</u>**,聂可,郭凯,雷立,陶昕蕊,罗凯振 (2026). 基于深度强化学习的高速公路连续充电站动态定容方法. 交通信息与安全. (北核)
 52. 王莹,林毅轩,李景,**<u>宋力</u>**,江锋,张帆 (2026). 双向两车道改扩建场景下的强化学习信号控制. 交通科技与经济.
-53. 雷立,徐鹏飞,**<u>宋力#</u>**,肖冉,罗书宇 (2025). 高速公路服务区充电供需评估体系及供需状态分析,武汉理工大学学报(交通科学与工程版). (核心, 通讯作者)
-54. 王莹,余杰,王孝亮,刘婧,**<u>宋力#</u>**,张帆(2025). 基于深度强化学习的快速路施工区分段可变限速控制研究, 计算机应用与软件. (北核, 通讯作者)
-55. 王莹, 李士杰, 王欣, 罗宜, 曲直, **<u>宋力#</u>** (2026). 融合网联车辆局部感知的分车道强化学习可变限速方法, 计算机应用与软件, 已录用. (北核, 通讯作者)
+53. 雷立，徐鹏飞，郭凯，邓爱琳，罗书宇，**<u>宋力</u>** (2026). 湖北高速路网电动与燃油车辆时空出行及能耗差异分析,湖北交通科技
+54. 雷立,徐鹏飞,**<u>宋力#</u>**,肖冉,罗书宇 (2025). 高速公路服务区充电供需评估体系及供需状态分析,武汉理工大学学报(交通科学与工程版). (核心, 通讯作者)
+55. 王莹,余杰,王孝亮,刘婧,**<u>宋力#</u>**,张帆(2025). 基于深度强化学习的快速路施工区分段可变限速控制研究, 计算机应用与软件. (北核, 通讯作者)
+56. 王莹, 李士杰, 王欣, 罗宜, 曲直, **<u>宋力#</u>** (2026). 融合网联车辆局部感知的分车道强化学习可变限速方法, 计算机应用与软件, 已录用. (北核, 通讯作者)
 
 
 **Conference Article:**  
