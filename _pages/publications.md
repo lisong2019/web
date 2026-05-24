@@ -14,7 +14,7 @@ _(note: corresponding author is noted with #; cooperative first author is noted 
 
 1. 
 -->
-_**Total: 45, including SCI: 34； EI: 4 ；Others: 2; 中文：5 ** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
+_**Total: 47, including SCI: 35； EI: 4 ；Others: 2; 中文：6 ** (note: corresponding author is noted with #; cooperative first author is noted with *;)_<be>
 
 
 **Journal Article:**  
