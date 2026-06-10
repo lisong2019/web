@@ -8,6 +8,17 @@ tags:
   - category2
 ---
 
+## 2025毕业留念（李士杰、徐鹏飞）
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:50%; padding:0; text-align:center;">
+      <img src="../images/graduation/2026all.jpg" style="width:100%; height:300px; object-fit:cover;">
+    </td>
+    <td style="width:50%; padding:0; text-align:center;">
+      <img src="../images/graduation/2026graduate.jpg" style="width:100%; height:300px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 ## 2025毕业留念（罗书宇、罗凯振）
 <div style="text-align: center">
