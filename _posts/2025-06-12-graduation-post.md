@@ -1,5 +1,5 @@
 ---
-title: 'Graduation Archives'
+title: 'Graduation Archives研究生毕业留念'
 date: 2025-06-12
 permalink: /grad-post/
 tags:
@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-## 2025毕业留念（李士杰、徐鹏飞）
+## 2026毕业留念（李士杰、徐鹏飞）
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:50%; padding:0; text-align:center;">
