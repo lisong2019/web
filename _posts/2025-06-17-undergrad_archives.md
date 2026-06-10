@@ -1,5 +1,5 @@
 ---
-title: 'Graduation Archives - Undergraduate Students'
+title: 'Graduation Archives - Undergraduate Students本科生毕业留念'
 date: 2025-06-17
 permalink: /undergrad-post/
 tags:
@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-## 2025本科毕业留念（韦彬、杨启明、刘俊杰、唐豫容、闫怡萱）
+## 2026本科毕业留念（韦彬、杨启明、刘俊杰、唐豫容、闫怡萱）
 <div style="text-align: center">
     <img src="../images/graduation/2026undergraduate.jpg"  alt="grad2025" width="80%" height="auto"/>
 </div>
