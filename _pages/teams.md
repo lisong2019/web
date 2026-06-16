@@ -136,7 +136,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
       	</tr>
 		<tr id="c1_master2" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>宗嘉伟 2025级硕士</b>:
-			<li>2025 论文发表：Q1 SCI 1篇 （ESWA2026）</li>
+			<li>2025 论文发表：Q1 SCI 1篇 （ESWA2026）, 中文1篇(广东公路交通2026) </li>
 			<li>2025 软著申请5项</li>
 			<li>2025 武汉理工大学本科优秀毕业生 2022校优秀共青团员、2024校优秀学生干部</li>
 			<li>2023、2024 国家励志奖学金 </li>
