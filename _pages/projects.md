@@ -8,6 +8,7 @@ author_profile: true
 # Research Projects:
 2026 <strong>湖北省百人计划（省高层次青年人才）</strong><br>
 2025 **武汉青年科技人才朝阳托举工程**<br>
+2023 **武汉市曙光计划**<br>
 2023-2025  **Host**  Multi-agent coordination control of vehicle-and-roadway speed in multi-ramp corridors under mixed traffic environment with connected and automated vehicles. National Natural Science Foundation of China. <br>
 <!--
 2023-2024  **Host**  Control strategy of hybrid network connected vehicle-flow agent on bottleneck roadways. Open Project of Zhejiang Provincial Engineering Research Center for Intelligent Transportation (Key project). <br>
