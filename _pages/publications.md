@@ -56,11 +56,12 @@ _**Total: 47, including SCI: 35； EI: 4 ；Others: 2; 中文：6 ** (note: corr
 41. Wang, X., **<u>Song, L.</u>**#, Wu, Z., Wu, P. (2019). Development of a road shoulder's equivalent sound source traffic noise prediction model. Proceedings of the Institution of Civil Engineers-Transport, 1-10. (**SCI, Q4, IF:1.1**) \[[DOI](https://doi.org/10.1680/jtran.18.00105)\]\[<a href="../files/PAPER/ICE_t_2018_traffic_noise.pdf">PDF</a>\]
 50. **<u>Song, L.</u>**, Chen, J.#, Li, K. X., Liu, X., Fei, Y., Yu, H. (2018). Periodical characteristics of shipbuilding market activity: A wavelet analysis. Journal of Marine Science and Technology, 26(5), 692-702. (**SCI, Q4**)\[[DOI](https://jmst.ntou.edu.tw/marine/26-5/692-702.pdf)\]\[<a href="../files/PAPER/JMST2018-Periodic_Characteristics_of_Shipbuilding_Activity.pdf">PDF</a>\]
 51. **<u>宋力</u>**,聂可,郭凯,雷立,陶昕蕊,罗凯振 (2026). 基于深度强化学习的高速公路连续充电站动态定容方法. 交通信息与安全. (北核)
-52. 王莹,林毅轩,李景,**<u>宋力</u>**,江锋,张帆 (2026). 双向两车道改扩建场景下的强化学习信号控制. 交通科技与经济.
-53. 雷立，徐鹏飞，郭凯，邓爱琳，罗书宇，**<u>宋力</u>** (2026). 湖北高速路网电动与燃油车辆时空出行及能耗差异分析,湖北交通科技
-54. 雷立,徐鹏飞,**<u>宋力#</u>**,肖冉,罗书宇 (2025). 高速公路服务区充电供需评估体系及供需状态分析,武汉理工大学学报(交通科学与工程版). (核心, 通讯作者)
-55. 王莹,余杰,王孝亮,刘婧,**<u>宋力#</u>**,张帆(2025). 基于深度强化学习的快速路施工区分段可变限速控制研究, 计算机应用与软件. (北核, 通讯作者)
-56. 王莹, 李士杰, 王欣, 罗宜, 曲直, **<u>宋力#</u>** (2026). 融合网联车辆局部感知的分车道强化学习可变限速方法, 计算机应用与软件, 已录用. (北核, 通讯作者)
+52. 王莹,宗嘉伟,李景,张帆,龙启炜,**<u>宋力</u>** (2026). 网联自动驾驶入口匝道合流深度强化学习控制. 广东公路交通.
+53. 王莹,林毅轩,李景,**<u>宋力</u>**,江锋,张帆 (2026). 双向两车道改扩建场景下的强化学习信号控制. 交通科技与经济.
+54. 雷立，徐鹏飞，郭凯，邓爱琳，罗书宇，**<u>宋力</u>** (2026). 湖北高速路网电动与燃油车辆时空出行及能耗差异分析,湖北交通科技
+55. 雷立,徐鹏飞,**<u>宋力#</u>**,肖冉,罗书宇 (2025). 高速公路服务区充电供需评估体系及供需状态分析,武汉理工大学学报(交通科学与工程版). (核心, 通讯作者)
+56. 王莹,余杰,王孝亮,刘婧,**<u>宋力#</u>**,张帆(2025). 基于深度强化学习的快速路施工区分段可变限速控制研究, 计算机应用与软件. (北核, 通讯作者)
+57. 王莹, 李士杰, 王欣, 罗宜, 曲直, **<u>宋力#</u>** (2026). 融合网联车辆局部感知的分车道强化学习可变限速方法, 计算机应用与软件, 已录用. (北核, 通讯作者)
 
 
 **Conference Article:**  
