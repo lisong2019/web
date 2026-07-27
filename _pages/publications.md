@@ -19,7 +19,8 @@ _**Total: 48, including SCI: 35； EI: 4 ；Others: 2; 中文：7 ** (note: corr
 
 **Journal Article:**  
 ====== 
-1. **<u>Song, L.</u>**, Zong, J., Lin, Y., Zhao, X., Lyu, N.,# Fan, W. (2026). Interpretable deep reinforcement learning with hybrid action space for cooperative ramp merging control, <i>Expert Systems With Applications</i>. 132377. (**SCI, Q1, IF=7.5 中科院一区TOP**)
+1. Zhang, X., Li, Y., Chen, Y., Yu, H., **<u>Song, L.#</u>**, G., Chen. (2026). Dynamic assessment of medical accessibility throughout urban flooding processes: Evidence from Zhengzhou, China. Journal of Transport Geography, 135, 104756. (**SCI, JCR 1区| 中科院 1区TOP, IF: 6.8,  通讯作者**)
+2. **<u>Song, L.</u>**, Zong, J., Lin, Y., Zhao, X., Lyu, N.,# Fan, W. (2026). Interpretable deep reinforcement learning with hybrid action space for cooperative ramp merging control, <i>Expert Systems With Applications</i>. 132377. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 1. **<u>Song, L.</u>**, Li, S., Chen, G., Zhao, X., Lyu, N.#, Fan, W. (2025). Exploring mechanisms of integrating global perception prediction for connected vehicles with lane-specific reinforcement learning-based variable speed limits. <i>Expert Systems With Applications</i>. 129958. (**SCI, Q1, IF=7.5 中科院一区TOP**)
 2. Wang, T., Chen, G.#, Gao, P., Zhang, S., & **<u>Song, L.</u>** (2026). Real-time Bus Arrival Information Service: Optimal Dissemination Value Considering Non-travel Activities. Travel Behaviour and Society, 43, 101179. (**SCI, Q1, IF=5.7 中科院一区TOP**)
 3. Zhang, T.，Zhang, X., Yang, Z., Chen, Y., **<u>Song, L.</u>**, Zhang, W. (2026). Automated pothole detection and volume assessment using PointPSSN and smartphone LiDAR point clouds. <i>Expert Systems With Applications</i>. 298, Part C, 129833. (**SCI, Q1, IF=7.5 中科院一区TOP**)
