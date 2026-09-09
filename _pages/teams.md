@@ -57,6 +57,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<img src="../images/stud/weibin2026.jpg" width="600" class="research_img">
 				<div class="container">444 2026 [<a href="javascript:toggleInfo('master4','details4')">Details</a>]</div>
 				</div>-->
+				TBD4
 			</td>
 			<td>
 				<div class="polaroid">
@@ -110,7 +111,6 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<img src="../images/stud/2026songyulei.jpg" width="600" class="research_img">
 				<div class="container">Yulei Song (宋喻雷) 2026 [<a href="javascript:toggleInfo('master3','details2')">Details</a>]</div>
 				</div>
-				TBD 
 			</td>
 			<td>
 				<div class="polaroid">
