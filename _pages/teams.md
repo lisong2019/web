@@ -31,6 +31,77 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
     </thead>
 	<tbody>
+		<tr id="master4" class="entry">
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/youarewanted.jpg" width="600" class="research_img">
+				<div class="container">We Need You [<a href="javascript:toggleInfo('master4','details1')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<!--<div class="polaroid">
+				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master4','details2')">Details</a>]</div>
+				</div>-->
+				TBD2 
+			</td>
+			<td>
+				<!--<div class="polaroid">
+				<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">
+				<div class="container">Jie Yu (余杰) 2025 [<a href="javascript:toggleInfo('master4','details3')">Details</a>]</div>
+				</div>-->
+				TBD3
+			</td>
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/weibin2026.jpg" width="600" class="research_img">
+				<div class="container">Bin Wei (韦彬) 2026 [<a href="javascript:toggleInfo('master4','details4')">Details</a>]</div>
+				</div>
+			</td>
+			<td>
+				<div class="polaroid">
+				<img src="../images/stud/hemiyuan2016.jpg" width="600" class="research_img"> 
+				<div class="container">Miyuan He (贺咪媛) 2026 [<a href="javascript:toggleInfo('master4','details5')">Details</a>]</div>
+				</div>
+			</td>
+      	</tr>
+		<tr id="c1_master4" class="details1 noshow"> <!-- part Finished********************* -->
+			<td colspan="5"><div align="justify"> <b>团队招生</b>:
+			<li>如若您有以下特点，请联系我们, We Need You! </li>
+			(1) 具有创新突破精神，勤奋进取，致力于攻读博士优先，或者有志于从事工程技术研发及编程类工作<br>
+			(2) 对编程有浓厚的兴趣，对控制算法（目前课题组主攻强化学习方向）、自动驾驶系统、仿真二次开发、大数据分析技术等兴趣浓厚<br>
+			(3) 具有一定的编程基础及经验，或者致力于学习编程技术，数学/编程逻辑思维优秀者优先 <br>
+			<li> 团队能够带来： </li>
+			(1) 融洽的团队氛围，专业前沿技术指导，发放项目工作津贴，研一开展毕设工作 <br>
+			(2) 志向攻博：国内外高校攻博推荐，发表高水平期刊及专利成果，获评国家奖学金的机会 <br>
+			(3) 志向就业：定期就业辅导，参与研发项目攻关，从事编程、数据分析、工程技术类就业方向机会<br>
+			可招收交通及机械方向硕士，每年招收武汉本部5人，襄阳专项1人，请邮件咨询具体名额情况<br>
+			</div></td>
+		</tr>
+		<tr id="c2_master4" class="details2 noshow">
+			<td colspan="5"><div align="justify"> <b> </b>:
+			</div></td>
+		</tr>
+		<tr id="c3_master4" class="details3 noshow">
+			<td colspan="5"><div align="justify"> <b> </b>:
+			</div></td>
+		</tr>
+		<tr id="c4_master4" class="details4 noshow">
+			<td colspan="5"><div align="justify">  <b>韦彬 2026级硕士</b>:
+			<li>2024-2025专利申请2项</li>
+			<li>2025 软著申请1项</li>
+			<li>2024 中国大学生计算机设计大赛省二等奖</li>
+			</div></td>
+		</tr>
+		<tr id="c5_master4" class="details5 noshow">
+			<td colspan="5"><div align="justify"> <b>贺咪媛 2026级硕士</b>:
+			<li>2026 长沙理工大学本科优秀毕业生、校三好学生、优秀学生干部</li>
+			<li>2025 发明专利申请1项</li>
+			<li>2025 “挑战杯”全国大学生课外学术科技竞赛校一等奖</li>
+			<li>2024 正大杯第十四届全国大学生市场调查与分析大赛省级二等奖</li>
+			</div></td>
+		</tr>
+		<!-- Item Finished**************the next line********************* -->
 		<tr id="master3" class="entry">
 			<td>
 				<div class="polaroid">
