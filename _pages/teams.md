@@ -107,7 +107,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			</td>
 			<td>
 				<div class="polaroid">
-				<!--<img src="../images/stud/2025yujie.jpg" width="600" class="research_img">-->
+				<img src="../images/stud/2026songyulei.jpg" width="600" class="research_img">
 				<div class="container">Yulei Song (宋喻雷) 2026 [<a href="javascript:toggleInfo('master3','details2')">Details</a>]</div>
 				</div>
 				TBD 
@@ -143,6 +143,9 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c2_master3" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>宋喻雷 2026级硕士</b>:
+			<li>2024-2025学年校三等奖学金</li>
+			<li>2023-2024学年校三等奖学金</li>
+			<li>2022-2023学年校先进个人</li>
 			</div></td>
 		</tr>
 		<tr id="c3_master3" class="details3 noshow">
