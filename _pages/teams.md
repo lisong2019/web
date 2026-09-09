@@ -117,14 +117,12 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 				<img src="../images/stud/xiezheng2026.jpg" width="600" class="research_img">
 				<div class="container">Zheng Xie (谢政) 2026 [<a href="javascript:toggleInfo('master3','details3')">Details</a>]</div>
 				</div>
-				TBD
 			</td>
 			<td>
 				<div class="polaroid">
 				<img src="../images/stud/hezhifan2026.jpg" width="600" class="research_img">
 				<div class="container">Zhifan He (何知凡) 2026 [<a href="javascript:toggleInfo('master3','details4')">Details</a>]</div>
 				</div>
-				TBD
 			</td>
 			<td>
 				<div class="polaroid">
