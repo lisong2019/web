@@ -8,7 +8,7 @@ author_profile: true
 <div style="text-align: center">
     <img src="../images/STAR_LOGO.png"  alt="STAR Lab" width="30%" height="auto"/>
 </div>
-## For Prospective Students (about 3 positions for main campus and 3 for Xiangyang or Junshan Campus per year 计划本部每年招收4人，襄阳/军山校区每年3人,不包含额外增加名额)
+## For Prospective Students (about 3 positions for main campus and 3 for Xiangyang or Junshan Campus per year 计划本部每年招收3-4人，襄阳校区每年3人,不包含额外增加名额)
 **S**mart **T**ransportation **A**dvanced **R**esearch (STAR) Lab directed by Dr. Li Song in the Department of Transportation Engineering at the Wuhan University of Technology is seeking self-motivated graduate students (for master's degree). Potential research fields include but are not limited to: `1. Intelligent Transportation Systems;` `2. Simulation and Control Methods for CAVs;` `3. Big Data and Safety Analysis.`
 Requirements for graduate students are listed in [**Open Positions**](https://lisong2019.github.io/web/blog-post-4/)<span style="background-color:rgb(176, 224, 230);">申请前需阅读申请要求</span>
 Interested students are encouraged to send his/her resume along with transcripts and proof materials (optional) directly to Dr. Li Song at `lisong1@whut.edu.cn` OR `345536290@qq.com`. 
@@ -76,7 +76,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 			(1) 融洽的团队氛围，专业前沿技术指导，发放项目工作津贴，研一开展毕设工作 <br>
 			(2) 志向攻博：国内外高校攻博推荐，发表高水平期刊及专利成果，获评国家奖学金的机会 <br>
 			(3) 志向就业：定期就业辅导，参与研发项目攻关，从事编程、数据分析、工程技术类就业方向机会<br>
-			可招收交通及机械方向硕士，每年招收武汉本部5人，襄阳专项1人，请邮件咨询具体名额情况<br>
+			可招收交通及机械方向硕士，请邮件咨询具体名额情况<br>
 			</div></td>
 		</tr>
 		<tr id="c2_master4" class="details2 noshow">
