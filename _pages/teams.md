@@ -161,6 +161,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		<tr id="c5_master3" class="details5 noshow">
 			<td colspan="5"><div align="justify"> <b>余杰 2025级硕士</b>:
 			<li>北大核心 1篇（计算机应用与软件2026）；</li>
+			<li><span style="background-color:rgb(176, 224, 230);">2026 研究生国家奖学金</span></li>
 			<li>2025 软著申请5项、申请发明1项（2025）</li>	
 			<li>2025  武汉理工大学本科优秀毕设、优秀毕业生、省公路协会优秀毕设 </li>	
 			<li>中国研究生数学建模竞赛全国二等奖(2025) </li>
@@ -274,7 +275,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
       	</tr>
 		<tr id="c1_master1" class="details1 noshow"> <!-- part Finished********************* -->
 			<td colspan="5"><div align="justify"> <b>林毅轩 2024级硕士</b>: 		
-			<li>2025 论文发表：Q1 SCI 2篇 （ESWA2025，ESWA2026）； Q2 SCI 2篇（IP2025, IJICSP2025）；中文1篇（交通科技与经济2026）</li>
+			<li>2025 论文发表：Q1 SCI 2篇 （ESWA2025，ESWA2026）； Q2 SCI 4篇（IP2025, IJICSP2025, JITS2026, APIN2026）；中文1篇（交通科技与经济2026）</li>
 			<li><span style="background-color:rgb(176, 224, 230);">2025 研究生国家奖学金</span></li>
 			<li>2024 发明专利申请3项、软著申请8项</li>
 			<li>2025校三好研究生标兵、2024 武汉理工大学本科优秀毕设、优秀毕业生、省公路协会优秀毕设</li>
@@ -284,7 +285,7 @@ Please feel free to refer to his [**Chinese webpage**](https://stle.whut.edu.cn/
 		</tr>
 		<tr id="c2_master1" class="details2 noshow">
 			<td colspan="5"><div align="justify"> <b>聂可 2024级硕士</b>:
-			<li>2025 论文发表：北大核心 1篇 （交通信息与安全2025）</li>
+			<li>2025 论文发表：Q2 SCI 1篇(JITS 2026); 北大核心 1篇 （交通信息与安全2025）</li>
 			<li>2025 发明专利申请1项、软著申请6项</li>
 			<li>2024 武汉理工大学本科优秀毕业生、校三好学生</li>
 			<li>中国研究生数学建模竞赛全国二等奖(2025) </li>
@@ -329,6 +330,7 @@ Also see: [**Graduated Postgraduate Students**](https://lisong2019.github.io/web
 
 ---
 ## Student  Awards（selected）:
+2026 研究生国家奖学金，余杰<br>
 2025 研究生国家奖学金，林毅轩<br>
 2025 研究生国家奖学金，李士杰<br>
 
